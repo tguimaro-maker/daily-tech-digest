@@ -1,12 +1,12 @@
 {
   "date": "2026-06-08",
-  "generated_at": "2026-06-08T14:04:47Z",
-  "total": 35,
+  "generated_at": "2026-06-08T14:07:27Z",
+  "total": 37,
   "items": [
     {
       "id": "80e63172",
       "title": "Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code",
-      "summary": "O lançamento de Intuned permite que os usuários criem e executem automações de navegador como código.",
+      "summary": "Intuned (YC S22) é lançado, permitindo que os usuários construam e executem automações de navegador de forma confiável.",
       "url": "https://intunedhq.com",
       "source": "Hacker News",
       "category": "Tech",
@@ -16,7 +16,7 @@
     {
       "id": "3184f86a",
       "title": "Building AI Agents That Actually Work: Lessons from Jason Lemkin, Jeanne DeWitt Grosser (Vercel), Amelia Lerutte & Amjad Masad (Replit)",
-      "summary": "O artigo de SaaStr discute como construir agentes de IA que funcionam.",
+      "summary": "Um artigo da SaaStr aborda como construir agentes de IA que funcionam eficientemente, com lições de Jason Lemkin, Jeanne DeWitt Grosser e outros.",
       "url": "https://www.saastr.com/building-ai-agents-that-actually-work-lessons-from-jason-lemkin-jeanne-dewitt-grosser-vercel-amelia-lerutte-amjad-masad-replit/",
       "source": "SaaStr",
       "category": "IA",
@@ -24,24 +24,24 @@
       "published_at": "2026-06-08"
     },
     {
+      "id": "c9a5356d",
+      "title": "🧠 Community Wisdom: Bootstrapping vs. raising funding, building the roadmap of your vibe-coded app, AI agents and data integrity, your first project as an APM, and more",
+      "summary": "Um artigo da Lenny's Newsletter aborda várias questões relacionadas à construção de aplicativos, incluindo a integridade de dados e agentes de IA.",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-bootstrapping-vs",
+      "source": "Lenny's Newsletter",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-06"
+    },
+    {
       "id": "70dd5e3a",
       "title": "Three Quotes in Seconds, Inside the Pricing Rules: How Nue Built Deterministic AI Into Salesforce-Native CPQ",
-      "summary": "O artigo de SaaStr discute três citações em segundos, dentro das regras de preço: como construir inteligência artificial determinística em CPQ nativo do Salesforce.",
+      "summary": "Um artigo da SaaStr discute como a Nue construiu uma inteligência artificial determinística para o Salesforce.",
       "url": "https://www.saastr.com/three-quotes-in-seconds-inside-the-pricing-rules-how-nue-built-deterministic-ai-into-salesforce-native-cpq/",
       "source": "SaaStr",
       "category": "IA",
       "relevance": 5,
       "published_at": "2026-06-08"
-    },
-    {
-      "id": "4a4fe050",
-      "title": "Gemini Omni: Clone yourself with AI in under 15 minutes",
-      "summary": "O aplicativo Gemini Omni permite que as pessoas se clonem com a ajuda da inteligência artificial em menos de 15 minutos.",
-      "url": "https://www.lennysnewsletter.com/p/gemini-omni-clone-yourself-with-ai",
-      "source": "Lenny's Newsletter",
-      "category": "IA",
-      "relevance": 5,
-      "published_at": "2026-06-03"
     },
     {
       "id": "10bf53ee",
@@ -56,7 +56,7 @@
     {
       "id": "a3524322",
       "title": "Predicting AI job exposure",
-      "summary": "O artigo de Ben Evans discute a exposição de empregos devido à inteligência artificial.",
+      "summary": "Um estudo prevê que a exposição de empregos à inteligência artificial será cada vez maior.",
       "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
       "source": "Ben Evans",
       "category": "IA",
@@ -64,19 +64,39 @@
       "published_at": "2026-05-24"
     },
     {
+      "id": "20196337",
+      "title": "Shopping with Claude: How to find quality brands, automate returns, and buy things that last 100 years | Nicole Ruiz",
+      "summary": "O Shopping com Claude é apresentado, permitindo que os usuários encontrem marcas de qualidade, automatizem devoluções e comprem produtos que duram 100 anos.",
+      "url": "https://www.lennysnewsletter.com/p/shopping-with-claude",
+      "source": "Lenny's Newsletter",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-08"
+    },
+    {
       "id": "d2774b8b",
       "title": "AI Has Broken Hiring. Here’s How to Fix It.",
-      "summary": "O artigo do Harvard Business Review discute como resolver os problemas de contratação devido à inteligência artificial.",
+      "summary": "Um artigo da Harvard Business Review aborda como a IA está quebrando a contratação e como resolver esse problema.",
       "url": "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
       "source": "Harvard Business Review",
-      "category": "IA",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "db255a26",
+      "title": "Prototyping gamified e-commerce apps [Live Demo]",
+      "summary": "Um protótipo de aplicativo de comércio eletrônico gamificado é apresentado em um live demo.",
+      "url": "https://bit.ly/side-pie4",
+      "source": "Sidebar",
+      "category": "Design",
       "relevance": 4,
       "published_at": "2026-06-08"
     },
     {
       "id": "838aa644",
       "title": "How To Make Your Design System AI-Ready",
-      "summary": "O artigo do Smashing Magazine discute como tornar um sistema de design pronto para a inteligência artificial.",
+      "summary": "Um artigo da Smashing Magazine aborda como tornar um sistema de design pronto para a IA.",
       "url": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
       "source": "Smashing Magazine",
       "category": "Design",
@@ -86,7 +106,7 @@
     {
       "id": "d7be0f04",
       "title": "How will OpenAI compete?",
-      "summary": "O artigo de Ben Evans discute como a OpenAI competirá.",
+      "summary": "Ben Evans discute como a OpenAI competirá no mercado.",
       "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
       "source": "Ben Evans",
       "category": "IA",
@@ -96,7 +116,7 @@
     {
       "id": "b07b2936",
       "title": "Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell",
-      "summary": "O artigo de Tony Fadell discute como construir gosto, julgamento e criatividade na era da inteligência artificial.",
+      "summary": "Tony Fadell, criador do iPod e iPhone, discute como construir gosto, julgamento e criatividade na era da IA.",
       "url": "https://www.lennysnewsletter.com/p/father-of-the-ipod-and-iphone-on",
       "source": "Lenny's Newsletter",
       "category": "Design",
@@ -106,7 +126,7 @@
     {
       "id": "7bebfe5d",
       "title": "Dear SaaStr: What’s Really Changed in GTM in 2026?",
-      "summary": "O artigo de SaaStr discute o que mudou no GTM em 2026.",
+      "summary": "Um artigo da SaaStr discute o que mudou no GTM em 2026.",
       "url": "https://www.saastr.com/dear-saastr-whats-really-changed-in-gtm-in-2026/",
       "source": "SaaStr",
       "category": "Negócios",
@@ -116,7 +136,7 @@
     {
       "id": "b070e5b7",
       "title": "Uber, Wayve and Waymo are headed towards a robotaxi showdown in London",
-      "summary": "As empresas Uber, Wayve e Waymo estão se preparando para uma competição de robotáxi em Londres.",
+      "summary": "Uber, Wayve e Waymo estão se preparando para um show de robôs de táxi em Londres.",
       "url": "https://techcrunch.com/2026/06/08/uber-wayve-and-waymo-are-headed-towards-a-robotaxi-showdown-in-london/",
       "source": "TechCrunch",
       "category": "Negócios",
@@ -126,7 +146,7 @@
     {
       "id": "6ee71ea3",
       "title": "AI, networks and Mechanical Turks",
-      "summary": "O artigo de Ben Evans discute a inteligência artificial, redes e Mechanical Turks.",
+      "summary": "Ben Evans discute como a IA, redes e turcos mecânicos estão relacionados.",
       "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
       "source": "Ben Evans",
       "category": "IA",
@@ -136,7 +156,7 @@
     {
       "id": "c70428d2",
       "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
-      "summary": "O artigo do MIT Technology Review discute a \"hacking\" de inteligência artificial além do mito e o impacto das chatbots na mente humana.",
+      "summary": "O Download da MIT Technology Review aborda como a IA está sendo usada para 'hacking' e como os chatbots estão afetando nossos cérebros.",
       "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
       "source": "MIT Technology Review",
       "category": "IA",
@@ -144,19 +164,19 @@
       "published_at": "2026-06-05"
     },
     {
-      "id": "c9a5356d",
-      "title": "🧠 Community Wisdom: Bootstrapping vs. raising funding, building the roadmap of your vibe-coded app, AI agents and data integrity, your first project as an APM, and more",
-      "summary": "O artigo do Lenny's Newsletter discute a sabedoria da comunidade sobre bootstrapping, financiamento, agentes de IA e integridade de dados.",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-bootstrapping-vs",
-      "source": "Lenny's Newsletter",
-      "category": "Negócios",
+      "id": "187bbb37",
+      "title": "Beyond the prompt: Claude Code",
+      "summary": "Um artigo da Sidebar aborda como o Claude Code pode ser usado para criar conteúdo de forma mais eficiente.",
+      "url": "https://arps18.github.io/posts/claude-code-mastery/",
+      "source": "Sidebar",
+      "category": "Design",
       "relevance": 4,
-      "published_at": "2026-06-06"
+      "published_at": "2026-06-08"
     },
     {
       "id": "4fa6a722",
       "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
-      "summary": "O artigo do Smashing Magazine discute como criar sistemas de cores auto-corrigíveis com `contrast-color()`.",
+      "summary": "Um artigo da Smashing Magazine aborda como criar sistemas de cores auto-corrigíveis com a função `contrast-color()`.",
       "url": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
       "source": "Smashing Magazine",
       "category": "Design",
@@ -166,7 +186,7 @@
     {
       "id": "709fd44a",
       "title": "Uber tells London to get ready for robotaxis",
-      "summary": "A Uber está preparando Londres para robotáxis.",
+      "summary": "Uber está se preparando para lançar robôs de táxi em Londres.",
       "url": "https://www.theverge.com/transportation/945614/uber-wayve-robotaxi-interest-list-launch-london",
       "source": "The Verge",
       "category": "Negócios",
@@ -174,9 +194,19 @@
       "published_at": "2026-06-08"
     },
     {
+      "id": "f7eb4109",
+      "title": "Is this the dawn of the Tokenpocalypse?",
+      "summary": "Um artigo da TechCrunch aborda se a OpenAI está preparada para uma 'apocalipse de tokens'.",
+      "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+      "source": "TechCrunch",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-07"
+    },
+    {
       "id": "34502087",
       "title": "AI metrics",
-      "summary": "O artigo de Ben Evans discute métricas de inteligência artificial.",
+      "summary": "Ben Evans discute métricas de inteligência artificial.",
       "url": "https://www.ben-evans.com/benedictevans/2025/6/9/generative-ais-metrics-question",
       "source": "Ben Evans",
       "category": "IA",
@@ -186,7 +216,7 @@
     {
       "id": "ce094dbd",
       "title": "Are AI chatbots making us lose control of our brains?",
-      "summary": "O artigo do MIT Technology Review discute se as chatbots de IA estão fazendo com que as pessoas percam o controle de suas mentes.",
+      "summary": "Um artigo da MIT Technology Review aborda se os chatbots de IA estão fazendo com que as pessoas percam o controle de seus cérebros.",
       "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
       "source": "MIT Technology Review",
       "category": "IA",
@@ -194,9 +224,19 @@
       "published_at": "2026-06-05"
     },
     {
+      "id": "4a4fe050",
+      "title": "Gemini Omni: Clone yourself with AI in under 15 minutes",
+      "summary": "Um aplicativo chamado Gemini Omni permite que os usuários se clonem com a ajuda da IA em menos de 15 minutos.",
+      "url": "https://www.lennysnewsletter.com/p/gemini-omni-clone-yourself-with-ai",
+      "source": "Lenny's Newsletter",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-03"
+    },
+    {
       "id": "940867b0",
       "title": "Top 10 Takeaways from The Agents #006: The Numbers Behind Our Full Go-To-Market Agent Stack",
-      "summary": "O artigo de SaaStr discute as 10 principais lições do agente #006: os números por trás da pilha de agente de GTM completo.",
+      "summary": "Um artigo da SaaStr discute os principais pontos de um artigo sobre agentes de GTM.",
       "url": "https://www.saastr.com/top-10-takeaways-from-the-agents-006-the-numbers-behind-our-full-go-to-market-agent-stack/",
       "source": "SaaStr",
       "category": "Negócios",
@@ -204,39 +244,9 @@
       "published_at": "2026-06-07"
     },
     {
-      "id": "b9fd6068",
-      "title": "The Virtual OS Museum",
-      "summary": "O Virtual OS Museum é uma coleção de sistemas operacionais virtuais.",
-      "url": "https://www.producthunt.com/products/the-virtual-os-museum",
-      "source": "Product Hunt",
-      "category": "Design",
-      "relevance": 3,
-      "published_at": "2026-06-08"
-    },
-    {
-      "id": "3a2c1e95",
-      "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
-      "summary": "O artigo do MIT Technology Review discute a bola da Copa do Mundo e a \"superaplicação\" da OpenAI.",
-      "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
-      "source": "MIT Technology Review",
-      "category": "Tech",
-      "relevance": 3,
-      "published_at": "2026-06-08"
-    },
-    {
-      "id": "db255a26",
-      "title": "Prototyping gamified e-commerce apps [Live Demo]",
-      "summary": "O protótipo de aplicativos de comércio eletrônico gamificados está disponível para visualização.",
-      "url": "https://bit.ly/side-pie4",
-      "source": "Sidebar",
-      "category": "Design",
-      "relevance": 3,
-      "published_at": "2026-06-08"
-    },
-    {
       "id": "8c53d508",
       "title": "Claude Artifact Player",
-      "summary": "O Artifact Player da Claude está disponível para visualização.",
+      "summary": "O Artifact Player do Claude é apresentado, permitindo que os usuários ouçam conteúdo de forma mais eficiente.",
       "url": "https://www.producthunt.com/products/claude-artifact-player",
       "source": "Product Hunt",
       "category": "Design",
@@ -244,9 +254,39 @@
       "published_at": "2026-06-07"
     },
     {
+      "id": "3a2c1e95",
+      "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
+      "summary": "O Download da MIT Technology Review aborda como a bola da Copa do Mundo voará e como a OpenAI está desenvolvendo uma 'super-aplicação'.",
+      "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
+      "source": "MIT Technology Review",
+      "category": "Tech",
+      "relevance": 3,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "487da14c",
+      "title": "The Butlerian Jihad Has Begun",
+      "summary": "Um usuário do Hacker News discute a possibilidade de uma 'jihad' contra a inteligência artificial.",
+      "url": "https://syndekit.substack.com/p/the-butlerian-jihad-has-begun",
+      "source": "Hacker News",
+      "category": "IA",
+      "relevance": 3,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "4baeb893",
+      "title": "Massachusetts votes to pass new privacy rights bill that bans sale of precise location data",
+      "summary": "Massachusetts aprovou uma nova lei de privacidade que proíbe a venda de dados de localização precisa.",
+      "url": "https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-06-08"
+    },
+    {
       "id": "d23232a7",
       "title": "Why this year’s World Cup ball may not fly as far",
-      "summary": "O artigo do MIT Technology Review discute por que a bola da Copa do Mundo deste ano pode não voar tão longe.",
+      "summary": "Um artigo da MIT Technology Review aborda por que a bola da Copa do Mundo deste ano pode não voar tão longe.",
       "url": "https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/",
       "source": "MIT Technology Review",
       "category": "Tech",
@@ -256,7 +296,7 @@
     {
       "id": "b4fe1410",
       "title": "When competence becomes a liability",
-      "summary": "O artigo do Fast Company discute como a competência pode se tornar um obstáculo.",
+      "summary": "Um artigo da Fast Company aborda como a competência pode se tornar um obstáculo.",
       "url": "https://www.fastcompany.com/91552288/when-comp-etence-becomes-liability",
       "source": "Fast Company",
       "category": "Negócios",
@@ -266,7 +306,7 @@
     {
       "id": "3316fa2e",
       "title": "When Purpose Backfires",
-      "summary": "O artigo do Harvard Business Review discute como o propósito pode falhar.",
+      "summary": "Um artigo da Harvard Business Review aborda como o propósito pode falhar.",
       "url": "https://hbr.org/2026/06/when-purpose-backfires",
       "source": "Harvard Business Review",
       "category": "Negócios",
@@ -276,7 +316,7 @@
     {
       "id": "ee0d766a",
       "title": "A sharp tool can still ruin the cut",
-      "summary": "O artigo do Sidebar discute como um ferramenta afiada pode ainda causar danos.",
+      "summary": "Um artigo da Sidebar aborda como um ferramenta aguçada pode ainda assim causar danos.",
       "url": "https://www.doc.cc/articles/a-sharp-tool-can-still-ruin-the-cut",
       "source": "Sidebar",
       "category": "Design",
@@ -286,7 +326,7 @@
     {
       "id": "f5e9ea9b",
       "title": "Zig by Example",
-      "summary": "O livro 'Zig by Example' está disponível para visualização.",
+      "summary": "Um livro sobre o linguagem de programação Zig é apresentado no Hacker News.",
       "url": "https://github.com/boringcollege/zig-by-example",
       "source": "Hacker News",
       "category": "Tech",
@@ -296,7 +336,7 @@
     {
       "id": "3b14684a",
       "title": "Sigma File Manager",
-      "summary": "O gerenciador de arquivos Sigma está disponível para visualização.",
+      "summary": "Um gerenciador de arquivos chamado Sigma é apresentado no Product Hunt.",
       "url": "https://www.producthunt.com/products/sigma-file-manager",
       "source": "Product Hunt",
       "category": "Design",
@@ -306,7 +346,7 @@
     {
       "id": "6c9013b3",
       "title": "Finding Your New Strategic Center",
-      "summary": "O artigo do Harvard Business Review discute como encontrar um novo centro estratégico.",
+      "summary": "Um artigo da Harvard Business Review aborda como encontrar um novo centro estratégico.",
       "url": "https://hbr.org/2026/06/finding-your-new-strategic-center",
       "source": "Harvard Business Review",
       "category": "Negócios",
@@ -314,19 +354,9 @@
       "published_at": "2026-06-05"
     },
     {
-      "id": "187bbb37",
-      "title": "Beyond the prompt: Claude Code",
-      "summary": "O artigo do Sidebar discute como ir além da solicitação: o código Claude.",
-      "url": "https://arps18.github.io/posts/claude-code-mastery/",
-      "source": "Sidebar",
-      "category": "Design",
-      "relevance": 3,
-      "published_at": "2026-06-08"
-    },
-    {
       "id": "dbc1ef04",
       "title": "Spanish traders set the standard forGnuCash database design",
-      "summary": "Os comerciantes espanhóis estabeleceram o padrão para o design do banco de dados do GnuCash.",
+      "summary": "Um usuário do Hacker News discute a design de banco de dados da GnuCash.",
       "url": "https://handson.money/blog/2026-06-06-horse-arse-and-design/",
       "source": "Hacker News",
       "category": "Tech",
@@ -334,24 +364,14 @@
       "published_at": "2026-06-08"
     },
     {
-      "id": "73a294fb",
-      "title": "Smmall Cloud for iOS",
-      "summary": "O aplicativo de nuvem Smmall está disponível para visualização.",
-      "url": "https://www.producthunt.com/products/smmall-cloud",
+      "id": "40581d9e",
+      "title": "Job Postings API",
+      "summary": "Um API de postagens de emprego é apresentado no Product Hunt.",
+      "url": "https://www.producthunt.com/products/free-job-postings-api",
       "source": "Product Hunt",
       "category": "Design",
       "relevance": 3,
-      "published_at": "2026-06-04"
-    },
-    {
-      "id": "a4a3ac1d",
-      "title": "How to watch Apple’s WWDC26 event and keynote today in time zones around the world",
-      "summary": "O artigo do Fast Company discute como assistir ao evento WWDC26 da Apple e à keynote em diferentes fusos horários.",
-      "url": "https://www.fastcompany.com/91555398/apple-wwdc-2026-live-stream-today-time-zones-keynotes-how-to-watch",
-      "source": "Fast Company",
-      "category": "Tech",
-      "relevance": 3,
-      "published_at": "2026-06-08"
+      "published_at": "2026-06-06"
     }
   ]
 }
