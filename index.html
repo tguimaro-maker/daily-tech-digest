@@ -25,6 +25,17 @@
       --b: 1.5px solid var(--ink);
     }
 
+    html[data-theme="dark"] {
+      --bg: #070707;
+      --panel: #101010;
+      --panel2: #181816;
+      --ink: #ecece4;
+      --muted: #8b8b80;
+      --line: #ecece4;
+      --hair: rgba(236,236,228,.14);
+      --accent: #ff6a30;
+    }
+
     html { scroll-behavior: smooth; }
 
     body {
@@ -91,6 +102,7 @@
 
     nav.top { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
     .nav-link {
+      font-family: var(--mono); color: var(--ink); cursor: pointer;
       font-size: 10.5px; letter-spacing: .1em; text-transform: uppercase;
       padding: 8px 12px; border: var(--b); background: var(--panel2);
       transition: background .12s, color .12s;
@@ -278,6 +290,7 @@
       <div class="brand-name"><b>DAILY//DIGEST</b><br><span>curadoria por IA</span></div>
     </div>
     <nav class="top">
+      <button class="nav-link" id="theme-toggle" onclick="toggleTheme()" aria-label="Alternar tema">◐ <span id="theme-label">Dark</span></button>
       <a class="nav-link" href="#grid">↓ Notícias</a>
       <a class="nav-link" href="https://github.com/tguimaro-maker/daily-tech-digest" target="_blank" rel="noopener">:: Repositório</a>
       <a class="nav-link accent" href="#sources">Fontes</a>
@@ -538,6 +551,26 @@
     const today = new Date().toISOString().split('T')[0];
     await loadNews(recent.length ? recent[0] : today);
   }
+
+  function applyTheme(theme) {
+    document.documentElement.setAttribute('data-theme', theme);
+    const label = document.getElementById('theme-label');
+    if (label) label.textContent = theme === 'dark' ? 'Light' : 'Dark';
+    try { localStorage.setItem('dd-theme', theme); } catch (_) {}
+  }
+
+  function toggleTheme() {
+    const cur = document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
+    applyTheme(cur === 'dark' ? 'light' : 'dark');
+  }
+
+  // Tema inicial: preferência salva > preferência do SO > claro
+  (function initTheme() {
+    let saved = null;
+    try { saved = localStorage.getItem('dd-theme'); } catch (_) {}
+    const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+    applyTheme(saved || (prefersDark ? 'dark' : 'light'));
+  })();
 
   loadIndex();
 </script>
