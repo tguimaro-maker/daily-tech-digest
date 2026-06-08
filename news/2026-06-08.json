@@ -1,12 +1,12 @@
 {
   "date": "2026-06-08",
-  "generated_at": "2026-06-08T13:43:56Z",
+  "generated_at": "2026-06-08T13:46:43Z",
   "total": 40,
   "items": [
     {
       "id": "709fd44a",
       "title": "Uber tells London to get ready for robotaxis",
-      "summary": "A Uber está preparando para lançar táxis robóticos em Londres.",
+      "summary": "A Uber está preparando para lançar robótaxis em Londres.",
       "url": "https://www.theverge.com/transportation/945614/uber-wayve-robotaxi-interest-list-launch-london",
       "source": "The Verge",
       "category": "Tech",
@@ -16,7 +16,7 @@
     {
       "id": "4baeb893",
       "title": "Massachusetts votes to pass new privacy rights bill that bans sale of precise location data",
-      "summary": "Massachusetts aprovou uma lei que proíbe a venda de dados de localização precisa.",
+      "summary": "Massachusetts aprova lei de privacidade que proíbe a venda de dados de localização precisa.",
       "url": "https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/",
       "source": "TechCrunch",
       "category": "Negócios",
@@ -26,7 +26,7 @@
     {
       "id": "3a2c1e95",
       "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
-      "summary": "O Download: como a bola da Copa do Mundo voará e a OpenAI lança uma 'super app'.",
+      "summary": "A bola da Copa do Mundo pode não voar tão longe quanto antes e OpenAI está trabalhando em uma 'super app'.",
       "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
       "source": "MIT Technology Review",
       "category": "Tech",
@@ -36,7 +36,7 @@
     {
       "id": "d2774b8b",
       "title": "AI Has Broken Hiring. Here’s How to Fix It.",
-      "summary": "Como reparar o processo de contratação devido à inteligência artificial.",
+      "summary": "Como resolver o problema de contratação de IA.",
       "url": "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
       "source": "Harvard Business Review",
       "category": "Negócios",
@@ -46,7 +46,7 @@
     {
       "id": "838aa644",
       "title": "How To Make Your Design System AI-Ready",
-      "summary": "Como tornar seu sistema de design pronto para inteligência artificial.",
+      "summary": "Como tornar um sistema de design pronto para IA.",
       "url": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
       "source": "Smashing Magazine",
       "category": "Design",
@@ -66,7 +66,7 @@
     {
       "id": "b070e5b7",
       "title": "Uber, Wayve and Waymo are headed towards a robotaxi showdown in London",
-      "summary": "Uma corrida de táxis robóticos entre Uber, Wayve e Waymo em Londres.",
+      "summary": "Uber, Wayve e Waymo se preparam para um confronto de robótaxis em Londres.",
       "url": "https://techcrunch.com/2026/06/08/uber-wayve-and-waymo-are-headed-towards-a-robotaxi-showdown-in-london/",
       "source": "TechCrunch",
       "category": "Tech",
@@ -76,7 +76,7 @@
     {
       "id": "f2a54317",
       "title": "NASA will wear high-tech Prada long johns to the Moon",
-      "summary": "A NASA usará calças de Prada de alta tecnologia para ir à Lua.",
+      "summary": "A NASA usará calças de inverno Prada de alta tecnologia para ir à Lua.",
       "url": "https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis",
       "source": "The Verge",
       "category": "Tech",
@@ -86,7 +86,7 @@
     {
       "id": "85180d33",
       "title": "Nvidia partners with LG robotics to build humanoid robots in South Korea",
-      "summary": "A Nvidia se junta à LG para criar robôs humanoides na Coreia do Sul.",
+      "summary": "A Nvidia está trabalhando com a LG para criar robôs humanoides na Coreia do Sul.",
       "url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
       "source": "Hacker News",
       "category": "Tech",
@@ -96,7 +96,7 @@
     {
       "id": "f7eb4109",
       "title": "Is this the dawn of the Tokenpocalypse?",
-      "summary": "É o início do 'tokenpocalipse'?",
+      "summary": "É o início da 'Tokenpocalypse'?",
       "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
       "source": "TechCrunch",
       "category": "Tech",
@@ -106,7 +106,7 @@
     {
       "id": "c70428d2",
       "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
-      "summary": "O Download: hacking de inteligência artificial além de Mythos, e o impacto de chatbots na nossa mente.",
+      "summary": "A hacking de IA além do mito e o impacto das chatbots na nossa mente.",
       "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
       "source": "MIT Technology Review",
       "category": "Tech",
@@ -116,7 +116,7 @@
     {
       "id": "a4a3ac1d",
       "title": "How to watch Apple’s WWDC26 event and keynote today in time zones around the world",
-      "summary": "Como assistir ao evento WWDC 26 da Apple e à keynote em diferentes fuso horários.",
+      "summary": "Como assistir ao evento WWDC26 e à keynote de Apple hoje em diferentes fuso horários.",
       "url": "https://www.fastcompany.com/91555398/apple-wwdc-2026-live-stream-today-time-zones-keynotes-how-to-watch",
       "source": "Fast Company",
       "category": "Tech",
@@ -126,7 +126,7 @@
     {
       "id": "4fa6a722",
       "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
-      "summary": "Engrenagens de temática algorítmica: construindo sistemas de cores autocorretíveis com `contrast-color()`.",
+      "summary": "Engines de theming algorítmicos: construir sistemas de cores auto-corrigíveis com `contrast-color()`.",
       "url": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
       "source": "Smashing Magazine",
       "category": "Design",
@@ -136,7 +136,7 @@
     {
       "id": "da6c1ef2",
       "title": "The 7 biggest storylines from Summer Game Fest 2026",
-      "summary": "As 7 maiores histórias do Summer Game Fest 2026.",
+      "summary": "As 7 principais histórias do Summer Game Fest 2026.",
       "url": "https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories",
       "source": "The Verge",
       "category": "Tech",
@@ -144,19 +144,9 @@
       "published_at": "2026-06-07"
     },
     {
-      "id": "0569452e",
-      "title": "Notion restores access to Anthropic after service disruption",
-      "summary": "A Notion restaura o acesso à Anthropic após interrupção de serviço.",
-      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
-      "source": "TechCrunch",
-      "category": "Tech",
-      "relevance": 5,
-      "published_at": "2026-06-07"
-    },
-    {
       "id": "ce094dbd",
       "title": "Are AI chatbots making us lose control of our brains?",
-      "summary": "As chatbots de inteligência artificial estão fazendo com que percam o controle da nossa mente?",
+      "summary": "As chatbots de IA estão fazendo com que percam o controle da nossa mente?",
       "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
       "source": "MIT Technology Review",
       "category": "IA",
@@ -166,7 +156,7 @@
     {
       "id": "5ba96595",
       "title": "The leadership crisis nobody is talking about: why your high performers might be your most vulnerable employees",
-      "summary": "O crise de liderança que ninguém está discutindo: por que seus funcionários de alto desempenho podem ser os mais vulneráveis.",
+      "summary": "O crise de liderança que ninguém está discutindo: por que seus funcionários mais produtivos podem ser os mais vulneráveis.",
       "url": "https://www.fastcompany.com/91542467/the-leadership-crisis-nobody-is-talking-about-when-high-performers-lose-themselves-in-the-job-leadership-burnout-performance",
       "source": "Fast Company",
       "category": "Negócios",
@@ -176,7 +166,7 @@
     {
       "id": "559babaf",
       "title": "AI Is Rewriting the Economics of Outsourcing",
-      "summary": "A inteligência artificial está reescrevendo a economia do outsourcing.",
+      "summary": "A IA está reescrevendo a economia do outsourcing.",
       "url": "https://hbr.org/2026/06/ai-is-rewriting-the-economics-of-outsourcing",
       "source": "Harvard Business Review",
       "category": "Negócios",
@@ -192,16 +182,6 @@
       "category": "Design",
       "relevance": 5,
       "published_at": "2026-05-25"
-    },
-    {
-      "id": "d8e0fbe2",
-      "title": "Persona 6 exists, and that’s all we know",
-      "summary": "A Persona 6 existe, e é tudo o que sabemos.",
-      "url": "https://www.theverge.com/entertainment/945256/persona-6-teaser",
-      "source": "The Verge",
-      "category": "Tech",
-      "relevance": 5,
-      "published_at": "2026-06-07"
     },
     {
       "id": "d5fc34fb",
@@ -226,7 +206,7 @@
     {
       "id": "4f43eadb",
       "title": "The Meta hack shows there’s more to AI security than Mythos",
-      "summary": "O hack da Meta mostra que há mais a ser feito em segurança de inteligência artificial.",
+      "summary": "O hack da Meta mostra que há mais a ser feito em segurança de IA do que Mythos.",
       "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
       "source": "MIT Technology Review",
       "category": "IA",
@@ -236,7 +216,7 @@
     {
       "id": "f5e9ea9b",
       "title": "Zig by Example",
-      "summary": "Um guia de exemplo para aprender Zig.",
+      "summary": "Um guia de exemplo para aprender o Zig.",
       "url": "https://github.com/boringcollege/zig-by-example",
       "source": "Hacker News",
       "category": "Open Source",
@@ -256,7 +236,7 @@
     {
       "id": "1ed01fa1",
       "title": "From Moomin to Heartstopper: How comics have told real queer stories since the 1940s",
-      "summary": "Como os quadrinhos contaram histórias reais sobre a comunidade LGBTQ+ desde os anos 1940.",
+      "summary": "Como os quadrinhos contam histórias reais de pessoas queer desde os anos 40.",
       "url": "https://www.itsnicethat.com/features/queer-as-comics-illustration-spotlight-080626",
       "source": "It's Nice That",
       "category": "Design",
@@ -276,7 +256,7 @@
     {
       "id": "dbc1ef04",
       "title": "Spanish traders set the standard forGnuCash database design",
-      "summary": "Como os comerciantes espanhóis estabeleceram o padrão de design de banco de dados do GnuCash.",
+      "summary": "Traders espanhóis estabelecem padrão para design de banco de dados do GnuCash.",
       "url": "https://handson.money/blog/2026-06-06-horse-arse-and-design/",
       "source": "Hacker News",
       "category": "Open Source",
@@ -296,7 +276,7 @@
     {
       "id": "eba03428",
       "title": "The $4 billion coffee pod business faces its biggest threat yet",
-      "summary": "A indústria de capsules de café enfrenta seu maior desafio.",
+      "summary": "O negócio de café em pó de 4 bilhões de dólares enfrenta seu maior desafio.",
       "url": "https://www.fastcompany.com/91554933/the-4-billion-coffee-pod-business-just-got-its-biggest-threat-yet",
       "source": "Fast Company",
       "category": "Negócios",
@@ -316,7 +296,7 @@
     {
       "id": "95be55cb",
       "title": "A24 creative director Liam Hamill embraces brainrot with his monthly music venue posters",
-      "summary": "Um diretor criativo da A24 abraça a 'rotura cerebral' com seus cartazes de música mensais.",
+      "summary": "Criador da A24 abraça a 'rotura cerebral' com seus cartazes de música mensais.",
       "url": "https://www.itsnicethat.com/articles/liam-hamill-babys-all-right-graphic-design-project-080626",
       "source": "It's Nice That",
       "category": "Design",
@@ -346,7 +326,7 @@
     {
       "id": "6c9013b3",
       "title": "Finding Your New Strategic Center",
-      "summary": "Encontrando seu novo centro estratégico.",
+      "summary": "Encontre seu novo centro estratégico.",
       "url": "https://hbr.org/2026/06/finding-your-new-strategic-center",
       "source": "Harvard Business Review",
       "category": "Negócios",
@@ -356,7 +336,7 @@
     {
       "id": "e0403d8e",
       "title": "Meet Nice Groceries, the creatives shaking up the production agency model with the slow craft of analogue film",
-      "summary": "Conheça Nice Groceries, os criativos que estão revolucionando o modelo de agência de produção com o artesanato lento de filme analógico.",
+      "summary": "Conheça Nice Groceries, os criativos que estão revolucionando o modelo de agência de produção com o artesanato lento do filme analógico.",
       "url": "https://www.itsnicethat.com/articles/nice-groceries-film-discover-080626",
       "source": "It's Nice That",
       "category": "Design",
@@ -376,12 +356,22 @@
     {
       "id": "778858dd",
       "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
-      "summary": "Anti-social: é fadista, não amigos, que agora dominam as feeds de mídia social.",
+      "summary": "Anti-social: Fads, não amigos, dominam agora as feeds de mídia social.",
       "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
       "source": "Hacker News",
       "category": "Negócios",
       "relevance": 4,
       "published_at": "2026-06-08"
+    },
+    {
+      "id": "0569452e",
+      "title": "Notion restores access to Anthropic after service disruption",
+      "summary": "A Notion restaurou o acesso à Anthropic após interrupção de serviço.",
+      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-06-07"
     },
     {
       "id": "e9079bbf",
@@ -402,6 +392,16 @@
       "category": "Design",
       "relevance": 4,
       "published_at": "2026-06-08"
+    },
+    {
+      "id": "d8e0fbe2",
+      "title": "Persona 6 exists, and that’s all we know",
+      "summary": "A Persona 6 existe, e isso é tudo o que sabemos.",
+      "url": "https://www.theverge.com/entertainment/945256/persona-6-teaser",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-06-07"
     }
   ]
 }
