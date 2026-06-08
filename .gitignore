@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Env local (nunca commitar a chave)
+.env
+
+# Ferramentas locais (preview/dev)
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

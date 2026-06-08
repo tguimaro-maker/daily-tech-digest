@@ -1,0 +1,69 @@
+[
+  {
+    "name": "The Verge",
+    "url": "https://www.theverge.com",
+    "category": "Tech",
+    "selector": "a._7uluu50._7uluu54",
+    "active": true,
+    "note": "Classes ofuscadas (geradas no build) — podem quebrar a cada deploy do site."
+  },
+  {
+    "name": "Hacker News",
+    "url": "https://news.ycombinator.com",
+    "category": "Tech",
+    "selector": "span.titleline > a",
+    "active": true
+  },
+  {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com",
+    "category": "Tech",
+    "selector": "a.loop-card__title-link",
+    "active": true
+  },
+  {
+    "name": "MIT Technology Review",
+    "url": "https://www.technologyreview.com",
+    "category": "IA",
+    "selector": "a.related__link",
+    "active": false,
+    "note": "Desativado: home renderizada via JS, sem manchetes no HTML estático. Avaliar feed RSS."
+  },
+  {
+    "name": "Fast Company",
+    "url": "https://www.fastcompany.com",
+    "category": "Negócios",
+    "selector": "a.card__headline",
+    "active": false,
+    "note": "Desativado: retorna 403 (anti-bot). httpx simples não passa; precisaria de outra abordagem."
+  },
+  {
+    "name": "Harvard Business Review",
+    "url": "https://hbr.org",
+    "category": "Negócios",
+    "selector": "a.ListBox-module-scss-module__K5DicG__topic-title-link",
+    "active": true,
+    "note": "Classe de CSS-module com hash — pode mudar em rebuilds do site."
+  },
+  {
+    "name": "It's Nice That",
+    "url": "https://www.itsnicethat.com",
+    "category": "Design",
+    "selector": "a.feed-preview__slide",
+    "active": true
+  },
+  {
+    "name": "Sidebar",
+    "url": "https://sidebar.io",
+    "category": "Design",
+    "selector": "a.post-link",
+    "active": true
+  },
+  {
+    "name": "Smashing Magazine",
+    "url": "https://www.smashingmagazine.com",
+    "category": "Design",
+    "selector": "h2.article--post__title a",
+    "active": true
+  }
+]

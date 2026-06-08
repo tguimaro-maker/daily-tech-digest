@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Daily Tech Digest</title>
+  <meta name="description" content="Agregador automatizado de notícias de tecnologia, negócios e design com curadoria por IA." />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #0f1117;
+      --surface: #1a1d27;
+      --surface2: #222533;
+      --border: #2e3147;
+      --text: #e2e4f0;
+      --text-muted: #7b7f99;
+      --accent: #6c63ff;
+      --accent2: #4ecca3;
+      --tag-tech: #3b82f6;
+      --tag-negocios: #f59e0b;
+      --tag-design: #ec4899;
+      --tag-ia: #8b5cf6;
+      --tag-opensource: #10b981;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      line-height: 1.6;
+    }
+
+    a { color: inherit; text-decoration: none; }
+
+    /* ── Header ── */
+    header {
+      border-bottom: 1px solid var(--border);
+      padding: 20px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .logo-icon {
+      width: 36px; height: 36px;
+      background: linear-gradient(135deg, var(--accent), var(--accent2));
+      border-radius: 8px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 18px;
+    }
+
+    .logo-text h1 { font-size: 1.1rem; font-weight: 700; letter-spacing: -0.02em; }
+    .logo-text p { font-size: 0.72rem; color: var(--text-muted); margin-top: 1px; }
+
+    .header-meta {
+      text-align: right;
+      font-size: 0.78rem;
+      color: var(--text-muted);
+    }
+
+    .header-meta strong { color: var(--text); display: block; font-size: 0.85rem; }
+
+    /* ── Filters ── */
+    nav {
+      padding: 16px 24px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .filter-btn {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      padding: 6px 14px;
+      border-radius: 20px;
+      font-size: 0.8rem;
+      cursor: pointer;
+      transition: all 0.15s;
+      font-family: inherit;
+    }
+
+    .filter-btn:hover { border-color: var(--accent); color: var(--text); }
+
+    .filter-btn.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+
+    .count-badge {
+      background: var(--surface2);
+      border-radius: 10px;
+      padding: 2px 7px;
+      font-size: 0.72rem;
+      margin-left: 4px;
+    }
+
+    /* ── Main ── */
+    main {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 28px 24px;
+    }
+
+    /* ── Cards grid ── */
+    #cards-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 16px;
+    }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 18px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      transition: border-color 0.15s, transform 0.15s;
+    }
+
+    .card:hover {
+      border-color: var(--accent);
+      transform: translateY(-2px);
+    }
+
+    .card-meta {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+    }
+
+    .tag {
+      font-size: 0.68rem;
+      font-weight: 600;
+      padding: 3px 9px;
+      border-radius: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+
+    .tag-Tech       { background: rgba(59,130,246,.15); color: #60a5fa; }
+    .tag-Negócios   { background: rgba(245,158,11,.15); color: #fbbf24; }
+    .tag-Design     { background: rgba(236,72,153,.15); color: #f472b6; }
+    .tag-IA         { background: rgba(139,92,246,.15); color: #a78bfa; }
+    .tag-Open\ Source { background: rgba(16,185,129,.15); color: #34d399; }
+
+    .relevance {
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      display: flex;
+      gap: 2px;
+    }
+
+    .star { color: #fbbf24; }
+    .star-empty { color: var(--border); }
+
+    .card-title {
+      font-size: 0.92rem;
+      font-weight: 600;
+      line-height: 1.45;
+      color: var(--text);
+    }
+
+    .card-summary {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      line-height: 1.55;
+      flex: 1;
+    }
+
+    .card-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding-top: 10px;
+      border-top: 1px solid var(--border);
+      margin-top: auto;
+    }
+
+    .card-source {
+      font-size: 0.72rem;
+      color: var(--text-muted);
+    }
+
+    .card-link {
+      font-size: 0.75rem;
+      color: var(--accent);
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      font-weight: 500;
+      transition: color 0.15s;
+    }
+
+    .card-link:hover { color: var(--accent2); }
+
+    /* ── States ── */
+    #state-loading, #state-empty, #state-error {
+      display: none;
+      text-align: center;
+      padding: 60px 24px;
+      color: var(--text-muted);
+    }
+
+    #state-loading.visible,
+    #state-empty.visible,
+    #state-error.visible { display: block; }
+
+    .state-icon { font-size: 3rem; margin-bottom: 16px; }
+    .state-title { font-size: 1.1rem; font-weight: 600; color: var(--text); margin-bottom: 8px; }
+    .state-desc { font-size: 0.85rem; }
+
+    .spinner {
+      width: 36px; height: 36px;
+      border: 3px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin: 0 auto 16px;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── Footer ── */
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 24px;
+      text-align: center;
+    }
+
+    footer p { font-size: 0.78rem; color: var(--text-muted); margin-bottom: 12px; }
+
+    #history-links {
+      display: flex;
+      gap: 8px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .hist-btn {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      padding: 5px 12px;
+      border-radius: 6px;
+      font-size: 0.75rem;
+      cursor: pointer;
+      font-family: inherit;
+      transition: all 0.15s;
+    }
+
+    .hist-btn:hover { border-color: var(--accent); color: var(--text); }
+    .hist-btn.active { border-color: var(--accent2); color: var(--accent2); }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      header { flex-direction: column; align-items: flex-start; }
+      .header-meta { text-align: left; }
+      nav { padding: 12px 16px; }
+      main { padding: 20px 16px; }
+      #cards-container { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="logo">
+    <div class="logo-icon">📰</div>
+    <div class="logo-text">
+      <h1>Daily Tech Digest</h1>
+      <p>Curadoria por IA · Groq + Llama 3.1</p>
+    </div>
+  </div>
+  <div class="header-meta" id="header-meta">
+    <strong id="edition-date">Carregando…</strong>
+    <span id="generated-at"></span>
+  </div>
+</header>
+
+<nav id="filters" aria-label="Filtrar por categoria">
+  <button class="filter-btn active" data-cat="Todos" onclick="setFilter('Todos')">
+    Todos <span class="count-badge" id="count-all">—</span>
+  </button>
+  <button class="filter-btn" data-cat="Tech" onclick="setFilter('Tech')">
+    Tech <span class="count-badge" id="count-tech">—</span>
+  </button>
+  <button class="filter-btn" data-cat="IA" onclick="setFilter('IA')">
+    IA <span class="count-badge" id="count-ia">—</span>
+  </button>
+  <button class="filter-btn" data-cat="Negócios" onclick="setFilter('Negócios')">
+    Negócios <span class="count-badge" id="count-negocios">—</span>
+  </button>
+  <button class="filter-btn" data-cat="Design" onclick="setFilter('Design')">
+    Design <span class="count-badge" id="count-design">—</span>
+  </button>
+  <button class="filter-btn" data-cat="Open Source" onclick="setFilter('Open Source')">
+    Open Source <span class="count-badge" id="count-opensource">—</span>
+  </button>
+</nav>
+
+<main>
+  <div id="state-loading" class="visible">
+    <div class="spinner"></div>
+    <div class="state-title">Carregando notícias…</div>
+  </div>
+
+  <div id="state-empty">
+    <div class="state-icon">😴</div>
+    <div class="state-title">Sem notícias hoje</div>
+    <div class="state-desc">Provavelmente é fim de semana ou feriado. Volte na segunda-feira!</div>
+  </div>
+
+  <div id="state-error">
+    <div class="state-icon">⚠️</div>
+    <div class="state-title">Não foi possível carregar</div>
+    <div class="state-desc" id="error-msg">Tente novamente em alguns instantes.</div>
+  </div>
+
+  <div id="cards-container" role="list" aria-label="Notícias"></div>
+</main>
+
+<footer>
+  <p>Edições anteriores</p>
+  <div id="history-links"></div>
+</footer>
+
+<script>
+  const CATEGORIES = ['Tech', 'IA', 'Negócios', 'Design', 'Open Source'];
+  const COUNT_IDS = {
+    'Tech': 'count-tech',
+    'IA': 'count-ia',
+    'Negócios': 'count-negocios',
+    'Design': 'count-design',
+    'Open Source': 'count-opensource',
+  };
+
+  let allItems = [];
+  let currentFilter = 'Todos';
+  let loadedDate = '';
+
+  function stars(n) {
+    return Array.from({ length: 5 }, (_, i) =>
+      `<span class="${i < n ? 'star' : 'star-empty'}">★</span>`
+    ).join('');
+  }
+
+  function tagClass(cat) {
+    return 'tag tag-' + cat;
+  }
+
+  function renderCards(items) {
+    const container = document.getElementById('cards-container');
+    const empty = document.getElementById('state-empty');
+
+    if (!items.length) {
+      container.innerHTML = '';
+      empty.classList.add('visible');
+      return;
+    }
+
+    empty.classList.remove('visible');
+    container.innerHTML = items.map(item => `
+      <article class="card" role="listitem">
+        <div class="card-meta">
+          <span class="${tagClass(item.category)}">${item.category}</span>
+          <div class="relevance" title="Relevância: ${item.relevance}/5">${stars(item.relevance)}</div>
+        </div>
+        <h2 class="card-title">${escapeHtml(item.title)}</h2>
+        <p class="card-summary">${escapeHtml(item.summary || '')}</p>
+        <div class="card-footer">
+          <span class="card-source">${escapeHtml(item.source)}</span>
+          <a class="card-link" href="${item.url}" target="_blank" rel="noopener noreferrer">
+            Ler artigo ↗
+          </a>
+        </div>
+      </article>
+    `).join('');
+  }
+
+  function updateCounts(items) {
+    document.getElementById('count-all').textContent = items.length;
+    for (const cat of CATEGORIES) {
+      const id = COUNT_IDS[cat];
+      if (id) {
+        document.getElementById(id).textContent = items.filter(i => i.category === cat).length;
+      }
+    }
+  }
+
+  function setFilter(cat) {
+    currentFilter = cat;
+    document.querySelectorAll('.filter-btn').forEach(btn => {
+      btn.classList.toggle('active', btn.dataset.cat === cat);
+    });
+    const filtered = cat === 'Todos' ? allItems : allItems.filter(i => i.category === cat);
+    renderCards(filtered);
+  }
+
+  function escapeHtml(str) {
+    return String(str)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
+  function formatDate(dateStr) {
+    const [y, m, d] = dateStr.split('-').map(Number);
+    return new Date(y, m - 1, d).toLocaleDateString('pt-BR', {
+      weekday: 'long', day: 'numeric', month: 'long', year: 'numeric'
+    });
+  }
+
+  async function loadNews(date) {
+    const loading = document.getElementById('state-loading');
+    const errEl = document.getElementById('state-error');
+    const container = document.getElementById('cards-container');
+
+    loading.classList.add('visible');
+    errEl.classList.remove('visible');
+    container.innerHTML = '';
+
+    const url = `news/${date}.json`;
+    let data;
+    try {
+      const resp = await fetch(url);
+      if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+      data = await resp.json();
+    } catch (e) {
+      loading.classList.remove('visible');
+      if (e.message.includes('404') || e.message.includes('HTTP 404')) {
+        document.getElementById('state-empty').classList.add('visible');
+        document.getElementById('edition-date').textContent = formatDate(date);
+        document.getElementById('generated-at').textContent = 'Sem edição para esta data';
+      } else {
+        errEl.classList.add('visible');
+        document.getElementById('error-msg').textContent = `Não foi possível carregar ${url}: ${e.message}`;
+      }
+      return;
+    }
+
+    loading.classList.remove('visible');
+    loadedDate = date;
+    allItems = data.items || [];
+
+    document.getElementById('edition-date').textContent = formatDate(data.date);
+    document.getElementById('generated-at').textContent =
+      data.generated_at ? `Gerado às ${data.generated_at.replace('T', ' ').replace('Z', ' UTC')}` : '';
+
+    updateCounts(allItems);
+
+    // Update history button styles
+    document.querySelectorAll('.hist-btn').forEach(btn => {
+      btn.classList.toggle('active', btn.dataset.date === date);
+    });
+
+    setFilter(currentFilter);
+  }
+
+  async function loadIndex() {
+    let dates = [];
+    try {
+      const resp = await fetch('news/index.json');
+      if (resp.ok) dates = await resp.json();
+    } catch (_) {}
+
+    const histEl = document.getElementById('history-links');
+    const recent = dates.slice(0, 7);
+
+    if (recent.length) {
+      histEl.innerHTML = recent.map(d => `
+        <button class="hist-btn" data-date="${d}" onclick="loadNews('${d}')">
+          ${d}
+        </button>
+      `).join('');
+    }
+
+    // Load the most recent date or today
+    const today = new Date().toISOString().split('T')[0];
+    const target = recent.length ? recent[0] : today;
+    await loadNews(target);
+  }
+
+  loadIndex();
+</script>
+</body>
+</html>
