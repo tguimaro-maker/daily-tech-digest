@@ -1,6 +1,407 @@
 {
   "date": "2026-06-08",
-  "generated_at": "2026-06-08T13:30:10Z",
-  "total": 0,
-  "items": []
+  "generated_at": "2026-06-08T13:43:56Z",
+  "total": 40,
+  "items": [
+    {
+      "id": "709fd44a",
+      "title": "Uber tells London to get ready for robotaxis",
+      "summary": "A Uber está preparando para lançar táxis robóticos em Londres.",
+      "url": "https://www.theverge.com/transportation/945614/uber-wayve-robotaxi-interest-list-launch-london",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "4baeb893",
+      "title": "Massachusetts votes to pass new privacy rights bill that bans sale of precise location data",
+      "summary": "Massachusetts aprovou uma lei que proíbe a venda de dados de localização precisa.",
+      "url": "https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "3a2c1e95",
+      "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
+      "summary": "O Download: como a bola da Copa do Mundo voará e a OpenAI lança uma 'super app'.",
+      "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
+      "source": "MIT Technology Review",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "d2774b8b",
+      "title": "AI Has Broken Hiring. Here’s How to Fix It.",
+      "summary": "Como reparar o processo de contratação devido à inteligência artificial.",
+      "url": "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "838aa644",
+      "title": "How To Make Your Design System AI-Ready",
+      "summary": "Como tornar seu sistema de design pronto para inteligência artificial.",
+      "url": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-03"
+    },
+    {
+      "id": "ca8bc05e",
+      "title": "WWDC 2026: How to watch and what to expect",
+      "summary": "Como assistir e o que esperar do WWDC 2026.",
+      "url": "https://www.theverge.com/tech/944099/wwdc-2026-how-to-watch",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "b070e5b7",
+      "title": "Uber, Wayve and Waymo are headed towards a robotaxi showdown in London",
+      "summary": "Uma corrida de táxis robóticos entre Uber, Wayve e Waymo em Londres.",
+      "url": "https://techcrunch.com/2026/06/08/uber-wayve-and-waymo-are-headed-towards-a-robotaxi-showdown-in-london/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "f2a54317",
+      "title": "NASA will wear high-tech Prada long johns to the Moon",
+      "summary": "A NASA usará calças de Prada de alta tecnologia para ir à Lua.",
+      "url": "https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-07"
+    },
+    {
+      "id": "85180d33",
+      "title": "Nvidia partners with LG robotics to build humanoid robots in South Korea",
+      "summary": "A Nvidia se junta à LG para criar robôs humanoides na Coreia do Sul.",
+      "url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "f7eb4109",
+      "title": "Is this the dawn of the Tokenpocalypse?",
+      "summary": "É o início do 'tokenpocalipse'?",
+      "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-07"
+    },
+    {
+      "id": "c70428d2",
+      "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+      "summary": "O Download: hacking de inteligência artificial além de Mythos, e o impacto de chatbots na nossa mente.",
+      "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+      "source": "MIT Technology Review",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-05"
+    },
+    {
+      "id": "a4a3ac1d",
+      "title": "How to watch Apple’s WWDC26 event and keynote today in time zones around the world",
+      "summary": "Como assistir ao evento WWDC 26 da Apple e à keynote em diferentes fuso horários.",
+      "url": "https://www.fastcompany.com/91555398/apple-wwdc-2026-live-stream-today-time-zones-keynotes-how-to-watch",
+      "source": "Fast Company",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "4fa6a722",
+      "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
+      "summary": "Engrenagens de temática algorítmica: construindo sistemas de cores autocorretíveis com `contrast-color()`.",
+      "url": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-05-28"
+    },
+    {
+      "id": "da6c1ef2",
+      "title": "The 7 biggest storylines from Summer Game Fest 2026",
+      "summary": "As 7 maiores histórias do Summer Game Fest 2026.",
+      "url": "https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-07"
+    },
+    {
+      "id": "0569452e",
+      "title": "Notion restores access to Anthropic after service disruption",
+      "summary": "A Notion restaura o acesso à Anthropic após interrupção de serviço.",
+      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-07"
+    },
+    {
+      "id": "ce094dbd",
+      "title": "Are AI chatbots making us lose control of our brains?",
+      "summary": "As chatbots de inteligência artificial estão fazendo com que percam o controle da nossa mente?",
+      "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-05"
+    },
+    {
+      "id": "5ba96595",
+      "title": "The leadership crisis nobody is talking about: why your high performers might be your most vulnerable employees",
+      "summary": "O crise de liderança que ninguém está discutindo: por que seus funcionários de alto desempenho podem ser os mais vulneráveis.",
+      "url": "https://www.fastcompany.com/91542467/the-leadership-crisis-nobody-is-talking-about-when-high-performers-lose-themselves-in-the-job-leadership-burnout-performance",
+      "source": "Fast Company",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "559babaf",
+      "title": "AI Is Rewriting the Economics of Outsourcing",
+      "summary": "A inteligência artificial está reescrevendo a economia do outsourcing.",
+      "url": "https://hbr.org/2026/06/ai-is-rewriting-the-economics-of-outsourcing",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-05"
+    },
+    {
+      "id": "c8c452ee",
+      "title": "Your Prototype Is Not Being Honest With Your Users (And Here’s How To Fix It)",
+      "summary": "Seu protótipo não está sendo honesto com os usuários (e aqui está como corrigir isso).",
+      "url": "https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-05-25"
+    },
+    {
+      "id": "d8e0fbe2",
+      "title": "Persona 6 exists, and that’s all we know",
+      "summary": "A Persona 6 existe, e é tudo o que sabemos.",
+      "url": "https://www.theverge.com/entertainment/945256/persona-6-teaser",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-07"
+    },
+    {
+      "id": "d5fc34fb",
+      "title": "Config Files That Run Code: Supply Chain Security Blindspot",
+      "summary": "Arquivos de configuração que executam código: ponto fraco de segurança de cadeia de suprimentos.",
+      "url": "https://safedep.io/config-files-that-run-code/",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "aa4b9c88",
+      "title": "OpenAI is still working on that ‘super app’",
+      "summary": "A OpenAI ainda está trabalhando na 'super app'.",
+      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-07"
+    },
+    {
+      "id": "4f43eadb",
+      "title": "The Meta hack shows there’s more to AI security than Mythos",
+      "summary": "O hack da Meta mostra que há mais a ser feito em segurança de inteligência artificial.",
+      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-05"
+    },
+    {
+      "id": "f5e9ea9b",
+      "title": "Zig by Example",
+      "summary": "Um guia de exemplo para aprender Zig.",
+      "url": "https://github.com/boringcollege/zig-by-example",
+      "source": "Hacker News",
+      "category": "Open Source",
+      "relevance": 4,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "b4fe1410",
+      "title": "When competence becomes a liability",
+      "summary": "Quando a competência se torna um obstáculo.",
+      "url": "https://www.fastcompany.com/91552288/when-comp-etence-becomes-liability",
+      "source": "Fast Company",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "1ed01fa1",
+      "title": "From Moomin to Heartstopper: How comics have told real queer stories since the 1940s",
+      "summary": "Como os quadrinhos contaram histórias reais sobre a comunidade LGBTQ+ desde os anos 1940.",
+      "url": "https://www.itsnicethat.com/features/queer-as-comics-illustration-spotlight-080626",
+      "source": "It's Nice That",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "db255a26",
+      "title": "Prototyping gamified e-commerce apps [Live Demo]",
+      "summary": "Prototipagem de aplicativos de comércio eletrônico gamificados.",
+      "url": "https://bit.ly/side-pie4",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "dbc1ef04",
+      "title": "Spanish traders set the standard forGnuCash database design",
+      "summary": "Como os comerciantes espanhóis estabeleceram o padrão de design de banco de dados do GnuCash.",
+      "url": "https://handson.money/blog/2026-06-06-horse-arse-and-design/",
+      "source": "Hacker News",
+      "category": "Open Source",
+      "relevance": 4,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "d23232a7",
+      "title": "Why this year’s World Cup ball may not fly as far",
+      "summary": "Por que a bola da Copa do Mundo deste ano pode não voar tão longe.",
+      "url": "https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/",
+      "source": "MIT Technology Review",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "eba03428",
+      "title": "The $4 billion coffee pod business faces its biggest threat yet",
+      "summary": "A indústria de capsules de café enfrenta seu maior desafio.",
+      "url": "https://www.fastcompany.com/91554933/the-4-billion-coffee-pod-business-just-got-its-biggest-threat-yet",
+      "source": "Fast Company",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "3316fa2e",
+      "title": "When Purpose Backfires",
+      "summary": "Quando o propósito falha.",
+      "url": "https://hbr.org/2026/06/when-purpose-backfires",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "95be55cb",
+      "title": "A24 creative director Liam Hamill embraces brainrot with his monthly music venue posters",
+      "summary": "Um diretor criativo da A24 abraça a 'rotura cerebral' com seus cartazes de música mensais.",
+      "url": "https://www.itsnicethat.com/articles/liam-hamill-babys-all-right-graphic-design-project-080626",
+      "source": "It's Nice That",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "ee0d766a",
+      "title": "A sharp tool can still ruin the cut",
+      "summary": "Uma ferramenta afiada pode ainda estragar o corte.",
+      "url": "https://www.doc.cc/articles/a-sharp-tool-can-still-ruin-the-cut",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "3b3bdda3",
+      "title": "June Is For Exploring (2026 Wallpapers Edition)",
+      "summary": "Junho é para explorar (edição de wallpapers de 2026).",
+      "url": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-05-31"
+    },
+    {
+      "id": "6c9013b3",
+      "title": "Finding Your New Strategic Center",
+      "summary": "Encontrando seu novo centro estratégico.",
+      "url": "https://hbr.org/2026/06/finding-your-new-strategic-center",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-05"
+    },
+    {
+      "id": "e0403d8e",
+      "title": "Meet Nice Groceries, the creatives shaking up the production agency model with the slow craft of analogue film",
+      "summary": "Conheça Nice Groceries, os criativos que estão revolucionando o modelo de agência de produção com o artesanato lento de filme analógico.",
+      "url": "https://www.itsnicethat.com/articles/nice-groceries-film-discover-080626",
+      "source": "It's Nice That",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "187bbb37",
+      "title": "Beyond the prompt: Claude Code",
+      "summary": "Além do prompt: Claude Code.",
+      "url": "https://arps18.github.io/posts/claude-code-mastery/",
+      "source": "Sidebar",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "778858dd",
+      "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
+      "summary": "Anti-social: é fadista, não amigos, que agora dominam as feeds de mídia social.",
+      "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
+      "source": "Hacker News",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "e9079bbf",
+      "title": "The Weekend With Julia Schimautz",
+      "summary": "O fim de semana com Julia Schimautz.",
+      "url": "https://www.itsnicethat.com/features/the-weekend-with-julia-schimautz-050626",
+      "source": "It's Nice That",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-05"
+    },
+    {
+      "id": "7117b6f0",
+      "title": "Daily Designer",
+      "summary": "Designer diário.",
+      "url": "https://www.dailydesigner.net/",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-08"
+    }
+  ]
 }

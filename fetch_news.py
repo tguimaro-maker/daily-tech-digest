@@ -7,13 +7,14 @@ Scrapes configured sources, sends to Groq API for curation, saves JSON.
 import json
 import os
 import sys
+import time
 import hashlib
 import logging
 from datetime import datetime, timezone
 from pathlib import Path
 
 import httpx
-from bs4 import BeautifulSoup
+import feedparser
 from groq import Groq
 
 # Carrega .env em desenvolvimento local (opcional; no GitHub Actions a env já vem do workflow)
@@ -37,9 +38,10 @@ HEADERS = {
 TIMEOUT = 15
 MIN_RELEVANCE = 3
 MAX_ITEMS_PER_SOURCE = 12
-# Free tier da Groq: 6.000 tokens/minuto. Limitamos o total enviado num único
-# request para caber nesse teto (entrada + resposta). ~50 itens ≈ 5.500 tokens.
-MAX_TOTAL_ITEMS = 50
+# Free tier da Groq: 6.000 tokens/minuto, e o limite conta INPUT + max_tokens.
+# Com ~40 itens: input ~1.200 + max_tokens 3.500 = ~4.700, com folga sob 6.000.
+MAX_TOTAL_ITEMS = 40
+GROQ_MAX_TOKENS = 3500
 NEWS_DIR = Path("news")
 
 SYSTEM_PROMPT = """Você é um curador de notícias para profissionais de tecnologia, negócios e design no Brasil.
@@ -66,33 +68,36 @@ def load_sources() -> list[dict]:
 
 
 def scrape_source(client: httpx.Client, source: dict) -> list[dict]:
+    """Lê o feed RSS/Atom da fonte e extrai título, link e data de cada item."""
     name = source["name"]
     try:
-        resp = client.get(source["url"], headers=HEADERS, timeout=TIMEOUT, follow_redirects=True)
+        resp = client.get(source["feed"], headers=HEADERS, timeout=TIMEOUT, follow_redirects=True)
         resp.raise_for_status()
     except Exception as e:
         log.warning("Falha ao acessar %s: %s", name, e)
         return []
 
-    soup = BeautifulSoup(resp.text, "html.parser")
-    elements = soup.select(source["selector"])[:MAX_ITEMS_PER_SOURCE]
+    feed = feedparser.parse(resp.content)
 
     items = []
-    for el in elements:
-        title = el.get_text(strip=True)
-        href = el.get("href", "")
-        if not title or len(title) < 10:
+    for entry in feed.entries[:MAX_ITEMS_PER_SOURCE]:
+        title = (entry.get("title") or "").strip()
+        link = (entry.get("link") or "").strip()
+        if not title or len(title) < 10 or not link:
             continue
-        if href and not href.startswith("http"):
-            base = source["url"].rstrip("/")
-            href = base + href if href.startswith("/") else base + "/" + href
+        # Data de publicação do próprio feed, quando disponível
+        published = ""
+        dt = entry.get("published_parsed") or entry.get("updated_parsed")
+        if dt:
+            published = time.strftime("%Y-%m-%d", dt)
         item_id = hashlib.md5(f"{name}:{title}".encode()).hexdigest()[:8]
         items.append({
             "id": item_id,
             "title": title,
-            "url": href,
+            "url": link,
             "source": name,
             "category": source["category"],
+            "published_at": published,
         })
 
     log.info("%-25s → %d itens", name, len(items))
@@ -162,7 +167,7 @@ def curate_with_groq(client: Groq, raw_items: list[dict]) -> list[dict]:
                 {"role": "user", "content": USER_PROMPT_TEMPLATE.format(items=items_text)},
             ],
             temperature=0.3,
-            max_tokens=8000,
+            max_tokens=GROQ_MAX_TOKENS,
             response_format={"type": "json_object"},
         )
     except Exception as e:
@@ -193,7 +198,7 @@ def curate_with_groq(client: Groq, raw_items: list[dict]) -> list[dict]:
             "source": item["source"],
             "category": extra.get("category", item["category"]),
             "relevance": relevance,
-            "published_at": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+            "published_at": item.get("published_at") or datetime.now(timezone.utc).strftime("%Y-%m-%d"),
         })
 
     return sorted(enriched, key=lambda x: x["relevance"], reverse=True)
