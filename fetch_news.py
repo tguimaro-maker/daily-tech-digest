@@ -39,18 +39,29 @@ TIMEOUT = 15
 MIN_RELEVANCE = 3
 MAX_ITEMS_PER_SOURCE = 12
 # Free tier da Groq: 6.000 tokens/minuto, e o limite conta INPUT + max_tokens.
-# Com ~40 itens: input ~1.200 + max_tokens 3.500 = ~4.700, com folga sob 6.000.
-MAX_TOTAL_ITEMS = 40
+# Enviamos candidatos suficientes (a IA pontua TODOS) para que itens de produto
+# sobrevivam ao filtro de relevância. ~45 itens: input ~1.300 + max_tokens 3.500
+# = ~4.800, com folga sob 6.000.
+MAX_TOTAL_ITEMS = 45
 GROQ_MAX_TOKENS = 3500
 NEWS_DIR = Path("news")
 
-SYSTEM_PROMPT = """Você é um curador de notícias para profissionais de tecnologia, negócios e design no Brasil.
+SYSTEM_PROMPT = """Você é um curador de notícias para profissionais que constroem e gerenciam PRODUTOS DIGITAIS:
+fundadores, product managers, product designers, engenheiros e profissionais de SaaS e IA aplicada.
+Seu público quer notícias úteis para quem faz produto digital — não cobertura genérica de tecnologia.
 Retorne SEMPRE um único objeto JSON válido, sem texto adicional, sem markdown, sem explicações."""
 
 USER_PROMPT_TEMPLATE = """Para cada item abaixo, gere:
-- summary: resumo em português (máx. 2 frases, direto ao ponto)
+- summary: resumo em português (máx. 2 frases, direto ao ponto), com o ângulo de produto digital quando houver
 - category: uma de [Tech, Negócios, Design, IA, Open Source]
-- relevance: score de 1-5 (5 = muito relevante para o público-alvo)
+- relevance: score de 1-5 segundo os critérios abaixo
+
+Critérios de relevância (foco em PRODUTO DIGITAL):
+- 4-5 (alta): lançamentos de produtos digitais e ferramentas; SaaS (growth, pricing, métricas, go-to-market);
+  product management e estratégia de produto; UX e product design; IA aplicada a produtos (features, agentes,
+  dev tools); engenharia de produto; startups de software.
+- 1-2 (baixa): reviews de gadgets/hardware de consumo, celulares; fofoca de tech ou celebridades; política;
+  macroeconomia ampla; arte/ilustração sem ligação com produto digital.
 
 Cada item começa com seu identificador entre colchetes, ex: [abc123].
 Use EXATAMENTE esse mesmo identificador no campo "id" da resposta.

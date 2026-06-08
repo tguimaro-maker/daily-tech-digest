@@ -18,9 +18,33 @@
     "active": true
   },
   {
+    "name": "Product Hunt",
+    "feed": "https://www.producthunt.com/feed",
+    "category": "Tech",
+    "active": true
+  },
+  {
+    "name": "Ben Evans",
+    "feed": "https://www.ben-evans.com/benedictevans?format=rss",
+    "category": "Tech",
+    "active": true
+  },
+  {
     "name": "MIT Technology Review",
     "feed": "https://www.technologyreview.com/feed/",
     "category": "IA",
+    "active": true
+  },
+  {
+    "name": "Lenny's Newsletter",
+    "feed": "https://www.lennysnewsletter.com/feed",
+    "category": "Negócios",
+    "active": true
+  },
+  {
+    "name": "SaaStr",
+    "feed": "https://www.saastr.com/feed/",
+    "category": "Negócios",
     "active": true
   },
   {
@@ -33,12 +57,6 @@
     "name": "Harvard Business Review",
     "feed": "http://feeds.hbr.org/harvardbusiness",
     "category": "Negócios",
-    "active": true
-  },
-  {
-    "name": "It's Nice That",
-    "feed": "https://www.itsnicethat.com/articles.rss",
-    "category": "Design",
     "active": true
   },
   {
