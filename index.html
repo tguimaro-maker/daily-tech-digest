@@ -3,366 +3,409 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Daily Tech Digest</title>
-  <meta name="description" content="Agregador automatizado de notícias de tecnologia, negócios e design com curadoria por IA." />
+  <title>DAILY_DIGEST // curadoria de produto digital</title>
+  <meta name="description" content="Agregador automatizado de notícias de produto digital, SaaS, IA e design com curadoria por IA." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Doto:wght@400;600;700;800;900&family=Martian+Mono:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     :root {
-      --bg: #0f1117;
-      --surface: #1a1d27;
-      --surface2: #222533;
-      --border: #2e3147;
-      --text: #e2e4f0;
-      --text-muted: #7b7f99;
-      --accent: #6c63ff;
-      --accent2: #4ecca3;
-      --tag-tech: #3b82f6;
-      --tag-negocios: #f59e0b;
-      --tag-design: #ec4899;
-      --tag-ia: #8b5cf6;
-      --tag-opensource: #10b981;
+      --bg: #d9d9d4;
+      --panel: #f4f4f0;
+      --panel2: #ffffff;
+      --ink: #0c0c0c;
+      --muted: #74746c;
+      --line: #0c0c0c;
+      --hair: rgba(12,12,12,.12);
+      --accent: #ff5a1f;
+      --mono: "Martian Mono", ui-monospace, monospace;
+      --display: "Doto", "Martian Mono", monospace;
+      --b: 1.5px solid var(--ink);
     }
 
+    html { scroll-behavior: smooth; }
+
     body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-family: var(--mono);
       background: var(--bg);
-      color: var(--text);
-      min-height: 100vh;
-      line-height: 1.6;
+      color: var(--ink);
+      font-size: 13px;
+      line-height: 1.5;
+      -webkit-font-smoothing: antialiased;
+      padding: 22px;
+      /* blueprint guides */
+      background-image:
+        linear-gradient(var(--hair) 1px, transparent 1px),
+        linear-gradient(90deg, var(--hair) 1px, transparent 1px);
+      background-size: 56px 56px;
     }
 
     a { color: inherit; text-decoration: none; }
 
+    /* ── Frame ── */
+    .frame {
+      max-width: 1180px;
+      margin: 0 auto;
+      background: var(--panel);
+      border: 2.5px solid var(--ink);
+      border-radius: 26px;
+      overflow: hidden;
+      position: relative;
+    }
+
+    /* crosshair registration mark */
+    .xmark {
+      position: absolute;
+      width: 26px; height: 26px;
+      border: var(--b);
+      display: grid; place-items: center;
+      background: var(--panel);
+      font-size: 13px;
+      z-index: 3;
+    }
+    .xmark::before { content: "✕"; }
+
     /* ── Header ── */
     header {
-      border-bottom: 1px solid var(--border);
-      padding: 20px 24px;
       display: flex;
       align-items: center;
       justify-content: space-between;
+      gap: 16px;
+      padding: 16px 22px;
+      border-bottom: var(--b);
       flex-wrap: wrap;
-      gap: 12px;
     }
-
-    .logo {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-    }
-
-    .logo-icon {
-      width: 36px; height: 36px;
-      background: linear-gradient(135deg, var(--accent), var(--accent2));
-      border-radius: 8px;
-      display: flex; align-items: center; justify-content: center;
-      font-size: 18px;
-    }
-
-    .logo-text h1 { font-size: 1.1rem; font-weight: 700; letter-spacing: -0.02em; }
-    .logo-text p { font-size: 0.72rem; color: var(--text-muted); margin-top: 1px; }
-
-    .header-meta {
-      text-align: right;
-      font-size: 0.78rem;
-      color: var(--text-muted);
-    }
-
-    .header-meta strong { color: var(--text); display: block; font-size: 0.85rem; }
-
-    /* ── Filters ── */
-    nav {
-      padding: 16px 24px;
-      border-bottom: 1px solid var(--border);
-      display: flex;
-      gap: 8px;
-      flex-wrap: wrap;
-      align-items: center;
-    }
-
-    .filter-btn {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      color: var(--text-muted);
-      padding: 6px 14px;
-      border-radius: 20px;
-      font-size: 0.8rem;
-      cursor: pointer;
-      transition: all 0.15s;
-      font-family: inherit;
-    }
-
-    .filter-btn:hover { border-color: var(--accent); color: var(--text); }
-
-    .filter-btn.active {
+    .brand { display: flex; align-items: center; gap: 10px; }
+    .brand-mark {
+      width: 34px; height: 34px;
+      border: var(--b);
       background: var(--accent);
-      border-color: var(--accent);
-      color: #fff;
+      display: grid; place-items: center;
+      color: #fff; font-weight: 700; font-size: 15px;
     }
+    .brand-name { font-size: 11px; letter-spacing: .12em; line-height: 1.1; text-transform: uppercase; }
+    .brand-name b { font-weight: 700; }
+    .brand-name span { color: var(--muted); }
 
-    .count-badge {
-      background: var(--surface2);
-      border-radius: 10px;
-      padding: 2px 7px;
-      font-size: 0.72rem;
-      margin-left: 4px;
+    nav.top { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+    .nav-link {
+      font-size: 10.5px; letter-spacing: .1em; text-transform: uppercase;
+      padding: 8px 12px; border: var(--b); background: var(--panel2);
+      transition: background .12s, color .12s;
     }
+    .nav-link:hover { background: var(--ink); color: var(--panel); }
+    .nav-link.accent { background: var(--accent); color: #fff; border-color: var(--ink); }
+    .nav-link.accent:hover { background: var(--ink); }
 
-    /* ── Main ── */
-    main {
-      max-width: 900px;
-      margin: 0 auto;
-      padding: 28px 24px;
+    /* ── Hero ── */
+    .hero { position: relative; border-bottom: var(--b); }
+    .mega {
+      font-family: var(--display);
+      font-weight: 800;
+      font-size: clamp(52px, 11.5vw, 150px);
+      line-height: .82;
+      letter-spacing: .005em;
+      padding: 26px 22px 16px;
     }
+    .mega span { display: block; white-space: nowrap; }
+    .mega .u { color: var(--accent); }
 
-    /* ── Cards grid ── */
+    .hero-grid {
+      display: grid;
+      grid-template-columns: 1fr 1.15fr;
+      border-top: var(--b);
+    }
+    @media (max-width: 760px) { .hero-grid { grid-template-columns: 1fr; } }
+
+    .hero-left { padding: 20px 22px; border-right: var(--b); }
+    @media (max-width: 760px) { .hero-left { border-right: none; border-bottom: var(--b); } }
+    .kick {
+      display: inline-flex; align-items: center; gap: 8px;
+      font-size: 11px; letter-spacing: .08em; text-transform: uppercase; margin-bottom: 18px;
+    }
+    .kick::before { content: "■"; color: var(--accent); }
+    .count-num {
+      font-family: var(--display); font-weight: 800;
+      font-size: clamp(54px, 8vw, 92px); line-height: .9; letter-spacing: .02em;
+    }
+    .count-label { font-size: 10.5px; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); margin-top: 4px; }
+
+    /* featured top story */
+    #featured { display: flex; flex-direction: column; min-height: 230px; }
+    .feat-top {
+      display: flex; align-items: center; gap: 8px;
+      padding: 14px 18px; border-bottom: var(--b);
+    }
+    .feat-body { padding: 18px; flex: 1; }
+    .feat-title { font-size: 18px; font-weight: 700; line-height: 1.25; margin-bottom: 8px; }
+    .feat-sum { color: var(--muted); font-size: 12px; font-weight: 300; }
+    .feat-stats {
+      display: grid; grid-template-columns: repeat(3, 1fr) 60px;
+      border-top: var(--b);
+    }
+    .stat { padding: 12px 14px; border-right: var(--hair); }
+    .stat b { display: block; font-size: 15px; font-weight: 700; }
+    .stat span { font-size: 9.5px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+
+    /* ── Tags ── */
+    .tag {
+      font-size: 9.5px; letter-spacing: .1em; text-transform: uppercase;
+      padding: 4px 8px; border: var(--b); white-space: nowrap;
+      background: var(--panel2);
+    }
+    .tag.accent { background: var(--accent); color: #fff; }
+
+    /* relevance squares */
+    .rel { display: inline-flex; gap: 3px; align-items: center; }
+    .rel i { width: 8px; height: 8px; border: 1px solid var(--ink); display: block; }
+    .rel i.on { background: var(--accent); border-color: var(--ink); }
+
+    /* arrow button */
+    .go {
+      display: grid; place-items: center;
+      border-left: var(--b);
+      font-size: 18px; font-weight: 700;
+      transition: background .12s, color .12s;
+    }
+    .go:hover { background: var(--accent); color: #fff; }
+
+    /* ── Controls ── */
+    .controls {
+      display: flex; align-items: center; justify-content: space-between;
+      gap: 12px; padding: 14px 22px; border-bottom: var(--b); flex-wrap: wrap;
+    }
+    .filters { display: flex; gap: 6px; flex-wrap: wrap; }
+    .filter-btn {
+      font-family: var(--mono);
+      font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase;
+      padding: 8px 12px; border: var(--b); background: var(--panel2); cursor: pointer;
+      transition: background .12s, color .12s;
+    }
+    .filter-btn:hover { background: var(--hair); }
+    .filter-btn.active { background: var(--ink); color: var(--panel); }
+    .filter-btn .cnt { color: var(--muted); margin-left: 5px; }
+    .filter-btn.active .cnt { color: var(--accent); }
+
+    .search { display: flex; align-items: center; gap: 8px; border: var(--b); padding: 7px 12px; background: var(--panel2); min-width: 220px; }
+    .search input {
+      border: none; outline: none; background: transparent; font-family: var(--mono);
+      font-size: 11px; width: 100%; color: var(--ink);
+    }
+    .search input::placeholder { color: var(--muted); text-transform: uppercase; letter-spacing: .08em; font-size: 10px; }
+
+    /* ── Grid of cards ── */
+    main { padding: 22px; }
     #cards-container {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      grid-template-columns: repeat(3, 1fr);
       gap: 16px;
     }
+    @media (max-width: 900px) { #cards-container { grid-template-columns: repeat(2, 1fr); } }
+    @media (max-width: 600px) { #cards-container { grid-template-columns: 1fr; } }
 
     .card {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 12px;
-      padding: 18px;
-      display: flex;
-      flex-direction: column;
-      gap: 10px;
-      transition: border-color 0.15s, transform 0.15s;
+      border: var(--b);
+      background: var(--panel2);
+      display: flex; flex-direction: column;
+      opacity: 0;
+      transform: translateY(10px);
+      animation: rise .42s cubic-bezier(.2,.7,.2,1) forwards;
     }
+    @keyframes rise { to { opacity: 1; transform: none; } }
+    .card:hover { box-shadow: 6px 6px 0 var(--ink); }
 
-    .card:hover {
-      border-color: var(--accent);
-      transform: translateY(-2px);
+    .card-top {
+      display: flex; align-items: center; justify-content: space-between; gap: 8px;
+      padding: 10px 12px; border-bottom: var(--b);
     }
-
-    .card-meta {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 8px;
-    }
-
-    .tag {
-      font-size: 0.68rem;
-      font-weight: 600;
-      padding: 3px 9px;
-      border-radius: 10px;
-      text-transform: uppercase;
-      letter-spacing: 0.04em;
-    }
-
-    .tag-Tech       { background: rgba(59,130,246,.15); color: #60a5fa; }
-    .tag-Negócios   { background: rgba(245,158,11,.15); color: #fbbf24; }
-    .tag-Design     { background: rgba(236,72,153,.15); color: #f472b6; }
-    .tag-IA         { background: rgba(139,92,246,.15); color: #a78bfa; }
-    .tag-Open\ Source { background: rgba(16,185,129,.15); color: #34d399; }
-
-    .relevance {
-      font-size: 0.72rem;
-      color: var(--text-muted);
-      display: flex;
-      gap: 2px;
-    }
-
-    .star { color: #fbbf24; }
-    .star-empty { color: var(--border); }
-
-    .card-title {
-      font-size: 0.92rem;
-      font-weight: 600;
-      line-height: 1.45;
-      color: var(--text);
-    }
-
-    .card-summary {
-      font-size: 0.82rem;
-      color: var(--text-muted);
-      line-height: 1.55;
-      flex: 1;
-    }
-
-    .card-footer {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      padding-top: 10px;
-      border-top: 1px solid var(--border);
-      margin-top: auto;
-    }
-
-    .card-source {
-      font-size: 0.72rem;
-      color: var(--text-muted);
-    }
-
-    .card-link {
-      font-size: 0.75rem;
-      color: var(--accent);
-      display: flex;
-      align-items: center;
-      gap: 4px;
-      font-weight: 500;
-      transition: color 0.15s;
-    }
-
-    .card-link:hover { color: var(--accent2); }
+    .card-body { padding: 14px 12px 16px; flex: 1; }
+    .card-title { font-size: 13.5px; font-weight: 600; line-height: 1.3; margin-bottom: 8px; }
+    .card-sum { font-size: 11px; font-weight: 300; color: var(--muted); }
+    .card-foot { display: grid; grid-template-columns: 1fr 1fr 54px; border-top: var(--b); }
+    .cell { padding: 10px 12px; border-right: var(--hair); overflow: hidden; }
+    .cell .k { font-size: 9px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); display: block; }
+    .cell .v { font-size: 11px; font-weight: 500; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
     /* ── States ── */
-    #state-loading, #state-empty, #state-error {
-      display: none;
-      text-align: center;
-      padding: 60px 24px;
-      color: var(--text-muted);
-    }
-
-    #state-loading.visible,
-    #state-empty.visible,
-    #state-error.visible { display: block; }
-
-    .state-icon { font-size: 3rem; margin-bottom: 16px; }
-    .state-title { font-size: 1.1rem; font-weight: 600; color: var(--text); margin-bottom: 8px; }
-    .state-desc { font-size: 0.85rem; }
-
-    .spinner {
-      width: 36px; height: 36px;
-      border: 3px solid var(--border);
-      border-top-color: var(--accent);
-      border-radius: 50%;
-      animation: spin 0.8s linear infinite;
-      margin: 0 auto 16px;
-    }
-
+    #state-loading, #state-empty, #state-error { display: none; padding: 70px 22px; text-align: center; }
+    #state-loading.visible, #state-empty.visible, #state-error.visible { display: block; }
+    .spinner { width: 30px; height: 30px; border: 2.5px solid var(--hair); border-top-color: var(--accent); border-radius: 0; margin: 0 auto 16px; animation: spin .8s steps(8) infinite; }
     @keyframes spin { to { transform: rotate(360deg); } }
+    .state-t { font-size: 16px; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; margin-bottom: 8px; }
+    .state-d { font-size: 12px; color: var(--muted); }
 
     /* ── Footer ── */
-    footer {
-      border-top: 1px solid var(--border);
-      padding: 24px;
-      text-align: center;
-    }
-
-    footer p { font-size: 0.78rem; color: var(--text-muted); margin-bottom: 12px; }
-
-    #history-links {
-      display: flex;
-      gap: 8px;
-      justify-content: center;
-      flex-wrap: wrap;
-    }
-
+    footer { border-top: var(--b); display: grid; grid-template-columns: 1fr auto 1fr; }
+    @media (max-width: 760px) { footer { grid-template-columns: 1fr; } }
+    .foot-cell { padding: 22px; }
+    .foot-cell.mid { border-left: var(--b); border-right: var(--b); display: grid; place-items: center; }
+    @media (max-width: 760px) { .foot-cell.mid { border: none; border-top: var(--b); border-bottom: var(--b); } }
+    .foot-q { font-size: 16px; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; }
+    .foot-q .hl { background: var(--ink); color: var(--panel); padding: 1px 6px; }
+    .hist-title { font-size: 10.5px; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); margin-bottom: 12px; }
+    #history-links { display: flex; gap: 6px; flex-wrap: wrap; }
     .hist-btn {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      color: var(--text-muted);
-      padding: 5px 12px;
-      border-radius: 6px;
-      font-size: 0.75rem;
-      cursor: pointer;
-      font-family: inherit;
-      transition: all 0.15s;
+      font-family: var(--mono); font-size: 10.5px; letter-spacing: .05em;
+      padding: 7px 10px; border: var(--b); background: var(--panel2); cursor: pointer;
+      transition: background .12s, color .12s;
     }
-
-    .hist-btn:hover { border-color: var(--accent); color: var(--text); }
-    .hist-btn.active { border-color: var(--accent2); color: var(--accent2); }
-
-    /* ── Responsive ── */
-    @media (max-width: 600px) {
-      header { flex-direction: column; align-items: flex-start; }
-      .header-meta { text-align: left; }
-      nav { padding: 12px 16px; }
-      main { padding: 20px 16px; }
-      #cards-container { grid-template-columns: 1fr; }
+    .hist-btn:hover { background: var(--hair); }
+    .hist-btn.active { background: var(--accent); color: #fff; }
+    .target { width: 46px; height: 46px; border: var(--b); border-radius: 50%; display: grid; place-items: center; }
+    .target::before { content: "⊕"; font-size: 22px; }
+    .foot-cta { display: flex; flex-direction: column; gap: 8px; align-items: flex-end; }
+    .cta {
+      font-size: 11px; letter-spacing: .08em; text-transform: uppercase;
+      padding: 12px 16px; border: var(--b); text-align: center; transition: background .12s, color .12s;
     }
+    .cta.fill { background: var(--accent); color: #fff; }
+    .cta.fill:hover { background: var(--ink); }
+    .cta.ghost:hover { background: var(--ink); color: var(--panel); }
   </style>
 </head>
 <body>
 
-<header>
-  <div class="logo">
-    <div class="logo-icon">📰</div>
-    <div class="logo-text">
-      <h1>Daily Tech Digest</h1>
-      <p>Curadoria por IA · Groq + Llama 3.1</p>
+<div class="frame">
+  <span class="xmark" style="top:-13px;left:-13px;"></span>
+  <span class="xmark" style="top:-13px;right:-13px;"></span>
+
+  <!-- HEADER -->
+  <header>
+    <div class="brand">
+      <div class="brand-mark">◳</div>
+      <div class="brand-name"><b>DAILY//DIGEST</b><br><span>curadoria por IA</span></div>
     </div>
+    <nav class="top">
+      <a class="nav-link" href="#grid">↓ Notícias</a>
+      <a class="nav-link" href="https://github.com/tguimaro-maker/daily-tech-digest" target="_blank" rel="noopener">:: Repositório</a>
+      <a class="nav-link accent" href="#sources">Fontes</a>
+    </nav>
+  </header>
+
+  <!-- HERO -->
+  <section class="hero">
+    <h1 class="mega"><span>DAILY<b class="u">_</b></span><span>DIGEST</span></h1>
+    <div class="hero-grid">
+      <div class="hero-left">
+        <span class="kick">Curadoria de hoje — produto digital, SaaS, IA &amp; design</span>
+        <div class="count-num" id="count-all-big">—</div>
+        <div class="count-label">Notícias nesta edição</div>
+        <div style="margin-top:18px;font-size:11px;color:var(--muted);">
+          <span id="edition-date">Carregando…</span><br>
+          <span id="generated-at"></span>
+        </div>
+      </div>
+      <div id="featured">
+        <div class="feat-top">
+          <span class="tag accent">★ Top</span>
+          <span class="tag" id="feat-cat">—</span>
+        </div>
+        <div class="feat-body">
+          <div class="feat-title" id="feat-title">—</div>
+          <div class="feat-sum" id="feat-sum"></div>
+        </div>
+        <div class="feat-stats">
+          <div class="stat"><b id="feat-rel">—</b><span>Relevância</span></div>
+          <div class="stat"><b id="feat-source">—</b><span>Fonte</span></div>
+          <div class="stat"><b id="feat-date">—</b><span>Publicado</span></div>
+          <a class="go" id="feat-link" href="#" target="_blank" rel="noopener">→</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTROLS -->
+  <div class="controls" id="grid">
+    <div class="filters" id="filters">
+      <button class="filter-btn active" data-cat="Todos" onclick="setFilter('Todos')">Todos <span class="cnt" id="count-all">—</span></button>
+      <button class="filter-btn" data-cat="Tech" onclick="setFilter('Tech')">Tech <span class="cnt" id="count-tech">—</span></button>
+      <button class="filter-btn" data-cat="IA" onclick="setFilter('IA')">IA <span class="cnt" id="count-ia">—</span></button>
+      <button class="filter-btn" data-cat="Negócios" onclick="setFilter('Negócios')">Negócios <span class="cnt" id="count-negocios">—</span></button>
+      <button class="filter-btn" data-cat="Design" onclick="setFilter('Design')">Design <span class="cnt" id="count-design">—</span></button>
+      <button class="filter-btn" data-cat="Open Source" onclick="setFilter('Open Source')">Open Source <span class="cnt" id="count-opensource">—</span></button>
+    </div>
+    <label class="search">
+      <span>⌕</span>
+      <input type="text" id="search-input" placeholder="Buscar" oninput="applySearch(this.value)" />
+    </label>
   </div>
-  <div class="header-meta" id="header-meta">
-    <strong id="edition-date">Carregando…</strong>
-    <span id="generated-at"></span>
-  </div>
-</header>
 
-<nav id="filters" aria-label="Filtrar por categoria">
-  <button class="filter-btn active" data-cat="Todos" onclick="setFilter('Todos')">
-    Todos <span class="count-badge" id="count-all">—</span>
-  </button>
-  <button class="filter-btn" data-cat="Tech" onclick="setFilter('Tech')">
-    Tech <span class="count-badge" id="count-tech">—</span>
-  </button>
-  <button class="filter-btn" data-cat="IA" onclick="setFilter('IA')">
-    IA <span class="count-badge" id="count-ia">—</span>
-  </button>
-  <button class="filter-btn" data-cat="Negócios" onclick="setFilter('Negócios')">
-    Negócios <span class="count-badge" id="count-negocios">—</span>
-  </button>
-  <button class="filter-btn" data-cat="Design" onclick="setFilter('Design')">
-    Design <span class="count-badge" id="count-design">—</span>
-  </button>
-  <button class="filter-btn" data-cat="Open Source" onclick="setFilter('Open Source')">
-    Open Source <span class="count-badge" id="count-opensource">—</span>
-  </button>
-</nav>
+  <!-- MAIN -->
+  <main>
+    <div id="state-loading" class="visible">
+      <div class="spinner"></div>
+      <div class="state-t">Carregando edição</div>
+    </div>
+    <div id="state-empty">
+      <div class="state-t">Sem edição hoje</div>
+      <div class="state-d">Provavelmente fim de semana ou feriado — o cron roda de segunda a sexta.</div>
+    </div>
+    <div id="state-error">
+      <div class="state-t">Falha ao carregar</div>
+      <div class="state-d" id="error-msg"></div>
+    </div>
+    <div id="cards-container" role="list"></div>
+  </main>
 
-<main>
-  <div id="state-loading" class="visible">
-    <div class="spinner"></div>
-    <div class="state-title">Carregando notícias…</div>
-  </div>
-
-  <div id="state-empty">
-    <div class="state-icon">😴</div>
-    <div class="state-title">Sem notícias hoje</div>
-    <div class="state-desc">Provavelmente é fim de semana ou feriado. Volte na segunda-feira!</div>
-  </div>
-
-  <div id="state-error">
-    <div class="state-icon">⚠️</div>
-    <div class="state-title">Não foi possível carregar</div>
-    <div class="state-desc" id="error-msg">Tente novamente em alguns instantes.</div>
-  </div>
-
-  <div id="cards-container" role="list" aria-label="Notícias"></div>
-</main>
-
-<footer>
-  <p>Edições anteriores</p>
-  <div id="history-links"></div>
-</footer>
+  <!-- FOOTER -->
+  <footer id="sources">
+    <div class="foot-cell">
+      <div class="hist-title">▸ Edições anteriores</div>
+      <div id="history-links"></div>
+    </div>
+    <div class="foot-cell mid"><div class="target"></div></div>
+    <div class="foot-cell">
+      <div class="foot-q">QUER MAIS <span class="hl">SINAL</span><br>E MENOS RUÍDO?</div>
+      <div class="foot-cta" style="margin-top:16px;">
+        <a class="cta fill" href="https://github.com/tguimaro-maker/daily-tech-digest" target="_blank" rel="noopener">★ Star no GitHub</a>
+        <a class="cta ghost" href="https://github.com/tguimaro-maker/daily-tech-digest/blob/main/sources.json" target="_blank" rel="noopener">Ver fontes</a>
+      </div>
+    </div>
+  </footer>
+</div>
 
 <script>
   const CATEGORIES = ['Tech', 'IA', 'Negócios', 'Design', 'Open Source'];
   const COUNT_IDS = {
-    'Tech': 'count-tech',
-    'IA': 'count-ia',
-    'Negócios': 'count-negocios',
-    'Design': 'count-design',
-    'Open Source': 'count-opensource',
+    'Tech': 'count-tech', 'IA': 'count-ia', 'Negócios': 'count-negocios',
+    'Design': 'count-design', 'Open Source': 'count-opensource',
   };
 
   let allItems = [];
   let currentFilter = 'Todos';
+  let currentSearch = '';
   let loadedDate = '';
 
-  function stars(n) {
-    return Array.from({ length: 5 }, (_, i) =>
-      `<span class="${i < n ? 'star' : 'star-empty'}">★</span>`
-    ).join('');
+  function relSquares(n) {
+    let h = '<span class="rel">';
+    for (let i = 0; i < 5; i++) h += `<i class="${i < n ? 'on' : ''}"></i>`;
+    return h + '</span>';
   }
 
-  function tagClass(cat) {
-    return 'tag tag-' + cat;
+  function escapeHtml(str) {
+    return String(str)
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+
+  function formatDate(dateStr) {
+    const [y, m, d] = dateStr.split('-').map(Number);
+    return new Date(y, m - 1, d).toLocaleDateString('pt-BR', {
+      weekday: 'long', day: 'numeric', month: 'long', year: 'numeric'
+    });
+  }
+
+  function renderFeatured(item) {
+    if (!item) return;
+    document.getElementById('feat-cat').textContent = item.category;
+    document.getElementById('feat-title').textContent = item.title;
+    document.getElementById('feat-sum').textContent = item.summary || '';
+    document.getElementById('feat-rel').textContent = (item.relevance || 0) + '/5';
+    document.getElementById('feat-source').textContent = item.source;
+    document.getElementById('feat-date').textContent = item.published_at || loadedDate;
+    document.getElementById('feat-link').href = item.url;
   }
 
   function renderCards(items) {
@@ -374,21 +417,22 @@
       empty.classList.add('visible');
       return;
     }
-
     empty.classList.remove('visible');
-    container.innerHTML = items.map(item => `
-      <article class="card" role="listitem">
-        <div class="card-meta">
-          <span class="${tagClass(item.category)}">${item.category}</span>
-          <div class="relevance" title="Relevância: ${item.relevance}/5">${stars(item.relevance)}</div>
+
+    container.innerHTML = items.map((item, idx) => `
+      <article class="card" role="listitem" style="animation-delay:${Math.min(idx * 35, 600)}ms">
+        <div class="card-top">
+          <span class="tag">${escapeHtml(item.category)}</span>
+          ${relSquares(item.relevance || 0)}
         </div>
-        <h2 class="card-title">${escapeHtml(item.title)}</h2>
-        <p class="card-summary">${escapeHtml(item.summary || '')}</p>
-        <div class="card-footer">
-          <span class="card-source">${escapeHtml(item.source)}</span>
-          <a class="card-link" href="${item.url}" target="_blank" rel="noopener noreferrer">
-            Ler artigo ↗
-          </a>
+        <div class="card-body">
+          <h2 class="card-title">${escapeHtml(item.title)}</h2>
+          <p class="card-sum">${escapeHtml(item.summary || '')}</p>
+        </div>
+        <div class="card-foot">
+          <div class="cell"><span class="k">Fonte</span><span class="v">${escapeHtml(item.source)}</span></div>
+          <div class="cell"><span class="k">Publicado</span><span class="v">${escapeHtml(item.published_at || loadedDate)}</span></div>
+          <a class="go" href="${item.url}" target="_blank" rel="noopener noreferrer">→</a>
         </div>
       </article>
     `).join('');
@@ -396,12 +440,24 @@
 
   function updateCounts(items) {
     document.getElementById('count-all').textContent = items.length;
+    document.getElementById('count-all-big').textContent = String(items.length).padStart(2, '0');
     for (const cat of CATEGORIES) {
       const id = COUNT_IDS[cat];
-      if (id) {
-        document.getElementById(id).textContent = items.filter(i => i.category === cat).length;
-      }
+      if (id) document.getElementById(id).textContent = items.filter(i => i.category === cat).length;
     }
+  }
+
+  function visibleItems() {
+    let list = currentFilter === 'Todos' ? allItems : allItems.filter(i => i.category === currentFilter);
+    if (currentSearch) {
+      const q = currentSearch.toLowerCase();
+      list = list.filter(i =>
+        (i.title || '').toLowerCase().includes(q) ||
+        (i.summary || '').toLowerCase().includes(q) ||
+        (i.source || '').toLowerCase().includes(q)
+      );
+    }
+    return list;
   }
 
   function setFilter(cat) {
@@ -409,23 +465,12 @@
     document.querySelectorAll('.filter-btn').forEach(btn => {
       btn.classList.toggle('active', btn.dataset.cat === cat);
     });
-    const filtered = cat === 'Todos' ? allItems : allItems.filter(i => i.category === cat);
-    renderCards(filtered);
+    renderCards(visibleItems());
   }
 
-  function escapeHtml(str) {
-    return String(str)
-      .replace(/&/g, '&amp;')
-      .replace(/</g, '&lt;')
-      .replace(/>/g, '&gt;')
-      .replace(/"/g, '&quot;');
-  }
-
-  function formatDate(dateStr) {
-    const [y, m, d] = dateStr.split('-').map(Number);
-    return new Date(y, m - 1, d).toLocaleDateString('pt-BR', {
-      weekday: 'long', day: 'numeric', month: 'long', year: 'numeric'
-    });
+  function applySearch(value) {
+    currentSearch = value.trim();
+    renderCards(visibleItems());
   }
 
   async function loadNews(date) {
@@ -435,6 +480,7 @@
 
     loading.classList.add('visible');
     errEl.classList.remove('visible');
+    document.getElementById('state-empty').classList.remove('visible');
     container.innerHTML = '';
 
     const url = `news/${date}.json`;
@@ -445,7 +491,7 @@
       data = await resp.json();
     } catch (e) {
       loading.classList.remove('visible');
-      if (e.message.includes('404') || e.message.includes('HTTP 404')) {
+      if (e.message.includes('404')) {
         document.getElementById('state-empty').classList.add('visible');
         document.getElementById('edition-date').textContent = formatDate(date);
         document.getElementById('generated-at').textContent = 'Sem edição para esta data';
@@ -462,11 +508,11 @@
 
     document.getElementById('edition-date').textContent = formatDate(data.date);
     document.getElementById('generated-at').textContent =
-      data.generated_at ? `Gerado às ${data.generated_at.replace('T', ' ').replace('Z', ' UTC')}` : '';
+      data.generated_at ? `GEN ${data.generated_at.replace('T', ' ').replace('Z', ' UTC')}` : '';
 
     updateCounts(allItems);
+    renderFeatured(allItems[0]);
 
-    // Update history button styles
     document.querySelectorAll('.hist-btn').forEach(btn => {
       btn.classList.toggle('active', btn.dataset.date === date);
     });
@@ -483,19 +529,14 @@
 
     const histEl = document.getElementById('history-links');
     const recent = dates.slice(0, 7);
-
     if (recent.length) {
-      histEl.innerHTML = recent.map(d => `
-        <button class="hist-btn" data-date="${d}" onclick="loadNews('${d}')">
-          ${d}
-        </button>
-      `).join('');
+      histEl.innerHTML = recent.map(d =>
+        `<button class="hist-btn" data-date="${d}" onclick="loadNews('${d}')">${d}</button>`
+      ).join('');
     }
 
-    // Load the most recent date or today
     const today = new Date().toISOString().split('T')[0];
-    const target = recent.length ? recent[0] : today;
-    await loadNews(target);
+    await loadNews(recent.length ? recent[0] : today);
   }
 
   loadIndex();
