@@ -1,13 +1,83 @@
 {
   "date": "2026-06-09",
-  "generated_at": "2026-06-09T12:03:52Z",
-  "total": 26,
+  "generated_at": "2026-06-09T12:31:10Z",
+  "total": 30,
   "items": [
+    {
+      "id": "9e439bd0",
+      "title": "Emerge Career (YC S22) Is Hiring a Founding Growth Marketer",
+      "summary": "A Emerge Career está contratando um fundador de marketing de crescimento",
+      "url": "https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer",
+      "source": "Hacker News",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-09"
+    },
+    {
+      "id": "26c3d41c",
+      "title": "Krisp Voice Translation API",
+      "summary": "A Krisp oferece uma API de tradução de voz",
+      "url": "https://www.producthunt.com/products/krisp",
+      "source": "Product Hunt",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-05"
+    },
     {
       "id": "a4fc1566",
       "title": "🎙️ How I AI: Gemini Omni: Clone yourself with AI in under 15 minutes & Shopping with Claude",
-      "summary": "Um artigo sobre como clonar-se com inteligência artificial em menos de 15 minutos e fazer compras com Claude.",
+      "summary": "Um artigo sobre como usar IA para clonar si mesmo e fazer compras",
       "url": "https://www.lennysnewsletter.com/p/how-i-ai-gemini-omni-clone-yourself",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "2ac997ec",
+      "title": "Why It’s So Hard for Older B2B Leaders to Compete in AI: Your Customers Can Do A Lot in Claude for $20-$200/Month. And You’re Paying $1.00 Per API Call For the Good Stuff.",
+      "summary": "Um artigo sobre por que líderes de B2B mais velhos têm dificuldade em competir com IA",
+      "url": "https://www.saastr.com/why-its-so-hard-for-b2b-leaders-to-compete-in-ai-your-customers-can-do-it-in-claude-for-20-month-youre-paying-1-00-per-api-call/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-09"
+    },
+    {
+      "id": "f3305399",
+      "title": "How C-Suite and Board Roles Are Being Reshaped Around AI",
+      "summary": "Um artigo sobre como as funções de liderança e de conselho estão sendo redesenhadas em torno da IA",
+      "url": "https://hbr.org/2026/06/how-c-suite-and-board-roles-are-being-reshaped-around-ai",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "838aa644",
+      "title": "How To Make Your Design System AI-Ready",
+      "summary": "Um artigo sobre como tornar um sistema de design pronto para IA",
+      "url": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-03"
+    },
+    {
+      "id": "690677cb",
+      "title": "Learning to lead in a hybrid human-AI enterprise",
+      "summary": "Um artigo sobre como aprender a liderar em uma empresa híbrida humana-IA",
+      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "source": "MIT Technology Review",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-09"
+    },
+    {
+      "id": "20196337",
+      "title": "Shopping with Claude: How to find quality brands, automate returns, and buy things that last 100 years | Nicole Ruiz",
+      "summary": "Um artigo sobre como fazer compras com a Claude",
+      "url": "https://www.lennysnewsletter.com/p/shopping-with-claude",
       "source": "Lenny's Newsletter",
       "category": "IA",
       "relevance": 5,
@@ -16,7 +86,7 @@
     {
       "id": "3184f86a",
       "title": "Building AI Agents That Actually Work: Lessons from Jason Lemkin, Jeanne DeWitt Grosser (Vercel), Amelia Lerutte & Amjad Masad (Replit)",
-      "summary": "Um artigo sobre como construir agentes de inteligência artificial que funcionam.",
+      "summary": "Um artigo sobre como construir agentes de IA que funcionam",
       "url": "https://www.saastr.com/building-ai-agents-that-actually-work-lessons-from-jason-lemkin-jeanne-dewitt-grosser-vercel-amelia-lerutte-amjad-masad-replit/",
       "source": "SaaStr",
       "category": "IA",
@@ -24,29 +94,69 @@
       "published_at": "2026-06-08"
     },
     {
-      "id": "20196337",
-      "title": "Shopping with Claude: How to find quality brands, automate returns, and buy things that last 100 years | Nicole Ruiz",
-      "summary": "Um artigo sobre como fazer compras com Claude e encontrar marcas de qualidade, automatizar devoluções e comprar coisas que duram 100 anos.",
-      "url": "https://www.lennysnewsletter.com/p/shopping-with-claude",
-      "source": "Lenny's Newsletter",
-      "category": "IA",
+      "id": "d2774b8b",
+      "title": "AI Has Broken Hiring. Here’s How to Fix It.",
+      "summary": "Um artigo sobre como a IA quebrou o processo de contratação e como resolver isso",
+      "url": "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
       "relevance": 5,
       "published_at": "2026-06-08"
     },
     {
-      "id": "70dd5e3a",
-      "title": "Three Quotes in Seconds, Inside the Pricing Rules: How Nue Built Deterministic AI Into Salesforce-Native CPQ",
-      "summary": "Um artigo sobre como construir determinismo de inteligência artificial em Salesforce-Native CPQ.",
-      "url": "https://www.saastr.com/three-quotes-in-seconds-inside-the-pricing-rules-how-nue-built-deterministic-ai-into-salesforce-native-cpq/",
+      "id": "b07b2936",
+      "title": "Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell",
+      "summary": "Um artigo sobre Tony Fadell e como construir gosto, julgamento e criatividade na era da IA",
+      "url": "https://www.lennysnewsletter.com/p/father-of-the-ipod-and-iphone-on",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-07"
+    },
+    {
+      "id": "7bebfe5d",
+      "title": "Dear SaaStr: What’s Really Changed in GTM in 2026?",
+      "summary": "Um artigo sobre o que realmente mudou no GTM em 2026",
+      "url": "https://www.saastr.com/dear-saastr-whats-really-changed-in-gtm-in-2026/",
       "source": "SaaStr",
-      "category": "IA",
+      "category": "Negócios",
       "relevance": 5,
       "published_at": "2026-06-08"
+    },
+    {
+      "id": "5d5680b6",
+      "title": "Building a general-purpose accessibility agent",
+      "summary": "Um artigo sobre construir um agente de acessibilidade geral",
+      "url": "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-09"
+    },
+    {
+      "id": "4fa6a722",
+      "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
+      "summary": "Um artigo sobre como criar sistemas de cores auto-corrigíveis",
+      "url": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-05-28"
+    },
+    {
+      "id": "b4e62503",
+      "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+      "summary": "Um artigo sobre por que o bet lento e constante da Apple na IA está começando a parecer inteligente",
+      "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-09"
     },
     {
       "id": "c9a5356d",
       "title": "🧠 Community Wisdom: Bootstrapping vs. raising funding, building the roadmap of your vibe-coded app, AI agents and data integrity, your first project as an APM, and more",
-      "summary": "Um artigo sobre sabedoria da comunidade: como criar um aplicativo com um roadmap de vibe-código, agentes de inteligência artificial e integridade de dados, e mais.",
+      "summary": "Um artigo sobre como usar IA para encontrar marcas de qualidade, automatizar devoluções e comprar coisas que duram 100 anos",
       "url": "https://www.lennysnewsletter.com/p/community-wisdom-bootstrapping-vs",
       "source": "Lenny's Newsletter",
       "category": "IA",
@@ -54,29 +164,19 @@
       "published_at": "2026-06-06"
     },
     {
-      "id": "f55b29e7",
-      "title": "How an e-scooter founder raised $5 million to build space data centers",
-      "summary": "Um fundador de scooter elétrico levantou US$ 5 milhões para construir centros de dados em espaço.",
-      "url": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
-      "source": "TechCrunch",
-      "category": "Negócios",
-      "relevance": 4,
-      "published_at": "2026-06-09"
-    },
-    {
-      "id": "f96ca216",
-      "title": "Uiverse Design",
-      "summary": "Uiverse Design é um novo design para produtos digitais.",
-      "url": "https://www.producthunt.com/products/uiverse-io",
-      "source": "Product Hunt",
-      "category": "Design",
-      "relevance": 4,
+      "id": "70dd5e3a",
+      "title": "Three Quotes in Seconds, Inside the Pricing Rules: How Nue Built Deterministic AI Into Salesforce-Native CPQ",
+      "summary": "Um artigo sobre como a Nue construiu IA determinística em CPQ nativo do Salesforce",
+      "url": "https://www.saastr.com/three-quotes-in-seconds-inside-the-pricing-rules-how-nue-built-deterministic-ai-into-salesforce-native-cpq/",
+      "source": "SaaStr",
+      "category": "IA",
+      "relevance": 5,
       "published_at": "2026-06-08"
     },
     {
       "id": "a3524322",
       "title": "Predicting AI job exposure",
-      "summary": "Um artigo sobre como prever a exposição de empregos à inteligência artificial.",
+      "summary": "Um artigo sobre a exposição de empregos para profissionais de IA",
       "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
       "source": "Ben Evans",
       "category": "IA",
@@ -84,59 +184,9 @@
       "published_at": "2026-05-24"
     },
     {
-      "id": "690677cb",
-      "title": "Learning to lead in a hybrid human-AI enterprise",
-      "summary": "Um artigo sobre como aprender a liderar em uma empresa híbrida de humanos e inteligência artificial.",
-      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-      "source": "MIT Technology Review",
-      "category": "Negócios",
-      "relevance": 4,
-      "published_at": "2026-06-09"
-    },
-    {
-      "id": "f3305399",
-      "title": "How C-Suite and Board Roles Are Being Reshaped Around AI",
-      "summary": "Um artigo sobre como as funções de C-Suite e conselhos estão sendo redesenhadas em torno da inteligência artificial.",
-      "url": "https://hbr.org/2026/06/how-c-suite-and-board-roles-are-being-reshaped-around-ai",
-      "source": "Harvard Business Review",
-      "category": "Negócios",
-      "relevance": 4,
-      "published_at": "2026-06-08"
-    },
-    {
-      "id": "838aa644",
-      "title": "How To Make Your Design System AI-Ready",
-      "summary": "Um artigo sobre como tornar um sistema de design pronto para inteligência artificial.",
-      "url": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
-      "source": "Smashing Magazine",
-      "category": "Design",
-      "relevance": 4,
-      "published_at": "2026-06-03"
-    },
-    {
-      "id": "8e93574d",
-      "title": "Evotrex raises $30M to build the RV that doesn’t need a charging station",
-      "summary": "Uma empresa levantou US$ 30 milhões para construir um RV que não precisa de uma estação de carregamento.",
-      "url": "https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/",
-      "source": "TechCrunch",
-      "category": "Negócios",
-      "relevance": 4,
-      "published_at": "2026-06-09"
-    },
-    {
-      "id": "26c3d41c",
-      "title": "Krisp Voice Translation API",
-      "summary": "Uma API de tradução de voz para o Krisp.",
-      "url": "https://www.producthunt.com/products/krisp",
-      "source": "Product Hunt",
-      "category": "Tech",
-      "relevance": 4,
-      "published_at": "2026-06-05"
-    },
-    {
       "id": "d7be0f04",
       "title": "How will OpenAI compete?",
-      "summary": "Um artigo sobre como a OpenAI competirá.",
+      "summary": "Um artigo sobre como a OpenAI irá competir",
       "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
       "source": "Ben Evans",
       "category": "IA",
@@ -144,29 +194,9 @@
       "published_at": "2026-02-19"
     },
     {
-      "id": "7bebfe5d",
-      "title": "Dear SaaStr: What’s Really Changed in GTM in 2026?",
-      "summary": "Um artigo sobre o que realmente mudou no GTM em 2026.",
-      "url": "https://www.saastr.com/dear-saastr-whats-really-changed-in-gtm-in-2026/",
-      "source": "SaaStr",
-      "category": "Negócios",
-      "relevance": 4,
-      "published_at": "2026-06-08"
-    },
-    {
-      "id": "d2774b8b",
-      "title": "AI Has Broken Hiring. Here’s How to Fix It.",
-      "summary": "Um artigo sobre como a inteligência artificial quebrou a contratação e como consertá-la.",
-      "url": "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
-      "source": "Harvard Business Review",
-      "category": "Negócios",
-      "relevance": 4,
-      "published_at": "2026-06-08"
-    },
-    {
       "id": "aee137e2",
       "title": "Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet",
-      "summary": "Uma empresa levantou US$ 30 milhões para construir um RV que não precisa de uma estação de carregamento.",
+      "summary": "Um artigo sobre o IPO da Zepto e suas perdas e valorização",
       "url": "https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/",
       "source": "TechCrunch",
       "category": "Negócios",
@@ -174,19 +204,9 @@
       "published_at": "2026-06-09"
     },
     {
-      "id": "d50a8554",
-      "title": "hora Calendar",
-      "summary": "Uma nova calendarização.",
-      "url": "https://www.producthunt.com/products/hora-calendar",
-      "source": "Product Hunt",
-      "category": "Design",
-      "relevance": 4,
-      "published_at": "2026-04-14"
-    },
-    {
       "id": "6ee71ea3",
       "title": "AI, networks and Mechanical Turks",
-      "summary": "Um artigo sobre inteligência artificial, redes e Mecânicos Turcos.",
+      "summary": "Um artigo sobre IA, redes e Turcos mecânicos",
       "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
       "source": "Ben Evans",
       "category": "IA",
@@ -194,59 +214,19 @@
       "published_at": "2025-11-23"
     },
     {
-      "id": "e8847be8",
-      "title": "Five things you need to know about AI",
-      "summary": "Cinco coisas que você precisa saber sobre inteligência artificial.",
-      "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-      "source": "MIT Technology Review",
-      "category": "IA",
-      "relevance": 4,
-      "published_at": "2026-06-09"
-    },
-    {
-      "id": "b07b2936",
-      "title": "Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell",
-      "summary": "Um artigo sobre como o pai do iPod e iPhone construiu o gosto, o julgamento e a criatividade na era da inteligência artificial.",
-      "url": "https://www.lennysnewsletter.com/p/father-of-the-ipod-and-iphone-on",
-      "source": "Lenny's Newsletter",
+      "id": "3316fa2e",
+      "title": "When Purpose Backfires",
+      "summary": "Um artigo sobre quando o propósito falha",
+      "url": "https://hbr.org/2026/06/when-purpose-backfires",
+      "source": "Harvard Business Review",
       "category": "Negócios",
       "relevance": 4,
-      "published_at": "2026-06-07"
-    },
-    {
-      "id": "5d5680b6",
-      "title": "Building a general-purpose accessibility agent",
-      "summary": "Um artigo sobre como construir um agente de acessibilidade geral.",
-      "url": "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/",
-      "source": "Sidebar",
-      "category": "Design",
-      "relevance": 4,
-      "published_at": "2026-06-09"
-    },
-    {
-      "id": "4fa6a722",
-      "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
-      "summary": "Um artigo sobre como criar sistemas de cores auto-corrigíveis com `contrast-color()`.",
-      "url": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
-      "source": "Smashing Magazine",
-      "category": "Design",
-      "relevance": 4,
-      "published_at": "2026-05-28"
-    },
-    {
-      "id": "b4e62503",
-      "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
-      "summary": "Um artigo sobre como a aposta lenta e constante da Apple na inteligência artificial está começando a parecer inteligente.",
-      "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
-      "source": "TechCrunch",
-      "category": "Negócios",
-      "relevance": 4,
-      "published_at": "2026-06-09"
+      "published_at": "2026-06-08"
     },
     {
       "id": "34502087",
       "title": "AI metrics",
-      "summary": "Um artigo sobre métricas de inteligência artificial.",
+      "summary": "Um artigo sobre métricas de IA",
       "url": "https://www.ben-evans.com/benedictevans/2025/6/9/generative-ais-metrics-question",
       "source": "Ben Evans",
       "category": "IA",
@@ -254,14 +234,74 @@
       "published_at": "2025-06-09"
     },
     {
-      "id": "940867b0",
-      "title": "Top 10 Takeaways from The Agents #006: The Numbers Behind Our Full Go-To-Market Agent Stack",
-      "summary": "Um artigo sobre as 10 principais lições do The Agents #006: o número por trás da nossa pilha completa de agentes de marketing.",
-      "url": "https://www.saastr.com/top-10-takeaways-from-the-agents-006-the-numbers-behind-our-full-go-to-market-agent-stack/",
-      "source": "SaaStr",
+      "id": "634bffa9",
+      "title": "For workers with a chronic illness, returning to the office can be the hardest part",
+      "summary": "Um artigo sobre como o retorno ao trabalho pode ser difícil para trabalhadores com doenças crônicas",
+      "url": "https://www.fastcompany.com/91539293/returning-to-work-after-being-sick-isnt-the-end-of-recovery-its-where-many-employees-struggle-most-return-to-work-chronic-illness",
+      "source": "Fast Company",
       "category": "Negócios",
       "relevance": 4,
-      "published_at": "2026-06-07"
+      "published_at": "2026-06-09"
+    },
+    {
+      "id": "6c9013b3",
+      "title": "Finding Your New Strategic Center",
+      "summary": "Um artigo sobre encontrar o centro estratégico",
+      "url": "https://hbr.org/2026/06/finding-your-new-strategic-center",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-05"
+    },
+    {
+      "id": "f55b29e7",
+      "title": "How an e-scooter founder raised $5 million to build space data centers",
+      "summary": "Um fundador de scooter elétrico arrecadou US$ 5 milhões para construir centros de dados espaciais",
+      "url": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-06-09"
+    },
+    {
+      "id": "8e93574d",
+      "title": "Evotrex raises $30M to build the RV that doesn’t need a charging station",
+      "summary": "Uma empresa arrecadou US$ 30 milhões para construir um RV sem necessidade de uma estação de carregamento",
+      "url": "https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-06-09"
+    },
+    {
+      "id": "c61c5e36",
+      "title": "The startup that tried to fix food waste—and got hit by a disinformation campaign",
+      "summary": "Um artigo sobre uma empresa que tentou resolver o desperdício de alimentos, mas foi atacada por uma campanha de desinformação",
+      "url": "https://www.fastcompany.com/91554781/the-startup-that-tried-to-fix-food-waste-and-got-hit-by-a-disinformation-campaign",
+      "source": "Fast Company",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-06-09"
+    },
+    {
+      "id": "a57b81c5",
+      "title": "Amazon employees ask Seattle to put the brakes on new data centers",
+      "summary": "Um artigo sobre funcionários da Amazon pedindo que a cidade de Seattle pare o desenvolvimento de centros de dados",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/945809/amazon-employees-seattle-data-center-moratorium",
+      "source": "The Verge",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-06-09"
+    },
+    {
+      "id": "b467ecc9",
+      "title": "Papa Johns is closing stores: See a list of doomed locations for 2026 as the pizza chain reduces its footprint",
+      "summary": "Um artigo sobre a Papa Johns fechando lojas",
+      "url": "https://www.fastcompany.com/91555396/papa-johns-closing-stores-2026-list-of-doomed-locations",
+      "source": "Fast Company",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-06-09"
     }
   ]
 }
