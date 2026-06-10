@@ -1,6 +1,387 @@
 {
   "date": "2026-06-10",
-  "generated_at": "2026-06-10T12:49:10Z",
-  "total": 0,
-  "items": []
+  "generated_at": "2026-06-10T17:19:13Z",
+  "total": 38,
+  "items": [
+    {
+      "id": "db9cf886",
+      "title": "DiffusionGemma: 4x Faster Text Generation",
+      "summary": "Uma ferramenta de geração de texto 4x mais rápida.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Previsão de exposição de empregos para profissionais de IA.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "73d85b4d",
+      "title": "Shopify Turns 20!  5 Interesting Learnings from Shopify at $13B+ in ARR.  And Accelerating",
+      "summary": "A Shopify completa 20 anos e compartilha 5 lições aprendidas.",
+      "url": "https://www.saastr.com/shopify-turns-20-5-interesting-learnings-from-shopify-at-13b-in-arr-and-accelerating/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "e3dc689b",
+      "title": "How I validated design decisions before writing production code",
+      "summary": "Como validar decisões de design antes de escrever código.",
+      "url": "https://slack.design/articles/how-i-validated-design-decisions-before-writing-production-code/",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "e47cb7cf",
+      "title": "The Benefits Of Cognitive Inclusion In UX Research",
+      "summary": "Os benefícios da inclusão cognitiva na pesquisa de UX.",
+      "url": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "f1dcabc0",
+      "title": "Postgres by Example",
+      "summary": "Um guia de exemplo para o Postgres.",
+      "url": "https://github.com/boringcollege/postgres-by-example",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "Como a OpenAI competirá.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "c1f09e2a",
+      "title": "Essential books for product builders—part 2",
+      "summary": "Livros essenciais para construtores de produtos.",
+      "url": "https://www.lennysnewsletter.com/p/essential-books-for-product-builderspart-611",
+      "source": "Lenny's Newsletter",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-09"
+    },
+    {
+      "id": "c3249d0f",
+      "title": "Lovable, Harvey & Assembly AI: How the Fastest AI Companies Rebuilt Customer Success.  And Why NPS and Activity Scores Are Dead",
+      "summary": "Como as empresas de IA mais rápidas reestruturaram o sucesso do cliente. E por que a NPS e as pontuações de atividade estão mortas.",
+      "url": "https://www.saastr.com/lovable-harvey-assembly-ai-how-the-fastest-ai-companies-rebuilt-customer-success/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "faa91717",
+      "title": "Why Employees Aren’t Transparent About Their AI Usage",
+      "summary": "Por que os funcionários não são transparentes sobre o uso de IA.",
+      "url": "https://hbr.org/2026/06/why-employees-arent-transparent-about-their-ai-usage",
+      "source": "Harvard Business Review",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "838aa644",
+      "title": "How To Make Your Design System AI-Ready",
+      "summary": "Como tornar um sistema de design pronto para IA.",
+      "url": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-03"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "IA, redes e Turcos mecânicos.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "a4fc1566",
+      "title": "🎙️ How I AI: Gemini Omni: Clone yourself with AI in under 15 minutes & Shopping with Claude",
+      "summary": "Como criar um clone de si mesmo com IA em menos de 15 minutos e fazer compras com Claude.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-gemini-omni-clone-yourself",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "5843afcd",
+      "title": "Sales Used to Be the Engine. For the AI Leaders, It’s Often More the Caboose.",
+      "summary": "As vendas usavam a ser a locomotiva. Para os líderes de IA, é frequentemente mais o bagageiro.",
+      "url": "https://www.saastr.com/sales-used-to-be-the-engine-for-the-ai-leaders-its-often-more-the-caboose/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-09"
+    },
+    {
+      "id": "f81741a1",
+      "title": "GitHub Authentication issues related to API requests",
+      "summary": "Problemas de autenticação do GitHub relacionados a solicitações de API.",
+      "url": "https://www.githubstatus.com/incidents/fcj3088jg1wx",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "923e0caa",
+      "title": "How memory tools can make AI models worse",
+      "summary": "Como ferramentas de memória podem piorar modelos de IA.",
+      "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+      "source": "TechCrunch",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "34502087",
+      "title": "AI metrics",
+      "summary": "Métricas de IA.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/6/9/generative-ais-metrics-question",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2025-06-09"
+    },
+    {
+      "id": "690677cb",
+      "title": "Learning to lead in a hybrid human-AI enterprise",
+      "summary": "Aprender a liderar em uma empresa híbrida de humanos e IA.",
+      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-09"
+    },
+    {
+      "id": "20196337",
+      "title": "Shopping with Claude: How to find quality brands, automate returns, and buy things that last 100 years | Nicole Ruiz",
+      "summary": "Como fazer compras com Claude: encontrar marcas de qualidade, automatizar devoluções e comprar coisas que duram 100 anos.",
+      "url": "https://www.lennysnewsletter.com/p/shopping-with-claude",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "2ac997ec",
+      "title": "Why It’s So Hard for Older B2B Leaders to Compete in AI: Your Customers Can Do A Lot in Claude for $20-$200/Month. And You’re Paying $1.00 Per API Call For the Good Stuff.",
+      "summary": "Por que é difícil para líderes de B2B mais velhos competir em IA: seus clientes podem fazer muito em Claude por US$ 20-200/mês. E você está pagando US$ 1,00 por chamada de API para as coisas boas.",
+      "url": "https://www.saastr.com/why-its-so-hard-for-b2b-leaders-to-compete-in-ai-your-customers-can-do-it-in-claude-for-20-month-youre-paying-1-00-per-api-call/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-09"
+    },
+    {
+      "id": "05bd2ea8",
+      "title": "Screen Charm",
+      "summary": "Uma ferramenta para tornar a tela mais atraente.",
+      "url": "https://www.producthunt.com/products/screen-charm",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "34dde5ec",
+      "title": "Claude Fable 5 review: what the new Mythos model gets right (and very wrong)",
+      "summary": "Uma revisão da nova versão do modelo de IA Mythos.",
+      "url": "https://www.lennysnewsletter.com/p/claude-fable-5-review-what-the-new",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-09"
+    },
+    {
+      "id": "161489f9",
+      "title": "Where Does China Fit in Your Company’s Innovation Strategy?",
+      "summary": "Como incluir a China na estratégia de inovação de uma empresa.",
+      "url": "https://hbr.org/2026/06/where-does-china-fit-in-your-companys-innovation-strategy",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "240a2bf9",
+      "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+      "summary": "Empresas gastam US$ 7.500 por funcionário por mês em IA.",
+      "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "d6763546",
+      "title": "Hero Studio Photos",
+      "summary": "Uma ferramenta para criar fotos de estúdio.",
+      "url": "https://www.producthunt.com/products/hero-9",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "4d4858fd",
+      "title": "The old typography is new again",
+      "summary": "O antigo tipo de letra está de volta.",
+      "url": "https://elliotjaystocks.com/blog/the-old-typography-is-new-again",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "3cadad1d",
+      "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
+      "summary": "A Microsoft restringe o uso do Claude Fable por funcionários devido a preocupações com a retenção de dados.",
+      "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
+      "source": "The Verge",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "58e3ebe1",
+      "title": "The Indian government got cold feet on Starlink just before SpaceX’s IPO",
+      "summary": "O governo indiano recua em relação à Starlink logo antes da IPO da SpaceX.",
+      "url": "https://techcrunch.com/2026/06/10/the-indian-government-got-cold-feet-on-starlink-just-before-spacexs-ipo/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "c5d08954",
+      "title": "Incorruptible by Eric Ries",
+      "summary": "Uma ferramenta para tornar o produto incorruptível.",
+      "url": "https://www.producthunt.com/products/incorruptible-by-eric-ries",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-06"
+    },
+    {
+      "id": "4b32288d",
+      "title": "What Brands Get Wrong About Sports Sponsorships—and How to Get Them Right",
+      "summary": "O que as marcas erram sobre patrocínios esportivos e como corrigi-los.",
+      "url": "https://hbr.org/2026/06/what-brands-get-wrong-about-sports-sponsorships-and-how-to-get-them-right",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "bcc6285e",
+      "title": "performative-ui",
+      "summary": "Uma ferramenta para criar interfaces de usuário performáticas.",
+      "url": "https://vorpus.github.io/performativeUI/",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "91a10689",
+      "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
+      "summary": "A Google salvará fotos do Lens, gravações de Busca ao Vivo e áudio de Tradução para treinamento de IA.",
+      "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "24ed33da",
+      "title": "Napkin Math",
+      "summary": "Uma ferramenta para fazer matemática de forma rápida.",
+      "url": "https://www.producthunt.com/products/napkin-math",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "641673a7",
+      "title": "You can just tell the Instagram algorithm what you want now",
+      "summary": "Agora é possível informar ao algoritmo do Instagram o que se deseja.",
+      "url": "https://www.theverge.com/tech/947898/meta-instagram-your-algorithm-main-feed-tell",
+      "source": "The Verge",
+      "category": "Design",
+      "relevance": 3,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "49cca2e9",
+      "title": "The Download: the “steroid olympics” and a safer Mythos",
+      "summary": "Notícias de tecnologia, incluindo a \"Olimpíada de esteroides\" e um modelo de IA mais seguro.",
+      "url": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
+      "source": "MIT Technology Review",
+      "category": "Tech",
+      "relevance": 3,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "a8e471d3",
+      "title": "The “steroid olympics” were a circus—and a window into our culture",
+      "summary": "A \"Olimpíada de esteroides\" foi um circo e uma janela para nossa cultura.",
+      "url": "https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity/",
+      "source": "MIT Technology Review",
+      "category": "Design",
+      "relevance": 3,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "55b35ef3",
+      "title": "The Download: whole-body rejuvenation drugs and five things to know about AI",
+      "summary": "Notícias de tecnologia, incluindo drogas de rejuvenescimento corporal e cinco coisas a saber sobre IA.",
+      "url": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/",
+      "source": "MIT Technology Review",
+      "category": "Tech",
+      "relevance": 3,
+      "published_at": "2026-06-09"
+    },
+    {
+      "id": "3b3bdda3",
+      "title": "June Is For Exploring (2026 Wallpapers Edition)",
+      "summary": "Junho é para explorar (edição de wallpapers de 2026).",
+      "url": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 3,
+      "published_at": "2026-05-31"
+    }
+  ]
 }
