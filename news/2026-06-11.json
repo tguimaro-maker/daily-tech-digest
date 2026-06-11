@@ -1,0 +1,327 @@
+{
+  "date": "2026-06-11",
+  "generated_at": "2026-06-11T13:51:39Z",
+  "total": 32,
+  "items": [
+    {
+      "id": "d923eafd",
+      "title": "Cash App’s launching a phone service",
+      "summary": "Cash App está lançando um serviço de telefone",
+      "url": "https://www.theverge.com/tech/948181/cash-app-mobile",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-11"
+    },
+    {
+      "id": "533a77c1",
+      "title": "Journey Now",
+      "summary": "Journey Now é um novo produto",
+      "url": "https://www.producthunt.com/products/journey-now",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-05-27"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Predição de exposição de empregos à IA",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "484817ed",
+      "title": "The AI Became the Commodity. Here’s What 6 Verticals Agreed Was the Actual Moat at SaaStr AI 2026",
+      "summary": "A AI se tornou uma commodity. Aqui está o que 6 setores concordaram que era a verdadeira barreira de entrada em SaaStr AI 2026",
+      "url": "https://www.saastr.com/the-ai-became-the-commodity-heres-what-6-verticals-agreed-was-the-actual-moat-at-saastr-ai-annual-2026/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-11"
+    },
+    {
+      "id": "95dbe68b",
+      "title": "Discovery vs Delivery",
+      "summary": "Descoberta vs Entrega",
+      "url": "https://buzzusborne.com/writing/discovery-delivery/",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-11"
+    },
+    {
+      "id": "e47cb7cf",
+      "title": "The Benefits Of Cognitive Inclusion In UX Research",
+      "summary": "Os benefícios da inclusão cognitiva na pesquisa de UX",
+      "url": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "be286162",
+      "title": "Anthropic taps TCS to scale its enterprise AI deployments",
+      "summary": "A Anthropic está trabalhando com a TCS para escalar suas implantações de IA empresariais",
+      "url": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
+      "source": "TechCrunch",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-11"
+    },
+    {
+      "id": "6bedeeac",
+      "title": "EndpointMe",
+      "summary": "EndpointMe é um novo produto",
+      "url": "https://www.producthunt.com/products/endpointme",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "Como a OpenAI vai competir?",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "c1f09e2a",
+      "title": "Essential books for product builders—part 2",
+      "summary": "Livros essenciais para construtores de produtos - parte 2",
+      "url": "https://www.lennysnewsletter.com/p/essential-books-for-product-builderspart-611",
+      "source": "Lenny's Newsletter",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-09"
+    },
+    {
+      "id": "fdd5097c",
+      "title": "Your Data Layer Used to Hide Behind Your Product. Now It Is the Product.  With Firebolt’s CEO",
+      "summary": "Seu layer de dados usava a seriedade da sua produto. Agora é o produto",
+      "url": "https://www.saastr.com/your-data-layer-used-to-hide-behind-your-product-now-it-is-the-product-with-firebolts-ceo/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-11"
+    },
+    {
+      "id": "3a097cbf",
+      "title": "The website specification",
+      "summary": "A especificação do website",
+      "url": "https://specification.website/",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-11"
+    },
+    {
+      "id": "838aa644",
+      "title": "How To Make Your Design System AI-Ready",
+      "summary": "Como tornar o seu sistema de design pronto para IA",
+      "url": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-03"
+    },
+    {
+      "id": "ac857d81",
+      "title": "CrustRecruiter",
+      "summary": "CrustRecruiter é um novo produto",
+      "url": "https://www.producthunt.com/products/crustdata-2",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "IA, redes e Turcos Mecânicos",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "a4fc1566",
+      "title": "🎙️ How I AI: Gemini Omni: Clone yourself with AI in under 15 minutes & Shopping with Claude",
+      "summary": "Como criar um clone de si mesmo com IA em menos de 15 minutos e comprar com Claude",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-gemini-omni-clone-yourself",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "b8968f3e",
+      "title": "Liquid Glass: who gets to decide how an interface looks?",
+      "summary": "Liquid Glass: quem decide como uma interface deve ser?",
+      "url": "https://uxdesign.cc/liquid-glass-who-gets-to-decide-how-an-interface-looks-a0abe75ae21e?sk=c2ed9d75243ed7219989e32dd0f340b6",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-11"
+    },
+    {
+      "id": "a59a6f48",
+      "title": "Respan Gateway",
+      "summary": "Respan Gateway é um novo produto",
+      "url": "https://www.producthunt.com/products/keywords-ai",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-06"
+    },
+    {
+      "id": "34502087",
+      "title": "AI metrics",
+      "summary": "Métricas de IA",
+      "url": "https://www.ben-evans.com/benedictevans/2025/6/9/generative-ais-metrics-question",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2025-06-09"
+    },
+    {
+      "id": "20196337",
+      "title": "Shopping with Claude: How to find quality brands, automate returns, and buy things that last 100 years | Nicole Ruiz",
+      "summary": "Comprar com Claude: como encontrar marcas de qualidade, automatizar devoluções e comprar coisas que duram 100 anos",
+      "url": "https://www.lennysnewsletter.com/p/shopping-with-claude",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": "c3249d0f",
+      "title": "Lovable, Harvey & Assembly AI: How the Fastest AI Companies Rebuilt Customer Success.  And Why NPS and Activity Scores Are Dead",
+      "summary": "Lovable, Harvey & Assembly AI: como as empresas de IA mais rápidas reestruturaram o sucesso do cliente.  E por que os escores de NPS e atividade estão mortos",
+      "url": "https://www.saastr.com/lovable-harvey-assembly-ai-how-the-fastest-ai-companies-rebuilt-customer-success/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "07875351",
+      "title": "South Korea hits Coupang with $400M+ fine for data breach that affected millions",
+      "summary": "A Coreia do Sul multou a Coupang com mais de 400 milhões de dólares por violação de dados que afetou milhões de pessoas",
+      "url": "https://techcrunch.com/2026/06/11/south-korea-hits-coupang-with-400m-fine-for-data-breach-that-affected-millions/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-11"
+    },
+    {
+      "id": "12edec56",
+      "title": "Oracle stock is tumbling on cloud miss and costly data center plans: What it means for the AI bubble debate",
+      "summary": "A ação da Oracle está caindo devido a um erro no cloud e planos de centros de dados caros: O que isso significa para o debate sobre a bolha de IA",
+      "url": "https://www.fastcompany.com/91557832/orcl-stock-today-why-oracle-shares-are-falling-ai-bubble-debate",
+      "source": "Fast Company",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-11"
+    },
+    {
+      "id": "161489f9",
+      "title": "Where Does China Fit in Your Company’s Innovation Strategy?",
+      "summary": "Onde a China se encaixa na estratégia de inovação da sua empresa",
+      "url": "https://hbr.org/2026/06/where-does-china-fit-in-your-companys-innovation-strategy",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "6115a251",
+      "title": "More AI-generated code doesn't make your team faster. It might slow you",
+      "summary": "Mais código gerado por IA não torna sua equipe mais rápida. Pode até retardá-la",
+      "url": "https://twitter.com/awscloud/status/2064449711155589396",
+      "source": "Hacker News",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-11"
+    },
+    {
+      "id": "fa2f2f5f",
+      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "summary": "A Google DeepMind está preocupada com o que acontece quando milhões de agentes começam a interagir",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-11"
+    },
+    {
+      "id": "faa91717",
+      "title": "Why Employees Aren’t Transparent About Their AI Usage",
+      "summary": "Por que os funcionários não são transparentes sobre o uso de IA",
+      "url": "https://hbr.org/2026/06/why-employees-arent-transparent-about-their-ai-usage",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "dfda37ec",
+      "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+      "summary": "A saída da Índia da Opendoor está alimentando uma conversa mais ampla sobre IA e externalização",
+      "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-11"
+    },
+    {
+      "id": "73d85b4d",
+      "title": "Shopify Turns 20!  5 Interesting Learnings from Shopify at $13B+ in ARR.  And Accelerating",
+      "summary": "O Shopify completa 20 anos!  5 lições interessantes do Shopify em $13 bilhões de ARR.  E aceleração",
+      "url": "https://www.saastr.com/shopify-turns-20-5-interesting-learnings-from-shopify-at-13b-in-arr-and-accelerating/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "4b32288d",
+      "title": "What Brands Get Wrong About Sports Sponsorships—and How to Get Them Right",
+      "summary": "O que as marcas estão fazendo errado com patrocínios de esportes - e como fazer isso certo",
+      "url": "https://hbr.org/2026/06/what-brands-get-wrong-about-sports-sponsorships-and-how-to-get-them-right",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "b10aab2d",
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "summary": "A Anthropic pede desculpas por guardrails invisíveis de Claude Fable",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "source": "The Verge",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-11"
+    },
+    {
+      "id": "516ed362",
+      "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
+      "summary": "Trabalhadores estão passando mais de 6 horas por semana assistindo a bots de IA, o que está aumentando a frustração no trabalho",
+      "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
+      "source": "Hacker News",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-06-11"
+    }
+  ]
+}
