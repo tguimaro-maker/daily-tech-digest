@@ -1,0 +1,217 @@
+{
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T15:36:58Z",
+  "total": 21,
+  "items": [
+    {
+      "id": "cf67fe97",
+      "title": "Fox Is Buying Roku",
+      "summary": "A Fox está comprando a Roku em um acordo de consolidação de streaming de TV.",
+      "url": "https://www.fastcompany.com/91559558/fox-corp-buying-roku-stock-prices-fall-on-tv-streaming-merger",
+      "source": "Hacker News",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-15"
+    },
+    {
+      "id": "1c04aa2e",
+      "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
+      "summary": "Veteranos de segurança cibernética protestam contra o banimento de modelos de IA do governo dos EUA.",
+      "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-15"
+    },
+    {
+      "id": "b476f011",
+      "title": "🎙️ How I AI: Claude Fable 5 review & How Braintrust uses AI agents, evals, and CI to ship better software",
+      "summary": "Como a Braintrust usa agentes de IA, avaliações e CI para entregar software melhor.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-fable-5-review-and",
+      "source": "Lenny's Newsletter",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-15"
+    },
+    {
+      "id": "ea0520b2",
+      "title": "Do You Treat Your 20-Year Customers Worse Than Your New Ones?  You Probably Do",
+      "summary": "Por que as empresas de SaaS provavelmente tratam seus clientes de 20 anos pior do que os novos.",
+      "url": "https://www.saastr.com/do-you-treat-your-20-year-customers-worse-than-your-new-ones/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-15"
+    },
+    {
+      "id": "7680747d",
+      "title": "Help Employees Get Better—Not Just Faster—with AI",
+      "summary": "Como as empresas podem usar a IA para ajudar os funcionários a se tornarem melhores, não apenas mais rápidos.",
+      "url": "https://hbr.org/2026/06/help-employees-get-better-not-just-faster-with-ai",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-15"
+    },
+    {
+      "id": "d17272b2",
+      "title": "SpaceX’s biggest-ever IPO just grew to $85.7 billion raised",
+      "summary": "O IPO mais grande da SpaceX cresceu para US$ 85,7 bilhões.",
+      "url": "https://techcrunch.com/2026/06/15/spacexs-biggest-ever-ipo-just-grew-to-85-7-billion-raised/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-15"
+    },
+    {
+      "id": "512d3c87",
+      "title": "How Braintrust uses AI agents, evals, and CI to ship better software | Ankur Goyal",
+      "summary": "Como a Braintrust usa agentes de IA, avaliações e CI para entregar software melhor.",
+      "url": "https://www.lennysnewsletter.com/p/how-braintrust-uses-ai-agents-evals",
+      "source": "Lenny's Newsletter",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-15"
+    },
+    {
+      "id": "7c752c08",
+      "title": "Automate the Admin, Not the Relationship: How Reevo’s Agents Made Sellers 5x More Productive",
+      "summary": "Como os agentes da Reevo fizeram os vendedores 5 vezes mais produtivos.",
+      "url": "https://www.saastr.com/automate-the-admin-not-the-relationship-how-reevos-agents-made-sellers-5x-more-productive/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-15"
+    },
+    {
+      "id": "d3e9cbf6",
+      "title": "Fox is buying Roku in latest streaming TV consolidation deal. Stock prices fall for both companies",
+      "summary": "A Fox está comprando a Roku em um acordo de consolidação de streaming de TV.",
+      "url": "https://www.fastcompany.com/91559558/fox-corp-buying-roku-stock-prices-fall-on-tv-streaming-merger",
+      "source": "Fast Company",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-15"
+    },
+    {
+      "id": "8667d044",
+      "title": "The Kindness Gap in VC Fundraising: Why a Little Grace Goes a Long Way",
+      "summary": "A lacuna de gentileza no levantamento de fundos de VC.",
+      "url": "https://www.saastr.com/the-kindness-gap-in-vc-fundraising-why-a-little-grace-goes-a-long-way/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-14"
+    },
+    {
+      "id": "c6e6a054",
+      "title": "How Trump officials pushed Anthropic to shut down the world’s most powerful AI models",
+      "summary": "Como os funcionários da Trump pressionaram a Anthropic a fechar os modelos de IA mais poderosos do mundo.",
+      "url": "https://www.fastcompany.com/91559401/how-trump-officials-pushed-anthropic-to-shut-down-the-worlds-most-powerful-ai-models",
+      "source": "Fast Company",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-15"
+    },
+    {
+      "id": "bc19daa3",
+      "title": "How AI Companies Can Pay Fair Rates for the Content They Need",
+      "summary": "Como as empresas de IA podem pagar taxas justas pelo conteúdo que precisam.",
+      "url": "https://hbr.org/2026/06/how-ai-companies-can-pay-fair-rates-for-the-content-they-need",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-15"
+    },
+    {
+      "id": "76ef3c02",
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+      "summary": "A Salesforce adquiriu a plataforma de atendimento ao cliente de IA Fin por US$ 3,6 bilhões.",
+      "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-15"
+    },
+    {
+      "id": "f0b08a07",
+      "title": "🧠 Community Wisdom: How AI is changing product operating models, tracking work stress with Whoop, whether you need a portfolio of AI side projects, marketing for tiny teams, and more",
+      "summary": "Como a IA está mudando os modelos de operação de produtos, a monitorização do estresse no trabalho com o Whoop, se é necessário um portfólio de projetos de IA, marketing para equipes pequenas, e mais.",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-how-ai-is-changing",
+      "source": "Lenny's Newsletter",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-13"
+    },
+    {
+      "id": "53aa2829",
+      "title": "Hiring Risks vs. Hiring Flags.  Make Sure You Get it Right.",
+      "summary": "Riscos de contratação vs. bandeiras de contratação. Certifique-se de que você está correto.",
+      "url": "https://www.saastr.com/hiring-risks-vs-hiring-flags/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-14"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Um estudo sobre a exposição de empregos à IA.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "79e9301e",
+      "title": "Hetzner increased dedicated server prices 3-4x",
+      "summary": "O preço dos servidores dedicados da Hetzner aumentou 3-4 vezes.",
+      "url": "https://news.ycombinator.com/item?id=48542064",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-06-15"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "Como a OpenAI competirá.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "9201d3c1",
+      "title": "Show HN: Can Europe train a frontier AI model on the compute it owns?",
+      "summary": "Um novo modelo de IA pode ser treinado com recursos de computação europeus.",
+      "url": "https://github.com/sammysltd/euromesh",
+      "source": "Hacker News",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-15"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "A IA, redes e Mecânicas Turcas.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "34502087",
+      "title": "AI metrics",
+      "summary": "Métricas de IA.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/6/9/generative-ais-metrics-question",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2025-06-09"
+    }
+  ]
+}
