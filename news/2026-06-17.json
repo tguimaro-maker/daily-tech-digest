@@ -1,0 +1,357 @@
+{
+  "date": "2026-06-17",
+  "generated_at": "2026-06-17T13:36:12Z",
+  "total": 35,
+  "items": [
+    {
+      "id": "6d1009c4",
+      "title": "How to design AI agent loops: schedules, goals, and subagents in Claude Code and Codex",
+      "summary": "Um artigo explica como projetar loops de agentes de inteligência artificial.",
+      "url": "https://www.lennysnewsletter.com/p/how-to-design-ai-agent-loops-schedules",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-17"
+    },
+    {
+      "id": "d161af66",
+      "title": "How Stripe, Google, Canva, Cloudflare and Higgsfield Are Actually Selling in 2026",
+      "summary": "Um artigo descreve como empresas como Stripe e Google vendem seus produtos.",
+      "url": "https://www.saastr.com/how-stripe-google-canva-cloudflare-and-higgsfield-are-actually-selling-in-2026/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-17"
+    },
+    {
+      "id": "14e806d2",
+      "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
+      "summary": "Um artigo explica como a inteligência artificial supera o pensamento probabilístico.",
+      "url": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
+      "source": "Smashing Magazine",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-16"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "Um artigo discute como a OpenAI competirá.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "b476f011",
+      "title": "🎙️ How I AI: Claude Fable 5 review & How Braintrust uses AI agents, evals, and CI to ship better software",
+      "summary": "Um artigo descreve como a Braintrust usa agentes de inteligência artificial para melhorar o software.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-fable-5-review-and",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-15"
+    },
+    {
+      "id": "b29fde88",
+      "title": "Dear SaaStr:  What’s The #1 Mistake Founders Make When They Start to Do Marketing?",
+      "summary": "Um artigo discute o erro comum que fundadores cometem ao fazer marketing.",
+      "url": "https://www.saastr.com/dear-saastr-whats-the-1-mistake-founders-make-when-they-start-to-do-marketing/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-17"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "Um artigo discute a inteligência artificial, redes e Mechanical Turks.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "512d3c87",
+      "title": "How Braintrust uses AI agents, evals, and CI to ship better software | Ankur Goyal",
+      "summary": "Um artigo descreve como a Braintrust usa agentes de inteligência artificial para melhorar o software.",
+      "url": "https://www.lennysnewsletter.com/p/how-braintrust-uses-ai-agents-evals",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-15"
+    },
+    {
+      "id": "52cc694f",
+      "title": "It Doesn’t Really Matter When Your Competitor Gets Acquired. (Except It Means You Weren’t.)",
+      "summary": "Um artigo discute a importância de não se preocupar com a aquisição de concorrentes.",
+      "url": "https://www.saastr.com/it-doesnt-really-matter-when-your-competitor-gets-acquired-except-it-means-you-werent/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-16"
+    },
+    {
+      "id": "aee6f8ef",
+      "title": "What we’re no longer seeing: AI and the invisible newcomer in open source",
+      "summary": "Um artigo discute a inteligência artificial e o open source.",
+      "url": "https://blog.stdlib.io/ai-and-the-invisible-newcomer-in-open-source/",
+      "source": "Sidebar",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-17"
+    },
+    {
+      "id": "34502087",
+      "title": "AI metrics",
+      "summary": "Um artigo discute métricas de inteligência artificial.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/6/9/generative-ais-metrics-question",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2025-06-09"
+    },
+    {
+      "id": "246db0f0",
+      "title": "Exclusive eBook: How AI is becoming the next military advisor",
+      "summary": "Um e-book exclusivo discute como a inteligência artificial está se tornando um conselheiro militar.",
+      "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-16"
+    },
+    {
+      "id": "f45da5bb",
+      "title": "Dear SaaStr:  My Top Sales Rep Made $600,000 a Year — And Just Quit!  What Happened?",
+      "summary": "Um artigo discute o erro comum que fundadores cometem ao fazer marketing.",
+      "url": "https://www.saastr.com/dear-saastr-my-top-sales-rep-made-600000-a-year-and-just-quit-what-happened/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-16"
+    },
+    {
+      "id": "d75895f3",
+      "title": "AI search grounded in Facebook posts? What could go wrong?",
+      "summary": "Um sistema de busca com base em posts do Facebook pode ter consequências negativas.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
+      "source": "The Verge",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-17"
+    },
+    {
+      "id": "2cd68575",
+      "title": "SpaceX alum nabs $22M to turn rocket engines into geothermal power plants",
+      "summary": "Um ex-funcionário da SpaceX recebeu US$ 22 milhões para transformar motores de foguete em usinas de energia geotérmica.",
+      "url": "https://techcrunch.com/2026/06/17/spacex-alum-nabs-22m-to-turn-rocket-engines-into-geothermal-power-plants/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-17"
+    },
+    {
+      "id": "fbd8140a",
+      "title": "Wario Synth",
+      "summary": "Um sintetizador de som chamado Wario Synth foi lançado.",
+      "url": "https://www.producthunt.com/products/wario-style",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-16"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Um estudo prediz a exposição de trabalhadores à inteligência artificial.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "800471a5",
+      "title": "Every frame perfect",
+      "summary": "Um artigo descreve como criar experiências de usuário perfeitas.",
+      "url": "https://tonsky.me/blog/every-frame-perfect/",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-17"
+    },
+    {
+      "id": "373f798d",
+      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+      "summary": "Um estudo mostra que 60% dos consumidores americanos se sentem desmotivados por mensagens de marketing com inteligência artificial.",
+      "url": "https://wpvip.com/future-of-the-web-2026/",
+      "source": "Hacker News",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-17"
+    },
+    {
+      "id": "fd2f9822",
+      "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
+      "summary": "Um fundo de pensão canadense investe em centros de dados de inteligência artificial na Índia.",
+      "url": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-17"
+    },
+    {
+      "id": "fc9d7c81",
+      "title": "Daemons by Charlie Labs",
+      "summary": "Um aplicativo de palavras-chave chamado StickerWords foi lançado.",
+      "url": "https://www.producthunt.com/products/daemons-by-charlie-labs",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-05"
+    },
+    {
+      "id": "18b7c7ab",
+      "title": "This hidden Gemini feature uses AI to teach you to be a tech savant",
+      "summary": "Um artigo descreve como um recurso oculto do Gemini usa inteligência artificial para ensinar a ser um especialista em tecnologia.",
+      "url": "https://www.fastcompany.com/91559633/this-hidden-google-gemini-feature-can-make-you-a-better-computer-user",
+      "source": "Fast Company",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-17"
+    },
+    {
+      "id": "ca5a9f1f",
+      "title": "The field guide to CSS Grid Lanes",
+      "summary": "Um artigo explica como usar CSS Grid Lanes.",
+      "url": "https://gridlanes.webkit.org/",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-17"
+    },
+    {
+      "id": "6002bdec",
+      "title": "Got Thread problems? There’s an app for that",
+      "summary": "Um aplicativo chamado Thread problemas foi lançado.",
+      "url": "https://www.theverge.com/tech/949001/thread-network-diagnostic-tools-app-troubleshooting-matter-smart-home",
+      "source": "The Verge",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-17"
+    },
+    {
+      "id": "a57a2c59",
+      "title": "MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C",
+      "summary": "Um biblioteca de UI chamada MicroUI foi lançada.",
+      "url": "https://github.com/rxi/microui",
+      "source": "Hacker News",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-17"
+    },
+    {
+      "id": "59c5231a",
+      "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
+      "summary": "A DeepL adquiriu a Mixhalo para streaming de áudio de eventos ao vivo e tradução.",
+      "url": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-17"
+    },
+    {
+      "id": "0dbfd9a0",
+      "title": "Tapfree for Chrome",
+      "summary": "Um aplicativo chamado Tapfree foi lançado.",
+      "url": "https://www.producthunt.com/products/tapfree-for-android-2",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-13"
+    },
+    {
+      "id": "953b28fc",
+      "title": "Why Decision-Making Frameworks Fail",
+      "summary": "Um artigo discute por que os frameworks de tomada de decisão falham.",
+      "url": "https://hbr.org/2026/06/gg-why-decision-making-frameworks-fail",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-16"
+    },
+    {
+      "id": "e47cb7cf",
+      "title": "The Benefits Of Cognitive Inclusion In UX Research",
+      "summary": "Um artigo discute os benefícios da inclusão cognitiva na pesquisa de UX.",
+      "url": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "86b4b5ee",
+      "title": "Jackery announces ‘world’s slimmest’ fridge battery",
+      "summary": "Um refrigerador portátil chamado Jackery foi lançado.",
+      "url": "https://www.theverge.com/tech/949683/jackery-fridgeguard-worlds-slimmest-fridge-battery",
+      "source": "The Verge",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-17"
+    },
+    {
+      "id": "28fedc0c",
+      "title": "RFC 10008: The new HTTP Query Method",
+      "summary": "Um novo método de consulta HTTP foi proposto.",
+      "url": "https://www.rfc-editor.org/info/rfc10008/",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-06-17"
+    },
+    {
+      "id": "3a24a3f1",
+      "title": "Uber will bring its premium robotaxi service to Houston in 2027",
+      "summary": "A Uber vai trazer seu serviço de táxi robótico premium para Houston em 2027.",
+      "url": "https://techcrunch.com/2026/06/17/uber-will-bring-its-premium-robotaxi-service-to-houston-in-2027/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-17"
+    },
+    {
+      "id": "cd927bcb",
+      "title": "StickerWords",
+      "summary": "Um aplicativo de palavras-chave chamado StickerWords foi lançado.",
+      "url": "https://www.producthunt.com/products/stickerwords",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-17"
+    },
+    {
+      "id": "1ed81889",
+      "title": "The hidden pattern behind successful products | Mark Pincus (founder of Zynga)",
+      "summary": "Um artigo descreve o padrão oculto por trás de produtos bem-sucedidos.",
+      "url": "https://www.lennysnewsletter.com/p/the-common-pattern-behind-successful",
+      "source": "Lenny's Newsletter",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-14"
+    },
+    {
+      "id": "2ccb5a10",
+      "title": "Quantum computing is growing—in Chicago!—and PsiQuantum keeps racking up wins",
+      "summary": "Um artigo discute o crescimento da computação quântica em Chicago e os sucessos da PsiQuantum.",
+      "url": "https://www.fastcompany.com/91538551/jb-pritzker-psiquantum-chicago-quantum-computing",
+      "source": "Fast Company",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-17"
+    }
+  ]
+}
