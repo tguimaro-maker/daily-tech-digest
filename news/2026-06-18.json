@@ -1,0 +1,377 @@
+{
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T12:45:17Z",
+  "total": 37,
+  "items": [
+    {
+      "id": "91d61a96",
+      "title": "This Ghost in the Shell keyboard makes me want to activate the hundred spidery robot fingers inside my regular fingers",
+      "summary": "Uma tecla de computador inspirada em Ghost in the Shell pode ser a chave para uma experiência de interface mais imersiva.",
+      "url": "https://www.theverge.com/tech/951371/iqunix-ev63-ghost-in-the-shell-edition-anime-gaming-mechanical-keyboard-review",
+      "source": "The Verge",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-18"
+    },
+    {
+      "id": "45ed7047",
+      "title": "Pixi’s new iOS app turns text messages into interactive AR experiences",
+      "summary": "Uma nova aplicação de iOS da Pixi pode transformar mensagens de texto em experiências de realidade aumentada interativas.",
+      "url": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
+      "source": "TechCrunch",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-18"
+    },
+    {
+      "id": "cfe7401b",
+      "title": "Viktor for Microsoft Teams",
+      "summary": "Viktor para Microsoft Teams, uma ferramenta para melhorar a colaboração.",
+      "url": "https://www.producthunt.com/products/viktor",
+      "source": "Product Hunt",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-11"
+    },
+    {
+      "id": "6d1009c4",
+      "title": "How to design AI agent loops: schedules, goals, and subagents in Claude Code and Codex",
+      "summary": "Dicas para projetar loops de agentes de inteligência artificial.",
+      "url": "https://www.lennysnewsletter.com/p/how-to-design-ai-agent-loops-schedules",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-17"
+    },
+    {
+      "id": "b90334af",
+      "title": "6 Key Signs a VP of Sales Can’t Scale Beyond $5m-$10m ARR",
+      "summary": "Sinais de que um vice-presidente de vendas não consegue escalar além de $5m-$10m ARR.",
+      "url": "https://www.saastr.com/signs-a-vp-cant-scale/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-18"
+    },
+    {
+      "id": "14e806d2",
+      "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
+      "summary": "Como a inteligência artificial pode superar o pensamento probabilístico.",
+      "url": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
+      "source": "Smashing Magazine",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-16"
+    },
+    {
+      "id": "80dc11ce",
+      "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
+      "summary": "Midjourney gera imagens de ultrassom completo.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+      "source": "The Verge",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-18"
+    },
+    {
+      "id": "2682b2b7",
+      "title": "Agentic videos by D-ID",
+      "summary": "Vídeos agênticos da D-ID.",
+      "url": "https://www.producthunt.com/products/d-id",
+      "source": "Product Hunt",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-12"
+    },
+    {
+      "id": "b476f011",
+      "title": "🎙️ How I AI: Claude Fable 5 review & How Braintrust uses AI agents, evals, and CI to ship better software",
+      "summary": "Um artigo sobre como o Braintrust usa agentes de inteligência artificial, avaliações e CI para entregar software melhor.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-fable-5-review-and",
+      "source": "Lenny's Newsletter",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-15"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "Inteligência artificial, redes e Mechanical Turks.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "512d3c87",
+      "title": "How Braintrust uses AI agents, evals, and CI to ship better software | Ankur Goyal",
+      "summary": "Como o Braintrust usa agentes de inteligência artificial, avaliações e CI para entregar software melhor.",
+      "url": "https://www.lennysnewsletter.com/p/how-braintrust-uses-ai-agents-evals",
+      "source": "Lenny's Newsletter",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-15"
+    },
+    {
+      "id": "43c93639",
+      "title": "Monitor Your Agents. Both AI and Human.",
+      "summary": "Monitorar agentes. Ambos humanos e de inteligência artificial.",
+      "url": "https://www.saastr.com/monitor-your-agents-both-ai-and-human/",
+      "source": "SaaStr",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-17"
+    },
+    {
+      "id": "34502087",
+      "title": "AI metrics",
+      "summary": "Métricas de inteligência artificial.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/6/9/generative-ais-metrics-question",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2025-06-09"
+    },
+    {
+      "id": "d161af66",
+      "title": "How Stripe, Google, Canva, Cloudflare and Higgsfield Are Actually Selling in 2026",
+      "summary": "Como a Stripe, Google, Canva, Cloudflare e Higgsfield estão realmente vendendo em 2026.",
+      "url": "https://www.saastr.com/how-stripe-google-canva-cloudflare-and-higgsfield-are-actually-selling-in-2026/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-17"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Um artigo sobre a exposição de empregos relacionados à inteligência artificial.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "1f314302",
+      "title": "Video Quick Take: Implementing Zero Trust in an AI-Driven Threat Landscape - SPONSOR CONTENT FROM THREATLOCKER",
+      "summary": "Um vídeo sobre implementar confiança zero em um cenário de ameaças de inteligência artificial.",
+      "url": "https://hbr.org/sponsored/2026/06/video-quick-take-implementing-zero-trust-in-an-ai-driven-threat-landscape",
+      "source": "Harvard Business Review",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-06-17"
+    },
+    {
+      "id": "589faef4",
+      "title": "You got faster. Your company didn’t.",
+      "summary": "Um artigo sobre como a velocidade de um indivíduo não é necessariamente a velocidade da empresa.",
+      "url": "https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/",
+      "source": "Sidebar",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-18"
+    },
+    {
+      "id": "e4dd2a57",
+      "title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
+      "summary": "Um artigo sobre a construção de uma camada de memória persistente de agentes em Elasticsearch.",
+      "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-06-18"
+    },
+    {
+      "id": "663ba57a",
+      "title": "Waymo recalls nearly 4,000 robotaxis to stop them driving into highway construction zones",
+      "summary": "Waymo lembra quase 4.000 robôs-táxis para evitar zonas de construção de rodovias.",
+      "url": "https://techcrunch.com/2026/06/18/waymo-recalls-nearly-4000-robotaxis-to-stop-them-driving-into-highway-construction-zones/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-06-18"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "Como a OpenAI competirá.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "dfed7378",
+      "title": "Artisan’s Ava 2.0: What a Fully Autonomous AI BDR Actually Looks Like in Production with CEO Jaspar Carmichael-Jack",
+      "summary": "Uma entrevista com o CEO da Artisan sobre a Ava 2.0.",
+      "url": "https://www.saastr.com/artisans-ava-2-0-what-a-fully-autonomous-ai-bdr-actually-looks-like-in-production-with-ceo-jaspar-carmichael-jack/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-18"
+    },
+    {
+      "id": "8184509c",
+      "title": "3 Forces Are Redefining the Transition from Manager to Leader",
+      "summary": "Forças que redefinem a transição de gerente para líder.",
+      "url": "https://hbr.org/2026/06/3-forces-are-redefining-the-transition-from-manager-to-leader",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-17"
+    },
+    {
+      "id": "1b7349f2",
+      "title": "The Virtual OS Museum",
+      "summary": "Um museu de sistemas operacionais virtuais.",
+      "url": "https://virtualosmuseum.org/",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-18"
+    },
+    {
+      "id": "36d55898",
+      "title": "The Impact Of Humanoid Robots On Humanity",
+      "summary": "O impacto de robôs humanoides na humanidade.",
+      "url": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-12"
+    },
+    {
+      "id": "f4535bee",
+      "title": "Hospitals and universities repurposing drugs at 90% lower cost",
+      "summary": "Hospitais e universidades repurificam medicamentos a 90% de custo menor.",
+      "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+      "source": "Hacker News",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-18"
+    },
+    {
+      "id": "9fb98d75",
+      "title": "NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX",
+      "summary": "A NASA escolhe a empresa de foguetes de Eric Schmidt para uma missão para Marte, criando uma corrida com a SpaceX.",
+      "url": "https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-18"
+    },
+    {
+      "id": "babbe98f",
+      "title": "Japanly AEO",
+      "summary": "Japanly AEO.",
+      "url": "https://www.producthunt.com/products/japanly-aeo",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-17"
+    },
+    {
+      "id": "719b6933",
+      "title": "AI-driven velocity is manufacturing’s new competitive edge",
+      "summary": "A velocidade de inteligência artificial é a nova vantagem competitiva da manufatura.",
+      "url": "https://www.fastcompany.com/91559829/ai-driven-velocity-is-manufacturings-new-competitive-edge",
+      "source": "Fast Company",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-18"
+    },
+    {
+      "id": "ba08f2ff",
+      "title": "Prevent Team Friction from Turning into Dysfunction",
+      "summary": "Prevenir fricção de equipe de se transformar em disfunção.",
+      "url": "https://hbr.org/2026/06/prevent-team-friction-from-turning-into-dysfunction",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-17"
+    },
+    {
+      "id": "56e96c6b",
+      "title": "The web we know is going to disappear",
+      "summary": "A web que conhecemos vai desaparecer.",
+      "url": "https://www.minid.net/2026/6/15/the-web-is-going-to-dissapear",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-18"
+    },
+    {
+      "id": "e47cb7cf",
+      "title": "The Benefits Of Cognitive Inclusion In UX Research",
+      "summary": "Os benefícios da inclusão cognitiva na pesquisa de UX.",
+      "url": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "04232709",
+      "title": "VSCO launches Studio Pro mobile photo editing app and plans $500 per year subscription",
+      "summary": "VSCO lança aplicativo de edição de fotos móvel e planeja uma assinatura de $500 por ano.",
+      "url": "https://www.theverge.com/tech/951863/vsco-studio-pro-vsco-one-subscription",
+      "source": "The Verge",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-17"
+    },
+    {
+      "id": "48d10d58",
+      "title": "Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?",
+      "summary": "Sete baralhos perfeitos aleatorizam uma baralha de cartas. Mas quantos baralhos desorganizados são necessários?",
+      "url": "https://www.quantamagazine.org/seven-perfect-shuffles-randomize-a-deck-of-cards-but-how-many-sloppy-ones-20260617/",
+      "source": "Hacker News",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-18"
+    },
+    {
+      "id": "a02d8cb4",
+      "title": "How to turn off AI in your Google Docs",
+      "summary": "Como desativar a inteligência artificial no Google Docs.",
+      "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-06-18"
+    },
+    {
+      "id": "3954e8d2",
+      "title": "Genie Mentions",
+      "summary": "Genie Mentions.",
+      "url": "https://www.producthunt.com/products/genie-mentions",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-18"
+    },
+    {
+      "id": "1ed81889",
+      "title": "The hidden pattern behind successful products | Mark Pincus (founder of Zynga)",
+      "summary": "O padrão oculto por trás de produtos bem-sucedidos.",
+      "url": "https://www.lennysnewsletter.com/p/the-common-pattern-behind-successful",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-14"
+    },
+    {
+      "id": "7f602968",
+      "title": "Here’s how we created a product category that didn’t exist",
+      "summary": "Como criamos uma categoria de produto que não existia.",
+      "url": "https://www.fastcompany.com/91559834/heres-how-we-created-a-product-category-that-didnt-exist",
+      "source": "Fast Company",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-18"
+    }
+  ]
+}
