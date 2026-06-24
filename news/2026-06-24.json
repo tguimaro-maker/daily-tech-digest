@@ -1,0 +1,307 @@
+{
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24T12:13:28Z",
+  "total": 30,
+  "items": [
+    {
+      "id": "ed163776",
+      "title": "Customer Relationship Agents by Clarify",
+      "summary": "Agentes de relacionamento com clientes pela Clarify",
+      "url": "https://www.producthunt.com/products/clarify-6",
+      "source": "Product Hunt",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-22"
+    },
+    {
+      "id": "2c1492ff",
+      "title": "FUTO Swipe",
+      "summary": "FUTO Swipe",
+      "url": "https://www.producthunt.com/products/futo-swipe",
+      "source": "Product Hunt",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-24"
+    },
+    {
+      "id": "76520c4e",
+      "title": "StaleMate PR",
+      "summary": "StaleMate PR",
+      "url": "https://www.producthunt.com/products/stalemate-pr",
+      "source": "Product Hunt",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-23"
+    },
+    {
+      "id": "519cdf74",
+      "title": "Tencent EdgeOne Makers",
+      "summary": "Tencent EdgeOne Makers",
+      "url": "https://www.producthunt.com/products/tencent-edgeone-2",
+      "source": "Product Hunt",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-16"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Previsão de exposição de empregos de IA",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "0e5c3f14",
+      "title": "GLM 5.2: why I’m replacing Opus in Claude Code with this new model",
+      "summary": "GLM 5.2: por que estou substituindo Opus em Claude Code por esse novo modelo",
+      "url": "https://www.lennysnewsletter.com/p/glm-52-why-im-replacing-opus-in-claude",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-24"
+    },
+    {
+      "id": "3f8a43a2",
+      "title": "We Added Too Many Guardrails and Broke Our Own Agent, Our AI VP of Finance Found a Setting We’d Missed for 8 Years, and an Agent Is Now the One Renewing Your Software: The Agents #007",
+      "summary": "Agentes agora renovam seu software",
+      "url": "https://www.saastr.com/we-added-too-many-guardrails-and-broke-our-own-agent-our-ai-vp-of-finance-found-a-setting-wed-missed-for-8-years-and-an-agent-is-now-the-one-renewing-your-software-the-agents-007/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-23"
+    },
+    {
+      "id": "14e806d2",
+      "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
+      "summary": "Designando com incerteza: como a IA supercarrega o pensamento probabilístico",
+      "url": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-16"
+    },
+    {
+      "id": "a1dd386a",
+      "title": "We're making Bunny DNS free: because a faster internet won't build itself",
+      "summary": "Bunny DNS está tornando-se gratuito: porque um internet mais rápido não constrói sozinho",
+      "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-06-24"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "Como a OpenAI vai competir?",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "d0e7c127",
+      "title": "The new inner game: Your unfair advantage in the age of AI",
+      "summary": "O novo jogo interno: sua vantagem injusta na era de IA",
+      "url": "https://www.lennysnewsletter.com/p/the-new-inner-game-your-unfair-advantage",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-23"
+    },
+    {
+      "id": "7f3a781c",
+      "title": "Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design",
+      "summary": "Ashby (YC W19) está contratando engenheiros da EMEA",
+      "url": "https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-06-24"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "IA, redes e Turcos mecânicos",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "3f9701d6",
+      "title": "🎙️ How I AI: How to write AI agent loops in Claude Code and Codex + How Claude Mythos found a 15-year-old bug in Mozilla Firefox",
+      "summary": "Como escrever loops de agentes de IA em Claude Code e Codex",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-to-write-ai-agent-loops",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-22"
+    },
+    {
+      "id": "01d4caa4",
+      "title": "The 5 Types of AI Investment–and How to Capture Their Value",
+      "summary": "Os 5 tipos de investimento em IA – e como capturar seu valor",
+      "url": "https://hbr.org/2026/06/the-5-types-of-ai-investment-and-how-to-capture-their-value",
+      "source": "Harvard Business Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-23"
+    },
+    {
+      "id": "e47cb7cf",
+      "title": "The Benefits Of Cognitive Inclusion In UX Research",
+      "summary": "Os benefícios da inclusão cognitiva na pesquisa de UX",
+      "url": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "1e395a40",
+      "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
+      "summary": "Raspberry Pi Pico W como adaptador Wi-Fi USB",
+      "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-06-24"
+    },
+    {
+      "id": "f7d0fe54",
+      "title": "Superhuman acquires AI detection startup GPTZero",
+      "summary": "Superhuman adquire startup de detecção de IA GPTZero",
+      "url": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-06-23"
+    },
+    {
+      "id": "34502087",
+      "title": "AI metrics",
+      "summary": "Métricas de IA",
+      "url": "https://www.ben-evans.com/benedictevans/2025/6/9/generative-ais-metrics-question",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2025-06-09"
+    },
+    {
+      "id": "7d618cac",
+      "title": "How Claude Mythos found a 15-year-old bug in Mozilla Firefox | Brian Grinstead",
+      "summary": "Como Claude Mythos encontrou um bug de 15 anos no Mozilla Firefox",
+      "url": "https://www.lennysnewsletter.com/p/how-claude-mythos-found-a-15-year",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-22"
+    },
+    {
+      "id": "799bfbc9",
+      "title": "How to invest when everything is moving too fast",
+      "summary": "Como investir quando tudo está se movendo muito rápido",
+      "url": "https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-06-24"
+    },
+    {
+      "id": "581492a9",
+      "title": "Liquid Death founder Mike Cessario shares his playbook for breaking through",
+      "summary": "Fundador da Liquid Death compartilha seu playbook para quebrar através",
+      "url": "https://www.fastcompany.com/91562196/liquid-death-founder-mike-cessario-shares-his-playbook-for-breaking-through",
+      "source": "Fast Company",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-06-24"
+    },
+    {
+      "id": "e5e9a28f",
+      "title": "Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India",
+      "summary": "Flipkart expande seu impulso de comércio rápido enquanto a Amazon aumenta em Índia",
+      "url": "https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-06-24"
+    },
+    {
+      "id": "94ca3fd0",
+      "title": "A Simple Guide To Being in the Top 25% of Sales Professionals",
+      "summary": "Guia simples para estar entre os 25% melhores profissionais de vendas",
+      "url": "https://www.saastr.com/what-is-the-best-sales-advice-you-can-give/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2023-09-29"
+    },
+    {
+      "id": "597a9ee9",
+      "title": "The new ‘cash-poor’ is six figures and up",
+      "summary": "O novo ‘pobre em dinheiro’ é seis figuras e acima",
+      "url": "https://www.fastcompany.com/91555609/the-new-cash-poor-isnt-low-income-its-six-figures-and-up-personal-finance-wealth",
+      "source": "Fast Company",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-06-24"
+    },
+    {
+      "id": "b7b133a4",
+      "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+      "summary": "MoEngage da Índia apostou que o futuro do marketing são milhões de agentes de IA",
+      "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-06-23"
+    },
+    {
+      "id": "ab2ade53",
+      "title": "9 Signs a Startup Isn’t Going to Make It with SaaStr CEO Jason Lemkin",
+      "summary": "9 sinais de que uma startup não vai dar certo com Jason Lemkin",
+      "url": "https://www.saastr.com/9-signs-a-startup-isnt-going-to-make-it-with-saastr-ceo-jason-lemkin/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2024-07-24"
+    },
+    {
+      "id": "2efe449d",
+      "title": "China is designing a floating, nuclear-powered shipping port of the future",
+      "summary": "China está projetando um porto flutuante nuclear para o futuro",
+      "url": "https://www.fastcompany.com/91557766/china-floating-nuclear-powered-shipping-port",
+      "source": "Fast Company",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-06-24"
+    },
+    {
+      "id": "5d063656",
+      "title": "Salesforce at 2.8x ARR, HubSpot Down 56%, Adobe at 11x Earnings: Are They Just Too Oversold Now?",
+      "summary": "Salesforce a 2,8x ARR, HubSpot caiu 56%, Adobe a 11x lucros: estão apenas muito subavaliados agora?",
+      "url": "https://www.saastr.com/salesforce-at-3-1x-arr-hubspot-down-56-adobe-at-11x-earnings-are-they-just-too-oversold-now/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-06-22"
+    },
+    {
+      "id": "0178965e",
+      "title": "The surprising lessons about leadership a babysitting gig taught Minted CEO and cofounder Melissa Kim",
+      "summary": "Lições surpreendentes sobre liderança que um emprego de babá ensinou à Melissa Kim",
+      "url": "https://www.fastcompany.com/91552268/minted-ceo-and-co-founder-melissa-kim-on-her-first-bob-and-the-lessons-she-learned-from-it-first-job-ceo-management-lessons",
+      "source": "Fast Company",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-06-24"
+    }
+  ]
+}
