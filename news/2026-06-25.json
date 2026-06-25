@@ -1,0 +1,277 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T12:11:34Z",
+  "total": 27,
+  "items": [
+    {
+      "id": "cc7ccaad",
+      "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
+      "summary": "Ford contrata ex-engenheiros para corrigir erros causados por sistemas automatizados",
+      "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-06-25"
+    },
+    {
+      "id": "cc70b1ae",
+      "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+      "summary": "Amazon investe US$ 13 bilhões em infraestrutura de IA na Índia",
+      "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-06-25"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Previsão de exposição de empregos à IA",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "0e5c3f14",
+      "title": "GLM 5.2: why I’m replacing Opus in Claude Code with this new model",
+      "summary": "GLM 5.2: uma nova abordagem para agentes de IA",
+      "url": "https://www.lennysnewsletter.com/p/glm-52-why-im-replacing-opus-in-claude",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-24"
+    },
+    {
+      "id": "59ce249a",
+      "title": "Amjad Masad and Me at SaaStr AI 2026: The Agents We Actually Built, and What Replit’s Founder Thinks Comes Next",
+      "summary": "Amjad Masad e Me em SaaStr AI 2026: agentes de IA e o futuro da Replit",
+      "url": "https://www.saastr.com/amjad-masad-and-me-at-saastr-ai-2026-the-agents-we-actually-built-and-what-replits-founder-thinks-comes-next/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-25"
+    },
+    {
+      "id": "cc6c5cf7",
+      "title": "Startup Founders Need a New Sales Playbook",
+      "summary": "Fundadores de startups precisam de um novo roteiro de vendas",
+      "url": "https://hbr.org/2026/06/startup-founders-need-a-new-sales-playbook",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-24"
+    },
+    {
+      "id": "f7b7172f",
+      "title": "The layers of AI experience",
+      "summary": "As camadas de experiência de IA",
+      "url": "https://emilycampbell.co/writing/layers-of-ai-experience",
+      "source": "Sidebar",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-25"
+    },
+    {
+      "id": "14e806d2",
+      "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
+      "summary": "Desenvolvimento com incerteza: como a IA supera o pensamento probabilístico",
+      "url": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-16"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "Como a OpenAI competirá?",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "b53d9b70",
+      "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
+      "summary": "IBM lança tecnologia de chip que pode estender a lei de Moore por mais uma década",
+      "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+      "source": "MIT Technology Review",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-06-25"
+    },
+    {
+      "id": "d0e7c127",
+      "title": "The new inner game: Your unfair advantage in the age of AI",
+      "summary": "O novo jogo interno: sua vantagem desleal na era da IA",
+      "url": "https://www.lennysnewsletter.com/p/the-new-inner-game-your-unfair-advantage",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-23"
+    },
+    {
+      "id": "40a22c92",
+      "title": "Booking.com for Business Shipped a Free Expense Tool in 6 Weeks. Don’t Copy the Tool, Copy the Sequence.",
+      "summary": "Booking.com para Negócios entrega uma ferramenta de despesas gratuita em 6 semanas",
+      "url": "https://www.saastr.com/booking-com-for-business-shipped-a-free-expense-tool-in-6-weeks-dont-copy-the-tool-copy-the-sequence/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-25"
+    },
+    {
+      "id": "dedeb7eb",
+      "title": "Democracy has a listening problem. These AI tools could actually help",
+      "summary": "A democracia tem um problema de ouvir. Essas ferramentas de IA podem ajudar",
+      "url": "https://www.fastcompany.com/91563889/democracy-has-a-listening-problem-these-ai-tools-could-actually-help",
+      "source": "Fast Company",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-25"
+    },
+    {
+      "id": "3199e2bc",
+      "title": "Does Your AI Have a Personality Problem?",
+      "summary": "Seu agente de IA tem um problema de personalidade?",
+      "url": "https://hbr.org/2026/06/does-your-ai-have-a-personality-problem",
+      "source": "Harvard Business Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-24"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "IA, redes e Turcos Mecânicos",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "3f9701d6",
+      "title": "🎙️ How I AI: How to write AI agent loops in Claude Code and Codex + How Claude Mythos found a 15-year-old bug in Mozilla Firefox",
+      "summary": "Como criar agentes de IA em Claude Code e Codex",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-to-write-ai-agent-loops",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-22"
+    },
+    {
+      "id": "89eeec55",
+      "title": "Adobe Just Deferred a Big Annual Price Increase. It’s the First Big Crack in B2B Pricing Power Since 2022.",
+      "summary": "Adobe adia aumento de preço anual. É o primeiro grande rombo no poder de preço B2B desde 2022",
+      "url": "https://www.saastr.com/adobe-just-deferred-a-big-annual-price-increase-its-the-first-big-crack-in-b2b-pricing-power-since-2022/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-24"
+    },
+    {
+      "id": "9799c3f9",
+      "title": "The Big Freeze: Why teams seize up under pressure (and how to avoid it)",
+      "summary": "O congelamento: por que as equipes param sob pressão (e como evitar)",
+      "url": "https://www.fastcompany.com/91556538/the-big-freeze-why-teams-stop-acting-when-theyre-under-pressure-leadership-workpace-motivation",
+      "source": "Fast Company",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-25"
+    },
+    {
+      "id": "f9f8bfcf",
+      "title": "How Leaders Create the Conditions for Innovative Thinking",
+      "summary": "Como os líderes criam as condições para o pensamento inovador",
+      "url": "https://hbr.org/podcast/2026/06/how-leaders-create-the-conditions-for-innovative-thinking",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-24"
+    },
+    {
+      "id": "1a69e721",
+      "title": "The AI steering layer",
+      "summary": "O nível de direção de IA",
+      "url": "https://www.lukew.com/ff/entry.asp?2155",
+      "source": "Sidebar",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-25"
+    },
+    {
+      "id": "e47cb7cf",
+      "title": "The Benefits Of Cognitive Inclusion In UX Research",
+      "summary": "Os benefícios da inclusão cognitiva na pesquisa de UX",
+      "url": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "34502087",
+      "title": "AI metrics",
+      "summary": "Métricas de IA",
+      "url": "https://www.ben-evans.com/benedictevans/2025/6/9/generative-ais-metrics-question",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2025-06-09"
+    },
+    {
+      "id": "e53433ee",
+      "title": "PayPal Put Agentforce on 8,000 Leads a Month No Human Was Going to Call. Conversions Jumped 50%.",
+      "summary": "PayPal coloca Agentforce em 8.000 leads por mês. Conversions aumentam 50%",
+      "url": "https://www.saastr.com/paypal-put-agentforce-on-8000-leads-a-month-no-human-was-going-to-call-conversions-jumped-50/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-24"
+    },
+    {
+      "id": "5d91953b",
+      "title": "VTT for Mac",
+      "summary": "VTT para Mac: uma ferramenta de produto digital",
+      "url": "https://www.producthunt.com/products/vtt-for-mac",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 3,
+      "published_at": "2026-06-11"
+    },
+    {
+      "id": "577a27a0",
+      "title": "BrowserAct",
+      "summary": "BrowserAct: uma ferramenta de produto digital",
+      "url": "https://www.producthunt.com/products/browseract",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 3,
+      "published_at": "2026-06-16"
+    },
+    {
+      "id": "fba262dc",
+      "title": "Milestones",
+      "summary": "Milestones: uma ferramenta de produto digital",
+      "url": "https://www.producthunt.com/products/milestones-2",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 3,
+      "published_at": "2026-04-30"
+    },
+    {
+      "id": "44f28b58",
+      "title": "Samepage Signals",
+      "summary": "Samepage Signals: uma ferramenta de produto digital",
+      "url": "https://www.producthunt.com/products/samepage-signals",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 3,
+      "published_at": "2026-06-16"
+    }
+  ]
+}
