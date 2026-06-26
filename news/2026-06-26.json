@@ -1,0 +1,297 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T12:05:59Z",
+  "total": 29,
+  "items": [
+    {
+      "id": "700216ce",
+      "title": "We All Depend on Open Source. We Will Defend It Together",
+      "summary": "A comunidade de código aberto está se unindo para defender os seus direitos.",
+      "url": "https://akrites.org/letter/",
+      "source": "Hacker News",
+      "category": "Open Source",
+      "relevance": 5,
+      "published_at": "2026-06-26"
+    },
+    {
+      "id": "d649fd83",
+      "title": "Agent Arena",
+      "summary": "Agent Arena é uma plataforma para testar e melhorar agentes de IA.",
+      "url": "https://www.producthunt.com/products/agent-arena",
+      "source": "Product Hunt",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-16"
+    },
+    {
+      "id": "2f23b09b",
+      "title": "You know OpenAI and Nvidia. These are the AI companies building everything else",
+      "summary": "Empresas de IA estão construindo produtos e serviços que afetam a vida das pessoas.",
+      "url": "https://www.fastcompany.com/91564497/you-know-openai-and-nvidia-these-are-the-ai-companies-building-everything-else",
+      "source": "Fast Company",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-26"
+    },
+    {
+      "id": "e5450a1b",
+      "title": "Libre Barcode Project",
+      "summary": "O Libre Barcode Project é uma ferramenta de código aberto para leitura de códigos de barras.",
+      "url": "https://graphicore.github.io/librebarcode/",
+      "source": "Hacker News",
+      "category": "Open Source",
+      "relevance": 5,
+      "published_at": "2026-06-26"
+    },
+    {
+      "id": "fa54ae14",
+      "title": "Group Subscriptions by beehiiv",
+      "summary": "O Group Subscriptions é uma ferramenta para gerenciar assinaturas em grupo.",
+      "url": "https://www.producthunt.com/products/beehiiv",
+      "source": "Product Hunt",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-26"
+    },
+    {
+      "id": "432aebed",
+      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+      "summary": "A Patronus AI recebeu $50 milhões para criar mundos digitais que testem agentes de IA.",
+      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "source": "TechCrunch",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-25"
+    },
+    {
+      "id": "ea546978",
+      "title": "Sleek Analytics",
+      "summary": "O Sleek Analytics é uma ferramenta para análise de dados.",
+      "url": "https://www.producthunt.com/products/sleek-analytics",
+      "source": "Product Hunt",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-25"
+    },
+    {
+      "id": "3f9701d6",
+      "title": "🎙️ How I AI: How to write AI agent loops in Claude Code and Codex + How Claude Mythos found a 15-year-old bug in Mozilla Firefox",
+      "summary": "Um desenvolvedor de IA está compartilhando como escrever loops de agentes de IA em Claude Code e Codex, e como encontrou um bug de 15 anos no Mozilla Firefox.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-to-write-ai-agent-loops",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-22"
+    },
+    {
+      "id": "1889a914",
+      "title": "Aurora Notch",
+      "summary": "O Aurora Notch é uma ferramenta para design de produto.",
+      "url": "https://www.producthunt.com/products/aurora-21",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-26"
+    },
+    {
+      "id": "7d618cac",
+      "title": "How Claude Mythos found a 15-year-old bug in Mozilla Firefox | Brian Grinstead",
+      "summary": "Um desenvolvedor de IA encontrou um bug de 15 anos no Mozilla Firefox.",
+      "url": "https://www.lennysnewsletter.com/p/how-claude-mythos-found-a-15-year",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-22"
+    },
+    {
+      "id": "9daefeb0",
+      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "summary": "A OpenAI está sendo pressionada a adiar o lançamento de um novo modelo devido a preocupações de segurança.",
+      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-06-25"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Um estudo prevê que a exposição de trabalhadores à IA aumentará significativamente.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "0e5c3f14",
+      "title": "GLM 5.2: why I’m replacing Opus in Claude Code with this new model",
+      "summary": "Um modelo de linguagem GLM 5.2 está sendo usado em vez do Opus em Claude Code.",
+      "url": "https://www.lennysnewsletter.com/p/glm-52-why-im-replacing-opus-in-claude",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-24"
+    },
+    {
+      "id": "bdc62ee9",
+      "title": "20VC x SaaStr: Google Loses Two Generational Scientists in 48 Hours, the $725B Question Wall Street Is Finally Asking, and Why #3 in AI Is a Death Sentence",
+      "summary": "Um debate sobre a concorrência em IA e como ela afeta as empresas.",
+      "url": "https://www.saastr.com/20vc-x-saastr-google-loses-two-generational-scientists-in-48-hours-the-725b-question-wall-street-is-finally-asking-and-why-3-in-ai-is-a-death-sentence/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-26"
+    },
+    {
+      "id": "3feec6f8",
+      "title": "Rethinking Figma in an AI world",
+      "summary": "A Figma está sendo reavaliada em um mundo de IA.",
+      "url": "https://uxdesign.cc/rethinking-figma-in-an-ai-world-0facba587ba5",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-26"
+    },
+    {
+      "id": "14e806d2",
+      "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
+      "summary": "A IA está revolucionando o pensamento probabilístico em design.",
+      "url": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-16"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "A OpenAI está competindo com outras empresas de IA.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "2a728c88",
+      "title": "Repositioning retail for the AI era",
+      "summary": "A indústria de varejo está sendo reavaliada em um mundo de IA.",
+      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "source": "MIT Technology Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-25"
+    },
+    {
+      "id": "d0e7c127",
+      "title": "The new inner game: Your unfair advantage in the age of AI",
+      "summary": "A IA está revolucionando a forma como as pessoas tomam decisões.",
+      "url": "https://www.lennysnewsletter.com/p/the-new-inner-game-your-unfair-advantage",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-23"
+    },
+    {
+      "id": "127b494c",
+      "title": "How HappyFox Closed $1M in Expansion on a $20 AI Agent Spend with CEO Shalin Jain",
+      "summary": "A HappyFox fechou uma rodada de financiamento de $1 milhão com um gasto de $20 em agentes de IA.",
+      "url": "https://www.saastr.com/how-happyfox-closed-1m-in-expansion-on-a-20-ai-agent-spend-with-ceo-shalin-jain/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-26"
+    },
+    {
+      "id": "b106de53",
+      "title": "Inside AI’s $5 trillion quest to develop taste",
+      "summary": "A indústria de IA está trabalhando para desenvolver um sabor.",
+      "url": "https://www.fastcompany.com/91549049/agentic-commerce-ai-human-taste",
+      "source": "Fast Company",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-26"
+    },
+    {
+      "id": "3b3db4b2",
+      "title": "Teach Your AI How You Make Decisions",
+      "summary": "As pessoas devem ensinar a IA como tomam decisões.",
+      "url": "https://hbr.org/2026/06/teach-your-ai-how-you-make-decisions",
+      "source": "Harvard Business Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-25"
+    },
+    {
+      "id": "3ccf94d0",
+      "title": "The AI Resist List",
+      "summary": "A lista de resistência à IA está sendo criada.",
+      "url": "https://airesistlist.org/",
+      "source": "Sidebar",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-26"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "A IA, redes e turcos mecânicos estão sendo estudados.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "02d395e4",
+      "title": "What VCs Are Hunting Today: $100B in 10 Years",
+      "summary": "Os investidores estão procurando por oportunidades de investimento de $100 bilhões em 10 anos.",
+      "url": "https://www.saastr.com/what-vcs-are-hunting-today-100b-in-10-years/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-25"
+    },
+    {
+      "id": "cc6c5cf7",
+      "title": "Startup Founders Need a New Sales Playbook",
+      "summary": "Os fundadores de startups precisam criar um novo plano de vendas.",
+      "url": "https://hbr.org/2026/06/startup-founders-need-a-new-sales-playbook",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-24"
+    },
+    {
+      "id": "e47cb7cf",
+      "title": "The Benefits Of Cognitive Inclusion In UX Research",
+      "summary": "A inclusão cognitiva é benéfica para a pesquisa de UX.",
+      "url": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": "34502087",
+      "title": "AI metrics",
+      "summary": "A IA está sendo medida e avaliada.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/6/9/generative-ais-metrics-question",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2025-06-09"
+    },
+    {
+      "id": "59ce249a",
+      "title": "Amjad Masad and Me at SaaStr AI 2026: The Agents We Actually Built, and What Replit’s Founder Thinks Comes Next",
+      "summary": "Um fundador de startup compartilha sua experiência em SaaStr AI 2026.",
+      "url": "https://www.saastr.com/amjad-masad-and-me-at-saastr-ai-2026-the-agents-we-actually-built-and-what-replits-founder-thinks-comes-next/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-25"
+    }
+  ]
+}
