@@ -1,0 +1,307 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T12:04:12Z",
+  "total": 30,
+  "items": [
+    {
+      "id": "eb00d8e6",
+      "title": "Meet the lawyer who beat Elon Musk — twice",
+      "summary": "Um advogado derrotou Elon Musk duas vezes em processos legais.",
+      "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+      "source": "The Verge",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-30"
+    },
+    {
+      "id": "6fdba0c2",
+      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+      "summary": "A empresa de criptomoedas OKX está desenvolvendo agentes de IA que podem contratar e pagar outros agentes.",
+      "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-30"
+    },
+    {
+      "id": "5eaf1607",
+      "title": "Foresight by Lightning Rod",
+      "summary": "Foresight é uma ferramenta de produto que pode ajudar a prever e antecipar mudanças no mercado.",
+      "url": "https://www.producthunt.com/products/training-data-generator",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-22"
+    },
+    {
+      "id": "cb6a2a33",
+      "title": "🎙️ How I AI: GLM-5.2 review & How Gusto built a new product line with Claude Code",
+      "summary": "Uma empresa de software está usando a IA para criar uma nova linha de produtos.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-glm-52-review-and-how-gusto",
+      "source": "Lenny's Newsletter",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-29"
+    },
+    {
+      "id": "2a3cc02c",
+      "title": "Databricks’ Co-Founder Arsalan Tavakoli: Every Software Monopoly Falls in the Next 24 Months",
+      "summary": "O co-fundador da Databricks afirma que todos os monopólios de software cairão em 24 meses.",
+      "url": "https://www.saastr.com/databricks-co-founder-arsalan-tavakoli-every-software-monopoly-falls-in-the-next-24-months/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-29"
+    },
+    {
+      "id": "118dbd69",
+      "title": "Figma just made your design system debt everyone’s problem",
+      "summary": "A Figma está tornando a dívida de sistema de design um problema de todos.",
+      "url": "https://uxdesign.cc/figma-just-made-your-design-system-debt-everyones-problem-now-use-it-2e9ecb6272bf",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-30"
+    },
+    {
+      "id": "8118cc65",
+      "title": "Skills Marketplace by Databox",
+      "summary": "Uma plataforma de habilidades está disponível para uso.",
+      "url": "https://www.producthunt.com/products/databox",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-22"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "A OpenAI está planejando sua estratégia de competição.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "e8485bf4",
+      "title": "No Figma. No Jira. No docs. How Gusto built a new product line with Claude Code | Eddie Kim (CTO)",
+      "summary": "Uma empresa de software construiu uma nova linha de produtos sem usar Figma, Jira ou documentos.",
+      "url": "https://www.lennysnewsletter.com/p/no-figma-no-jira-no-docs-how-gusto",
+      "source": "Lenny's Newsletter",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-29"
+    },
+    {
+      "id": "3cf490d7",
+      "title": "How to Create Urgency in Sales.  When There Really Isn’t Any.",
+      "summary": "Uma empresa de software compartilha como criar urgência em vendas quando não há.",
+      "url": "https://www.saastr.com/fundamental-sales-principals/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2023-04-27"
+    },
+    {
+      "id": "3f9cf611",
+      "title": "Your Talent Strategy Has to Keep Up with Your AI Transformation",
+      "summary": "Uma empresa de software compartilha como desenvolver uma estratégia de talentos que acompanhe a transformação da IA.",
+      "url": "/2026/06/your-talent-strategy-has-to-keep-up-with-your-ai-transformation",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-29"
+    },
+    {
+      "id": "09f969d1",
+      "title": "Shader Lab",
+      "summary": "Uma ferramenta de design está disponível para uso.",
+      "url": "https://eng.basement.studio/tools/shader-lab",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-30"
+    },
+    {
+      "id": "9acdc4e8",
+      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+      "summary": "Uma plataforma de desenvolvimento de código está disponível para uso.",
+      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "source": "TechCrunch",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-30"
+    },
+    {
+      "id": "7399359f",
+      "title": "Bilt.me - Figma",
+      "summary": "Uma ferramenta de design está disponível para uso.",
+      "url": "https://www.producthunt.com/products/bilt-me",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-29"
+    },
+    {
+      "id": "7b13124e",
+      "title": "OpenAI Codex lead on the new shape of product work | Andrew Ambrosino",
+      "summary": "Um executivo da OpenAI compartilha como a IA está mudando o trabalho de produto.",
+      "url": "https://www.lennysnewsletter.com/p/openai-codex-lead-on-the-new-shape",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-28"
+    },
+    {
+      "id": "3de1923c",
+      "title": "Dear SaaStr: What is a Good Approach For Price Increases with SMBs?",
+      "summary": "Uma empresa de software compartilha como aumentar os preços para pequenas empresas.",
+      "url": "https://www.saastr.com/dear-saastr-what-is-a-good-approach-for-price-increases-with-smbs/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-29"
+    },
+    {
+      "id": "afd68430",
+      "title": "Tailor Your Digital Strategy to Reach Every Customer",
+      "summary": "Uma empresa de marketing compartilha como desenvolver uma estratégia digital para alcançar todos os clientes.",
+      "url": "/2026/06/tailor-your-digital-strategy-to-reach-every-customer",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-29"
+    },
+    {
+      "id": "ecbee330",
+      "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
+      "summary": "Um investidor está levantando $135 milhões para um startup de código de IA.",
+      "url": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-29"
+    },
+    {
+      "id": "28a87a12",
+      "title": "Tinkerfont",
+      "summary": "Uma ferramenta de design está disponível para uso.",
+      "url": "https://www.producthunt.com/products/tinkerfont",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-29"
+    },
+    {
+      "id": "34502087",
+      "title": "AI metrics",
+      "summary": "Uma ferramenta de métrica de IA está disponível para uso.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/6/9/generative-ais-metrics-question",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2025-06-09"
+    },
+    {
+      "id": "03d6b0c0",
+      "title": "How To Build Your Own AI VP of Marketing: The Full Playbook From SaaStr AI 2026",
+      "summary": "Uma empresa de software compartilha como criar um vice-presidente de marketing de IA.",
+      "url": "https://www.saastr.com/how-to-build-your-own-ai-vp-of-marketing-the-full-10k-playbook-from-saastr-ai/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-28"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Um estudo analisa como a IA pode afetar a exposição de empregos em diferentes setores.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "d05b512d",
+      "title": "The AI jobs debate just got messier",
+      "summary": "A discussão sobre empregos na IA se tornou mais complexa.",
+      "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "source": "TechCrunch",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-30"
+    },
+    {
+      "id": "04450992",
+      "title": "AI agents are not your “coworkers”",
+      "summary": "Os agentes de IA não são colegas de trabalho.",
+      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-29"
+    },
+    {
+      "id": "14e806d2",
+      "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
+      "summary": "Um artigo discute como a IA pode superar o pensamento probabilístico.",
+      "url": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-16"
+    },
+    {
+      "id": "195b9ca1",
+      "title": "Parse, Don't Validate – In a Language That Doesn't Want You To",
+      "summary": "Um artigo discute a importância de parsear e não validar código.",
+      "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-06-30"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "Um artigo discute a relação entre a IA, redes e trabalhadores mecânicos.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "e42abb70",
+      "title": "Agent confidence on the technical frontier",
+      "summary": "Um artigo discute a confiança dos agentes de IA.",
+      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-29"
+    },
+    {
+      "id": "c5476a13",
+      "title": "The problem is prompt debt",
+      "summary": "Um artigo discute a dívida de prompt na IA.",
+      "url": "https://www.dbreunig.com/2026/06/22/the-problem-is-prompt-debt.html",
+      "source": "Sidebar",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-30"
+    },
+    {
+      "id": "02b11325",
+      "title": "The Download: metric weaknesses and AI elephant warnings",
+      "summary": "Um artigo discute as fraquezas de métricas e advertências de elefante de IA.",
+      "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-29"
+    }
+  ]
+}
