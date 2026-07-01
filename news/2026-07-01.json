@@ -1,0 +1,287 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T12:27:07Z",
+  "total": 28,
+  "items": [
+    {
+      "id": "2dbb86b0",
+      "title": "Sony is killing all physical PlayStation game discs",
+      "summary": "A Sony está abandonando os discos físicos de jogos da PlayStation.",
+      "url": "https://www.theverge.com/games/960160/sony-playstation-disc-production-ending",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-01"
+    },
+    {
+      "id": "6523ed4e",
+      "title": "Get Transparent Pricing on Labs",
+      "summary": "A Labs agora oferece preços transparentes.",
+      "url": "https://www.producthunt.com/products/mito-health",
+      "source": "Product Hunt",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-30"
+    },
+    {
+      "id": "b8f083cb",
+      "title": "Claude Science is Anthropic’s newest flagship product",
+      "summary": "A Anthropic lançou o produto Claude Science.",
+      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-30"
+    },
+    {
+      "id": "e901eca8",
+      "title": "The #1 Reason CMOs Fail",
+      "summary": "Um estudo identifica o principal motivo de fracasso de CMOs.",
+      "url": "https://www.saastr.com/when-you-need-a-cmo-and-the-1-reason-cmos-fail/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2022-12-28"
+    },
+    {
+      "id": "a4101ad2",
+      "title": "Why Accessibility Is An Operational Capability, Not A Feature",
+      "summary": "Um artigo argumenta que a acessibilidade é uma capacidade operacional e não apenas uma característica.",
+      "url": "https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-30"
+    },
+    {
+      "id": "fb2287b0",
+      "title": "Show HN: HackerNows – Native iOS HN Client",
+      "summary": "Um desenvolvedor lançou uma aplicação nativa de iOS para o Hacker News.",
+      "url": "https://hackernows.app/",
+      "source": "Hacker News",
+      "category": "Open Source",
+      "relevance": 5,
+      "published_at": "2026-07-01"
+    },
+    {
+      "id": "c8da2077",
+      "title": "Tabstack Browser Automation",
+      "summary": "Uma ferramenta de automação de navegador foi lançada.",
+      "url": "https://www.producthunt.com/products/tabstack",
+      "source": "Product Hunt",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-16"
+    },
+    {
+      "id": "a669f094",
+      "title": "How top PMs increase their leverage with AI",
+      "summary": "Um estudo mostra como os PMs mais bem-sucedidos aumentam sua influência com a inteligência artificial.",
+      "url": "https://www.lennysnewsletter.com/p/how-top-pms-increase-their-leverage",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-30"
+    },
+    {
+      "id": "2ed1c1fc",
+      "title": "Dear SaaStr: What Are Your Top Tips to Building Your First Sales Team?",
+      "summary": "Um artigo oferece dicas para construir uma equipe de vendas.",
+      "url": "https://www.saastr.com/dear-saastr-what-are-your-top-tips-to-building-your-first-sales-team/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2025-07-22"
+    },
+    {
+      "id": "fbb4df8c",
+      "title": "LightTwist",
+      "summary": "Uma ferramenta de automação de navegador foi lançada.",
+      "url": "https://www.producthunt.com/products/lighttwist",
+      "source": "Product Hunt",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-29"
+    },
+    {
+      "id": "cb6a2a33",
+      "title": "🎙️ How I AI: GLM-5.2 review & How Gusto built a new product line with Claude Code",
+      "summary": "Um artigo apresenta uma revisão do GLM-5.2 e como a Gusto construiu uma nova linha de produtos com Claude Code.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-glm-52-review-and-how-gusto",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-29"
+    },
+    {
+      "id": "d52ceeea",
+      "title": "The Agent Playbooks from Salesforce, Snowflake, Databricks, Harvey, and Lovable: Inside SaaStr AI 2026",
+      "summary": "Um artigo apresenta playbooks de agentes de Salesforce, Snowflake, Databricks, Harvey e Lovable.",
+      "url": "https://www.saastr.com/the-agent-playbooks-from-salesforce-snowflake-databricks-harvey-lovable-and-monaco-inside-saastr-ai-annual-2026/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-30"
+    },
+    {
+      "id": "14e806d2",
+      "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
+      "summary": "Um artigo apresenta como a inteligência artificial supera o pensamento probabilístico.",
+      "url": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-16"
+    },
+    {
+      "id": "86524c6a",
+      "title": "Asahi Linux 7.1 Progress Report",
+      "summary": "Um artigo apresenta o progresso do Asahi Linux 7.1.",
+      "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
+      "source": "Hacker News",
+      "category": "Open Source",
+      "relevance": 5,
+      "published_at": "2026-07-01"
+    },
+    {
+      "id": "f723cde0",
+      "title": "OASIS 1 Ring",
+      "summary": "Uma ferramenta de automação de navegador foi lançada.",
+      "url": "https://www.producthunt.com/products/oasis-ring",
+      "source": "Product Hunt",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-06-11"
+    },
+    {
+      "id": "e8485bf4",
+      "title": "No Figma. No Jira. No docs. How Gusto built a new product line with Claude Code | Eddie Kim (CTO)",
+      "summary": "Uma empresa construiu uma nova linha de produtos sem Figma, Jira ou documentos.",
+      "url": "https://www.lennysnewsletter.com/p/no-figma-no-jira-no-docs-how-gusto",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-29"
+    },
+    {
+      "id": "aaae666a",
+      "title": "The Monthly Brand Engine: How Monaco Manufactured a New Viral Moment Every 30 Days",
+      "summary": "Um artigo apresenta como uma empresa criou um momento viral a cada 30 dias.",
+      "url": "https://www.saastr.com/the-monthly-brand-engine-how-monaco-manufactured-a-new-viral-moment-every-30-days/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-30"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Um estudo prevê a exposição de trabalhadores à inteligência artificial.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "c14c0707",
+      "title": "The Four Business Outcomes That Break When Enterprises Stop Validating Their Defenses",
+      "summary": "Um estudo identifica quatro resultados negativos quando as empresas paralisam suas defesas.",
+      "url": "/sponsored/2026/06/the-four-business-outcomes-that-break-when-enterprises-stop-validating-their-defenses",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-30"
+    },
+    {
+      "id": "4d5bac70",
+      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+      "summary": "A Anthropic teve suas restrições relaxadas por Trump.",
+      "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "source": "TechCrunch",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-01"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "Um estudo questiona como a OpenAI competirá.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "4ca5ec46",
+      "title": "The End of Independent Federal Agencies Will Change Your Business",
+      "summary": "Um artigo discute como a perda de agências federais afetará as empresas.",
+      "url": "/2026/06/the-end-of-independent-federal-agencies-will-change-your-business",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-30"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "Um artigo discute a inteligência artificial, redes e trabalhadores mecânicos.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "8f7a3102",
+      "title": "The Download: AI “coworkers” and stratospheric internet",
+      "summary": "Um artigo destaca a internet de alta altitude e 'colegas' de inteligência artificial.",
+      "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-30"
+    },
+    {
+      "id": "835a829a",
+      "title": "AI Is Squeezing Middle Managers",
+      "summary": "Um artigo destaca como a inteligência artificial está pressionando os gerentes de nível médio.",
+      "url": "/2026/06/ai-is-squeezing-middle-managers",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-30"
+    },
+    {
+      "id": "bb5f43f6",
+      "title": "Repricing of software engineering labor",
+      "summary": "Um artigo discute a revalorização do trabalho de engenharia de software.",
+      "url": "https://blog.grandimam.com/posts/repricing-of-software-engineering-labor/",
+      "source": "Sidebar",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-07-01"
+    },
+    {
+      "id": "34502087",
+      "title": "AI metrics",
+      "summary": "Um artigo discute métricas de inteligência artificial.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/6/9/generative-ais-metrics-question",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2025-06-09"
+    },
+    {
+      "id": "37489bbc",
+      "title": "Agriculture is ready for AI, but its data isn’t",
+      "summary": "Um artigo destaca que a agricultura está pronta para a inteligência artificial, mas seus dados não estão.",
+      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-30"
+    }
+  ]
+}
