@@ -1,0 +1,337 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T12:01:29Z",
+  "total": 33,
+  "items": [
+    {
+      "id": "233a566f",
+      "title": "Vite+ Beta",
+      "summary": "Versão beta do Vite+ está disponível.",
+      "url": "https://voidzero.dev/posts/announcing-vite-plus-beta",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-02"
+    },
+    {
+      "id": "186e2f32",
+      "title": "Context.dev",
+      "summary": "Context.dev é um novo produto.",
+      "url": "https://www.producthunt.com/products/context-dev",
+      "source": "Product Hunt",
+      "category": "Product Hunt",
+      "relevance": 5,
+      "published_at": "2026-07-01"
+    },
+    {
+      "id": "b1d4ea95",
+      "title": "Dear SaaStr:  Does It Make Sense to Have Post-Sales Functions Report into Sales?",
+      "summary": "Funções pós-vendas devem relatar para vendas?",
+      "url": "https://www.saastr.com/large-company-activities-relating-post-sales-customer-support-fall-sales-operations/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2024-08-17"
+    },
+    {
+      "id": "a4101ad2",
+      "title": "Why Accessibility Is An Operational Capability, Not A Feature",
+      "summary": "Acessibilidade como capacidade operacional.",
+      "url": "https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-30"
+    },
+    {
+      "id": "0046a15c",
+      "title": "Quick Sub 2: Video Subtitling",
+      "summary": "Quick Sub: subtitulação de vídeo.",
+      "url": "https://www.producthunt.com/products/quick-sub-2-video-subtitling",
+      "source": "Product Hunt",
+      "category": "Product Hunt",
+      "relevance": 5,
+      "published_at": "2026-07-01"
+    },
+    {
+      "id": "a669f094",
+      "title": "How top PMs increase their leverage with AI",
+      "summary": "Como os PMs aumentam sua influência com IA.",
+      "url": "https://www.lennysnewsletter.com/p/how-top-pms-increase-their-leverage",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-30"
+    },
+    {
+      "id": "e4e429e7",
+      "title": "When Developing an AI Strategy, Beware the Urgency Trap",
+      "summary": "Cuidado com a armadilha da urgência ao desenvolver uma estratégia de IA.",
+      "url": "/2026/07/when-developing-an-ai-strategy-beware-the-urgency-trap",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-01"
+    },
+    {
+      "id": "d2464be6",
+      "title": "Basedash Actions",
+      "summary": "Basedash Actions.",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt",
+      "category": "Product Hunt",
+      "relevance": 5,
+      "published_at": "2026-07-02"
+    },
+    {
+      "id": "cb6a2a33",
+      "title": "🎙️ How I AI: GLM-5.2 review & How Gusto built a new product line with Claude Code",
+      "summary": "Como construir um produto com Claude Code.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-glm-52-review-and-how-gusto",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-29"
+    },
+    {
+      "id": "e9eabff3",
+      "title": "Designing services for people who’ve lost trust online",
+      "summary": "Designando serviços para pessoas que perderam confiança online.",
+      "url": "https://designnotes.blog.gov.uk/2026/06/23/designing-services-for-people-whove-lost-trust-online/",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-02"
+    },
+    {
+      "id": "14e806d2",
+      "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
+      "summary": "Designando com incerteza: como a IA supera o pensamento probabilístico.",
+      "url": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-06-16"
+    },
+    {
+      "id": "c7741707",
+      "title": "html.contact",
+      "summary": "html.contact.",
+      "url": "https://www.producthunt.com/products/html-contact",
+      "source": "Product Hunt",
+      "category": "Product Hunt",
+      "relevance": 5,
+      "published_at": "2026-07-01"
+    },
+    {
+      "id": "e8485bf4",
+      "title": "No Figma. No Jira. No docs. How Gusto built a new product line with Claude Code | Eddie Kim (CTO)",
+      "summary": "Como Gusto construiu um produto novo com Claude Code.",
+      "url": "https://www.lennysnewsletter.com/p/no-figma-no-jira-no-docs-how-gusto",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-06-29"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Previsão de exposição de empregos de IA.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "308ac7b3",
+      "title": "The Case for Performance-First Management",
+      "summary": "Gestão focada em desempenho.",
+      "url": "/2026/07/the-case-for-performance-first-management",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-01"
+    },
+    {
+      "id": "18b23ef0",
+      "title": "OpenAI: In early talks to give 5% stake to US Government",
+      "summary": "OpenAI pode dar 5% de sua participação ao governo dos EUA.",
+      "url": "https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman",
+      "source": "Hacker News",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-02"
+    },
+    {
+      "id": "e06bac73",
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "summary": "Empresário da Índia investe $30 milhões em alternativa à Office de Microsoft.",
+      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-02"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "Como a OpenAI competirá?",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "b5223360",
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "summary": "LLMs estão presos em um ciclo de grupo.",
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-01"
+    },
+    {
+      "id": "414c6de3",
+      "title": "The Agents Is Back. Outbound Isn’t Dead. Our Agents Are Collapsing Into Each Other. And Collections Just Went on Autopilot.",
+      "summary": "Os Agentes estão de volta. O outbound não está morto.",
+      "url": "https://www.saastr.com/the-agents-is-back-outbound-isnt-dead-our-agents-are-collapsing-into-each-other-and-collections-just-went-on-autopilot/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-01"
+    },
+    {
+      "id": "873c83cc",
+      "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+      "summary": "OpenAI pode dar 5% de sua participação ao governo dos EUA.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+      "source": "The Verge",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-02"
+    },
+    {
+      "id": "e1333021",
+      "title": "Google loses fight over record $4.7B EU antitrust fine",
+      "summary": "Google perde batalha contra multa de €4,7 bilhões da UE.",
+      "url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-07-02"
+    },
+    {
+      "id": "a04a37c7",
+      "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
+      "summary": "Apple planeja lançar novos iPad Pro e MacBook Pro em 2024.",
+      "url": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-07-01"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "IA, redes e Mechanical Turks.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "d8e1d70e",
+      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
+      "summary": "Antrópica lança Claude Science e a matemática de esterco de carbono da Califórnia não soma.",
+      "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+      "source": "MIT Technology Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-01"
+    },
+    {
+      "id": "02c61c49",
+      "title": "Figma Grows 46% and Trades at 6x. Everyone Else Growing 30%+ Trades at 15-36x.",
+      "summary": "Figma cresce 46% e é negociado a 6x.",
+      "url": "https://www.saastr.com/figma-grows-46-and-trades-at-6x-everyone-else-growing-30-trades-at-15-36x/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-01"
+    },
+    {
+      "id": "75b1ca4f",
+      "title": "Aspiring Leaders, Don’t Just Network Up",
+      "summary": "Líderes em ascensão, não apenas sejam networking.",
+      "url": "/2026/07/aspiring-leaders-dont-just-network-up",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-01"
+    },
+    {
+      "id": "524a0893",
+      "title": "Amazon has enough satellites to launch its Starlink competitor",
+      "summary": "Amazon tem satélites suficientes para lançar seu competidor Starlink.",
+      "url": "https://www.theverge.com/science/960563/amazon-leo-service-tipping-point",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-07-02"
+    },
+    {
+      "id": "c69979fd",
+      "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
+      "summary": "Bending Spoons cresce 40% em sua primeira semana de negociação.",
+      "url": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-01"
+    },
+    {
+      "id": "34502087",
+      "title": "AI metrics",
+      "summary": "Métricas de IA.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/6/9/generative-ais-metrics-question",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2025-06-09"
+    },
+    {
+      "id": "b8f083cb",
+      "title": "Claude Science is Anthropic’s newest flagship product",
+      "summary": "Claude Science é o novo produto de destaque da Antrópica.",
+      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "source": "MIT Technology Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-30"
+    },
+    {
+      "id": "e901eca8",
+      "title": "The #1 Reason CMOs Fail",
+      "summary": "O principal motivo pelo qual os CMOs falham.",
+      "url": "https://www.saastr.com/when-you-need-a-cmo-and-the-1-reason-cmos-fail/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2022-12-28"
+    },
+    {
+      "id": "9941f68f",
+      "title": "Sonnet 5 review: I ran 64 generations to find out if it's worth it",
+      "summary": "Análise do Sonnet 5: é vale a pena?",
+      "url": "https://www.lennysnewsletter.com/p/sonnet-5-review-i-ran-64-generations",
+      "source": "Lenny's Newsletter",
+      "category": "Design",
+      "relevance": 3,
+      "published_at": "2026-06-30"
+    }
+  ]
+}
