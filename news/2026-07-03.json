@@ -1,0 +1,327 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T11:59:53Z",
+  "total": 32,
+  "items": [
+    {
+      "id": "daabbe90",
+      "title": "Glaze by Raycast",
+      "summary": "Glaze por Raycast.",
+      "url": "https://www.producthunt.com/products/glaze-4",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-02"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Previsão de exposição de empregos de IA.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "de8dad7f",
+      "title": "Dear SaaStr: What’s The One Trait You Look for When Assessing an Inside Sales Candidate?",
+      "summary": "Querido SaaStr: Qual é o traço que você busca quando avalia um candidato de vendas internas?",
+      "url": "https://www.saastr.com/whats-one-key-trait-skill-experience-look-assessing-inside-sales-candidate-saas/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2018-01-22"
+    },
+    {
+      "id": "a1668ed9",
+      "title": "The secret AI that could help explain this wild World Cup",
+      "summary": "O AI secreto que pode ajudar a explicar esse mundo louco da Copa do Mundo.",
+      "url": "https://www.fastcompany.com/91567473/the-secret-ai-that-could-help-explain-this-wild-world-cup",
+      "source": "Fast Company",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-03"
+    },
+    {
+      "id": "800166e5",
+      "title": "The Business of Five-Star Service",
+      "summary": "O negócio de cinco estrelas de serviço.",
+      "url": "/2026/07/the-business-of-five-star-service",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-02"
+    },
+    {
+      "id": "e452e2d7",
+      "title": "Matching AI Modality To User Intent: Designing The Right Interface",
+      "summary": "Compatibilidade de modalidade de IA com intenção de usuário: Desenhando a interface certa.",
+      "url": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-02"
+    },
+    {
+      "id": "e2f3e683",
+      "title": "Commodore 64 Basic for PostgreSQL",
+      "summary": "Commodore 64 Basic para PostgreSQL.",
+      "url": "https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html",
+      "source": "Hacker News",
+      "category": "Open Source",
+      "relevance": 4,
+      "published_at": "2026-07-03"
+    },
+    {
+      "id": "c3d384eb",
+      "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
+      "summary": "Última chance de se inscrever - Aplicativos do Startup Battlefield da Austrália encerram em 6 de julho.",
+      "url": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-03"
+    },
+    {
+      "id": "0b349433",
+      "title": "Goals from Loops",
+      "summary": "Objetivos de Loop.",
+      "url": "https://www.producthunt.com/products/loops",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-02"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "Como a OpenAI competirá?",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "6cfc18d8",
+      "title": "Achieving operational excellence with AI",
+      "summary": "Alcançando excelência operacional com IA.",
+      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-02"
+    },
+    {
+      "id": "a669f094",
+      "title": "How top PMs increase their leverage with AI",
+      "summary": "Como os PMs de topo aumentam sua influência com IA.",
+      "url": "https://www.lennysnewsletter.com/p/how-top-pms-increase-their-leverage",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-06-30"
+    },
+    {
+      "id": "70b1def6",
+      "title": "20VC x SaaStr: The Token ROI Crisis Comes for Everyone, Anthropic Wants Chinese Open Source Banned, and Microsoft Has Its Worst Month Since 2000",
+      "summary": "20VC x SaaStr: A crise de ROI vem para todos, a Anthropic quer banir o código aberto chinês e a Microsoft teve seu pior mês desde 2000.",
+      "url": "https://www.saastr.com/20vc-x-saastr-the-token-roi-crisis-comes-for-everyone-anthropic-wants-chinese-open-source-banned-and-microsoft-has-its-worst-month-since-2000/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-02"
+    },
+    {
+      "id": "300f465b",
+      "title": "Leadership Summit 2026: Mattel’s CEO on Driving Consumer Engagement and Cultural Impact",
+      "summary": "Soma de liderança 2026: CEO da Mattel fala sobre a engajamento do consumidor e o impacto cultural.",
+      "url": "/podcast/2026/07/leadership-summit-2026-mattels-ceo-on-driving-consumer-engagement-and-cultural-impact",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-02"
+    },
+    {
+      "id": "a4101ad2",
+      "title": "Why Accessibility Is An Operational Capability, Not A Feature",
+      "summary": "Por que a acessibilidade é uma capacidade operacional e não uma característica.",
+      "url": "https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-30"
+    },
+    {
+      "id": "a544c3db",
+      "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
+      "summary": "Wordgard: o novo editor de texto rico em navegador da criação de ProseMirror.",
+      "url": "https://wordgard.net/",
+      "source": "Hacker News",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-03"
+    },
+    {
+      "id": "f3c205c0",
+      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+      "summary": "Mark Zuckerberg diz aos funcionários que os agentes de IA não progrediram tão rapidamente quanto ele esperava.",
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-02"
+    },
+    {
+      "id": "186e2f32",
+      "title": "Context.dev",
+      "summary": "Context.dev.",
+      "url": "https://www.producthunt.com/products/context-dev",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-01"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "IA, redes e Turcos Mecânicos.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "ba18211a",
+      "title": "Teaching AI to run with the turbines",
+      "summary": "Ensinar IA a correr com as turbinas.",
+      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-02"
+    },
+    {
+      "id": "cb6a2a33",
+      "title": "🎙️ How I AI: GLM-5.2 review & How Gusto built a new product line with Claude Code",
+      "summary": "Como eu AI: GLM-5.2 revisão e como a Gusto construiu uma nova linha de produtos com Claude Code.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-glm-52-review-and-how-gusto",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-29"
+    },
+    {
+      "id": "f6a120a5",
+      "title": "Vercel Took a 10-Person SDR Team Down to 1. The Whole Thing Costs $5,000 a Year. With Vercel’s COO Jeanne DeWitt Grosser.",
+      "summary": "Vercel reduziu um time de vendas de 10 pessoas para 1. O custo de tudo é de $5.000 por ano. Com a COO do Vercel, Jeanne DeWitt Grosser.",
+      "url": "https://www.saastr.com/vercel-took-a-10-person-sdr-team-down-to-1-the-whole-thing-costs-5000-a-year-with-vercels-coo-jeanne-dewitt-grosser/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-02"
+    },
+    {
+      "id": "a3b200e6",
+      "title": "The designs that define America",
+      "summary": "Os designs que definem a América.",
+      "url": "https://www.fastcompany.com/91568703/the-designs-that-define-america",
+      "source": "Fast Company",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-03"
+    },
+    {
+      "id": "48939bf8",
+      "title": "Research: Navigating the Business Risks of Changing Pro-America Sentiment",
+      "summary": "Pesquisa: Navegando os riscos comerciais de mudanças de sentimento pró-America.",
+      "url": "/2026/07/research-navigating-the-business-risks-of-changing-pro-america-sentiment",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-02"
+    },
+    {
+      "id": "acbd305c",
+      "title": "Fintech Engineering Handbook",
+      "summary": "Manual de Engenharia de Fintech.",
+      "url": "https://w.pitula.me/fintech-engineering-handbook/",
+      "source": "Sidebar",
+      "category": "Open Source",
+      "relevance": 4,
+      "published_at": "2026-07-03"
+    },
+    {
+      "id": "34502087",
+      "title": "AI metrics",
+      "summary": "Métricas de IA.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/6/9/generative-ais-metrics-question",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2025-06-09"
+    },
+    {
+      "id": "32191aab",
+      "title": "The Download: a startup has a solution for AI’s groupthink problem",
+      "summary": "O Download: uma startup tem uma solução para o problema de grupo de pensamento da IA.",
+      "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-02"
+    },
+    {
+      "id": "e8485bf4",
+      "title": "No Figma. No Jira. No docs. How Gusto built a new product line with Claude Code | Eddie Kim (CTO)",
+      "summary": "Sem Figma. Sem Jira. Sem documentos. Como a Gusto construiu uma nova linha de produtos com Claude Code.",
+      "url": "https://www.lennysnewsletter.com/p/no-figma-no-jira-no-docs-how-gusto",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-06-29"
+    },
+    {
+      "id": "b1d4ea95",
+      "title": "Dear SaaStr:  Does It Make Sense to Have Post-Sales Functions Report into Sales?",
+      "summary": "Querido SaaStr: faz sentido ter funções pós-vendas reportando para vendas?",
+      "url": "https://www.saastr.com/large-company-activities-relating-post-sales-customer-support-fall-sales-operations/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2024-08-17"
+    },
+    {
+      "id": "12bbe6c5",
+      "title": "AI puts B Corps’ values to the test",
+      "summary": "IA coloca os valores das B Corps à prova.",
+      "url": "https://www.fastcompany.com/91568793/ai-puts-b-corps-values-to-the-test",
+      "source": "Fast Company",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-03"
+    },
+    {
+      "id": "308ac7b3",
+      "title": "The Case for Performance-First Management",
+      "summary": "O caso para gestão de desempenho.",
+      "url": "/2026/07/the-case-for-performance-first-management",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-01"
+    },
+    {
+      "id": "c41f4e55",
+      "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+      "summary": "Um relato por trás das cenas sobre o escâner médico da Midjourney deixa muitas perguntas sem resposta.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 3,
+      "published_at": "2026-07-03"
+    }
+  ]
+}
