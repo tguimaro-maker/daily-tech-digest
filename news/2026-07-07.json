@@ -1,0 +1,307 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T12:21:25Z",
+  "total": 30,
+  "items": [
+    {
+      "id": "d708336d",
+      "title": "Marshall upgrades the bass and repairability of two wireless speakers",
+      "summary": "O Marshall lançou atualizações em dois alto-falantes sem fio, melhorando a qualidade de som e a reparabilidade.",
+      "url": "https://www.theverge.com/tech/961601/marshall-acton-stanmore-iv-bluetooth-wireless-speakers-repair",
+      "source": "The Verge",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-07"
+    },
+    {
+      "id": "9727b1c6",
+      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+      "summary": "A Savi's criou uma aplicação para proteger os consumidores de golpes de AI realistas.",
+      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+      "source": "TechCrunch",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-07"
+    },
+    {
+      "id": "5cfec49a",
+      "title": "Scribble Network",
+      "summary": "O Scribble Network foi lançado no Product Hunt.",
+      "url": "https://www.producthunt.com/products/scribble-network",
+      "source": "Product Hunt",
+      "category": "Open Source",
+      "relevance": 5,
+      "published_at": "2026-06-30"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "O Ben Evans discute a exposição de empregos de AI.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "592e48de",
+      "title": "The foundational elements of AI architecture that IT leaders need to scale",
+      "summary": "Os líderes de TI precisam entender os elementos fundamentais da arquitetura de AI para escalá-la.",
+      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-07"
+    },
+    {
+      "id": "b030931a",
+      "title": "🎙️ How I AI: Sonnet 5 review & How to run autonomous coding agents from your phone",
+      "summary": "Lenny discute como executar agentes de codificação autônomos do seu telefone.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-sonnet-5-review-and-how",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-06"
+    },
+    {
+      "id": "02e0c488",
+      "title": "Dear SaaStr: From 0 to $10m ARR, At What Point Do We Start Hiring and Whom?",
+      "summary": "O SaaStr discute quando e como contratar funcionários para alcançar $10 milhões de ARR.",
+      "url": "https://www.saastr.com/dear-saastr-from-0-to-10m-arr-at-what-point-do-we-start-hiring-and-whom/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2025-10-07"
+    },
+    {
+      "id": "ce58f640",
+      "title": "How Leaders Can Use AI to Solve Real Business Problems",
+      "summary": "Os líderes podem usar a IA para resolver problemas de negócios reais.",
+      "url": "/podcast/2026/07/how-leaders-can-use-ai-to-solve-real-business-problems",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-07"
+    },
+    {
+      "id": "f02ab4df",
+      "title": "What is product craft in the age of AI and design systems?",
+      "summary": "O Sidebar discute a arte da criação de produtos no tempo da AI e sistemas de design.",
+      "url": "https://bencallahan.com/product-craft-in-the-age-of-ai-and-design-systems",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-07"
+    },
+    {
+      "id": "31e564e0",
+      "title": "Meet Kirki: WordPress’s First Visual Builder With An Infinite Canvas",
+      "summary": "O Smashing Magazine apresenta o Kirki, o primeiro construtor visual do WordPress com um painel infinito.",
+      "url": "https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-07"
+    },
+    {
+      "id": "a48a45c7",
+      "title": "PostgreSQL Benchmark: AWS RDS vs. Self-Hosted on Hetzner (2026)",
+      "summary": "Um benchmark de PostgreSQL comparou AWS RDS e hospedagem própria em Hetzner.",
+      "url": "https://hostim.dev/blog/postgres-benchmark-rds-vs-hostim-vs-self-hosted/",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-07"
+    },
+    {
+      "id": "85ff79a4",
+      "title": "Social Fetch - Social Media API",
+      "summary": "O Social Fetch é uma API de mídia social no Product Hunt.",
+      "url": "https://www.producthunt.com/products/social-fetch",
+      "source": "Product Hunt",
+      "category": "Open Source",
+      "relevance": 5,
+      "published_at": "2026-06-25"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "O Ben Evans discute como a OpenAI competirá.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "b415f387",
+      "title": "How I run autonomous coding agents from my phone with OpenAI Symphony + Linear | Alessio Fanelli (Kernel Labs)",
+      "summary": "Lenny discute como executar agentes de codificação autônomos do seu telefone com OpenAI Symphony + Linear.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-run-autonomous-coding-agents",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-06"
+    },
+    {
+      "id": "a49a0957",
+      "title": "By Year-End, Anthropic Will Out-Earn Every Public Software Company Except Microsoft",
+      "summary": "A Anthropic ultrapassará a receita de todas as empresas de software públicas, exceto a Microsoft, até o final do ano.",
+      "url": "https://www.saastr.com/by-year-end-anthropic-will-out-earn-every-public-software-company-except-microsoft/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-06"
+    },
+    {
+      "id": "b1e4b15e",
+      "title": "AI Is Changing How Customers Choose Your Business",
+      "summary": "A IA está mudando como os clientes escolhem sua empresa.",
+      "url": "/2026/07/ai-is-changing-how-customers-choose-your-business",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-06"
+    },
+    {
+      "id": "ad3a9da0",
+      "title": "The AI Compass",
+      "summary": "O Sidebar apresenta o Compass de AI.",
+      "url": "https://bambamramfan.github.io/ai-compass/",
+      "source": "Sidebar",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-07"
+    },
+    {
+      "id": "35a4de45",
+      "title": "Users Don’t Need More Tools: They Need Seamless Integrations",
+      "summary": "Os usuários não precisam de mais ferramentas, precisam de integrações sem fio.",
+      "url": "https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-03"
+    },
+    {
+      "id": "1f8b9f39",
+      "title": "LongCat-2.0",
+      "summary": "O LongCat-2.0 foi lançado no Product Hunt.",
+      "url": "https://www.producthunt.com/products/longcat",
+      "source": "Product Hunt",
+      "category": "Open Source",
+      "relevance": 5,
+      "published_at": "2026-07-07"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "O Ben Evans discute a AI, redes e Turcos Mecânicos.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "7de6aaf1",
+      "title": "🧠 Community Wisdom: Quarterly planning and AI, cash vs. equity comp, paying for interview exercises, AI-powered outbound, compliance startup opportunities, and more",
+      "summary": "O Lenny discute planejamento trimestral e AI, compensação em dinheiro vs. ações, exercícios de entrevista paga, AI de prospecção, e mais.",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-quarterly-planning",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-04"
+    },
+    {
+      "id": "e99401bd",
+      "title": "What Happens When You Hire the Wrong VP",
+      "summary": "O SaaStr discute o que acontece quando você contrata um VP errado.",
+      "url": "https://www.saastr.com/what-happens-when-you-hire-the-wrong-vp/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-06"
+    },
+    {
+      "id": "e67e87da",
+      "title": "Want Workers to Reskill? Show Them Who They Can Become.",
+      "summary": "Os líderes devem mostrar aos funcionários quem eles podem se tornar para ressaltar a requalificação.",
+      "url": "/2026/07/want-workers-to-reskill-show-them-who-they-can-become",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-06"
+    },
+    {
+      "id": "4d4e6aaa",
+      "title": "Design engineering",
+      "summary": "O Sidebar discute a engenharia de design.",
+      "url": "https://marcelochaman.ca/s/design-engineering",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-07"
+    },
+    {
+      "id": "e452e2d7",
+      "title": "Matching AI Modality To User Intent: Designing The Right Interface",
+      "summary": "O Smashing Magazine discute como combinar a modalidade de AI com a intenção do usuário.",
+      "url": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-02"
+    },
+    {
+      "id": "d6c8fbe7",
+      "title": "The ‘first’ AI-run ransomware attack still needed a human",
+      "summary": "O primeiro ataque de ransomware autônomo ainda precisou de um humano.",
+      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "source": "TechCrunch",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-06"
+    },
+    {
+      "id": "23e38c91",
+      "title": "Kadoink AI",
+      "summary": "O Kadoink AI foi lançado no Product Hunt.",
+      "url": "https://www.producthunt.com/products/say-who-say-why-kadoink-gathers-everyone",
+      "source": "Product Hunt",
+      "category": "Open Source",
+      "relevance": 5,
+      "published_at": "2026-07-06"
+    },
+    {
+      "id": "34502087",
+      "title": "AI metrics",
+      "summary": "O Ben Evans discute métricas de AI.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/6/9/generative-ais-metrics-question",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2025-06-09"
+    },
+    {
+      "id": "9941f68f",
+      "title": "Sonnet 5 review: I ran 64 generations to find out if it's worth it",
+      "summary": "Lenny discute se o Sonnet 5 vale a pena.",
+      "url": "https://www.lennysnewsletter.com/p/sonnet-5-review-i-ran-64-generations",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-06-30"
+    },
+    {
+      "id": "68f187cb",
+      "title": "Dear SaaStr:  What’s The Best Way to Set Targets for the Sales Team?",
+      "summary": "O SaaStr discute como estabelecer metas para a equipe de vendas.",
+      "url": "https://www.saastr.com/what-is-the-best-way-to-set-targets-for-saas-sales-people/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2022-06-06"
+    }
+  ]
+}
