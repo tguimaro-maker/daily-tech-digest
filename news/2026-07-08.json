@@ -1,0 +1,247 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T11:41:19Z",
+  "total": 24,
+  "items": [
+    {
+      "id": "b756d792",
+      "title": "5 Simple Reasons We Won’t All Vibe Code Our Own HubSpot or Salesforce",
+      "summary": "Um especialista em SaaS compartilha cinco razões simples sobre por que as empresas não devem criar suas próprias ferramentas de HubSpot ou Salesforce.",
+      "url": "https://www.saastr.com/simple-reasons-we-wont-all-vibe-code-our-own-hubspot-or-salesforce-even-though-at-saastr-ourselves-we-sort-of-have/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-07"
+    },
+    {
+      "id": "02e0c488",
+      "title": "Dear SaaStr: From 0 to $10m ARR, At What Point Do We Start Hiring and Whom?",
+      "summary": "Um especialista em SaaS compartilha uma pergunta sobre quando as empresas devem começar a contratar e quem.",
+      "url": "https://www.saastr.com/dear-saastr-from-0-to-10m-arr-at-what-point-do-we-start-hiring-and-whom/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2025-10-07"
+    },
+    {
+      "id": "a49a0957",
+      "title": "By Year-End, Anthropic Will Out-Earn Every Public Software Company Except Microsoft",
+      "summary": "Um especialista em SaaS compartilha uma visão sobre como a Anthropic pode superar as empresas de software públicas.",
+      "url": "https://www.saastr.com/by-year-end-anthropic-will-out-earn-every-public-software-company-except-microsoft/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-06"
+    },
+    {
+      "id": "e99401bd",
+      "title": "What Happens When You Hire the Wrong VP",
+      "summary": "Um especialista em SaaS compartilha uma visão sobre como evitar contratar o VP errado.",
+      "url": "https://www.saastr.com/what-happens-when-you-hire-the-wrong-vp/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-06"
+    },
+    {
+      "id": "d5e31dd2",
+      "title": "The robotaxi law that could ban Tesla",
+      "summary": "Uma lei sobre robô-táxi pode proibir a Tesla de operar em alguns lugares.",
+      "url": "https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-07-08"
+    },
+    {
+      "id": "42faf2f1",
+      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "summary": "Uma startup francesa lança uma ferramenta gratuita para acelerar a inferência em vários chips de IA.",
+      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-07-08"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Um especialista em IA compartilha uma análise sobre a exposição de empregos à IA.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "87d95d6e",
+      "title": "Why the Next Wave of Enterprise Strategy is Industry Clouds",
+      "summary": "Um especialista em negócios compartilha uma visão sobre a próxima onda de estratégia de negócios para nuvens de indústria.",
+      "url": "/sponsored/2026/07/why-the-next-wave-of-enterprise-strategy-is-industry-clouds",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-07"
+    },
+    {
+      "id": "64a05bda",
+      "title": "Never mind the prompts, here’s the thinking",
+      "summary": "Um especialista em IA compartilha uma análise sobre a IA.",
+      "url": "https://uxdesign.cc/never-mind-the-prompts-heres-the-thinking-f4af4b92155f",
+      "source": "Sidebar",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-08"
+    },
+    {
+      "id": "9f5acd90",
+      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+      "summary": "Uma empresa de chips de IA levanta US$ 1 bilhão em uma rodada de financiamento.",
+      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-07-08"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "Um especialista em IA compartilha uma análise sobre como a OpenAI competirá.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "592e48de",
+      "title": "The foundational elements of AI architecture that IT leaders need to scale",
+      "summary": "Um especialista em negócios compartilha os elementos fundamentais da arquitetura de IA que os líderes de TI precisam escalar.",
+      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "source": "MIT Technology Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-07"
+    },
+    {
+      "id": "b030931a",
+      "title": "🎙️ How I AI: Sonnet 5 review & How to run autonomous coding agents from your phone",
+      "summary": "Um especialista em tecnologia compartilha uma análise sobre como criar agentes de codificação autônomos.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-sonnet-5-review-and-how",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-06"
+    },
+    {
+      "id": "dec08aee",
+      "title": "Your purpose statement is just the start. Here’s how to make it a reality",
+      "summary": "Um especialista em negócios compartilha uma visão sobre como criar um propósito e torná-lo uma realidade.",
+      "url": "https://www.fastcompany.com/91560481/most-organizations-stop-at-the-purpose-statement-heres-how-to-actually-deliver-it-leadership-purpose-management-advice",
+      "source": "Fast Company",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-08"
+    },
+    {
+      "id": "2df4b310",
+      "title": "Competing In a World of Transient Advantage",
+      "summary": "Um especialista em negócios compartilha uma visão sobre como competir em um mundo de vantagem transitória.",
+      "url": "/2026/07/competing-in-a-world-of-transient-advantage",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-07"
+    },
+    {
+      "id": "bd0e1ea6",
+      "title": "Echo chamber: a healthy public square",
+      "summary": "Um especialista em IA compartilha uma análise sobre a IA.",
+      "url": "https://echo.logicaleap.com/?e=1.4&a=0&rho=0.1&h=0.8&n=150&od=6&seed=42&topo=ba&b=0&k=8&t=random&d=0&bp=1&co=1&sp=0&at=0&in=0&rl=0",
+      "source": "Sidebar",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-08"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "Um especialista em IA compartilha uma análise sobre a IA e as redes.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "b415f387",
+      "title": "How I run autonomous coding agents from my phone with OpenAI Symphony + Linear | Alessio Fanelli (Kernel Labs)",
+      "summary": "Um especialista em tecnologia compartilha uma análise sobre como criar agentes de codificação autônomos.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-run-autonomous-coding-agents",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-06"
+    },
+    {
+      "id": "c14dfa65",
+      "title": "Don’t become a meme: How to tell your team you’re going AI-first",
+      "summary": "Um especialista em negócios compartilha uma visão sobre como evitar se tornar um meme ao adotar a IA.",
+      "url": "https://www.fastcompany.com/91560473/dont-become-a-meme-how-to-tell-your-team-youre-going-ai-first-ai-implementation",
+      "source": "Fast Company",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-08"
+    },
+    {
+      "id": "3e1d94c6",
+      "title": "Every Organization Has Two Realities",
+      "summary": "Um especialista em negócios compartilha uma visão sobre como as organizações têm duas realidades.",
+      "url": "/2026/07/every-organization-has-two-realities",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-07"
+    },
+    {
+      "id": "e279d81e",
+      "title": "Closing the verification loop",
+      "summary": "Um especialista em IA compartilha uma análise sobre a verificação de loop.",
+      "url": "https://thinkroom.kieranklaassen.com/d/njrS5TJhis",
+      "source": "Sidebar",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-08"
+    },
+    {
+      "id": "7de6aaf1",
+      "title": "🧠 Community Wisdom: Quarterly planning and AI, cash vs. equity comp, paying for interview exercises, AI-powered outbound, compliance startup opportunities, and more",
+      "summary": "Um especialista em tecnologia compartilha uma visão sobre como planejar a cada trimestre e como a IA pode ser usada.",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-quarterly-planning",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-04"
+    },
+    {
+      "id": "d990cf59",
+      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+      "summary": "Uma notícia sobre a OpenAI e a advertência do Tesouro sobre a IA.",
+      "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+      "source": "MIT Technology Review",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-07-07"
+    },
+    {
+      "id": "91880c0e",
+      "title": "Your family’s $300 stake in OpenAI",
+      "summary": "Um especialista em negócios compartilha uma visão sobre como a OpenAI pode afetar as famílias.",
+      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "source": "MIT Technology Review",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-07-06"
+    }
+  ]
+}
