@@ -1,0 +1,327 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T12:25:27Z",
+  "total": 32,
+  "items": [
+    {
+      "id": "1ec04626",
+      "title": "This free Mac app reveals the truth about your mystery USB-C cables",
+      "summary": "Uma aplicação gratuita para Mac revela a verdade sobre os cabos USB-C misteriosos.",
+      "url": "https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "7b6e6880",
+      "title": "An Infuriating Goodbye to Photoshop",
+      "summary": "Um adeus irritante ao Photoshop.",
+      "url": "https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop",
+      "source": "Hacker News",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "94593b22",
+      "title": "TechCrunch Mobility: A robotaxi ultimatum",
+      "summary": "Uma ultimata para robotáxi.",
+      "url": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-12"
+    },
+    {
+      "id": "50427788",
+      "title": "AI Media Buyer By Creatify",
+      "summary": "Um comprador de mídia por meio de IA.",
+      "url": "https://www.producthunt.com/products/creatify",
+      "source": "Product Hunt",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-03"
+    },
+    {
+      "id": "a9f5863b",
+      "title": "Ways to think about token pricing",
+      "summary": "Formas de pensar sobre o preço de token.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "72841c88",
+      "title": "The Download: a donor conception cap and world models for AI",
+      "summary": "Uma capa de concepção de doador e modelos mundiais para IA.",
+      "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "13225b12",
+      "title": "This solo builder runs 24/7 local AI on his own hardware | Alex Finn",
+      "summary": "Um construtor sozinho que executa IA local 24/7 em seu próprio hardware.",
+      "url": "https://www.lennysnewsletter.com/p/this-solo-builder-runs-247-local",
+      "source": "Lenny's Newsletter",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "029d0ac4",
+      "title": "SaaStr Takes on This Week’s 20VC: Why OpenAI Giving the Govt 5% Might Make Sense, the Death of Block Risk, and Why Frontier Models Are the Cheapest",
+      "summary": "Por que a OpenAI pode dar 5% ao governo e o que isso significa.",
+      "url": "https://www.saastr.com/my-takes-on-this-weeks-20vc-why-openai-giving-the-govt-5-might-make-sense-the-death-of-block-risk-and-why-frontier-models-are-the-cheapest/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-12"
+    },
+    {
+      "id": "18dd3870",
+      "title": "Flodesk Studio: AI email design, built by real designers",
+      "summary": "Um estúdio de e-mail com design de IA, criado por designers reais.",
+      "url": "https://bit.ly/side-flo1",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "0d7d9d27",
+      "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
+      "summary": "Como transformar a estratégia de marca em direção visual.",
+      "url": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-10"
+    },
+    {
+      "id": "11a853b0",
+      "title": "Playground",
+      "summary": "Um playground.",
+      "url": "https://www.producthunt.com/products/nyx-4",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-12"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Previsão de exposição de empregos de IA.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "b02f36fd",
+      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+      "summary": "O funcionamento interno de Claude e a 'super-aplicação' da OpenAI.",
+      "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-10"
+    },
+    {
+      "id": "e5e7fe5e",
+      "title": "How tech workers actually feel about AI in 2026 | Annual AI sentiment survey (Noam Segal)",
+      "summary": "Como os trabalhadores de tecnologia se sentem sobre a IA em 2026.",
+      "url": "https://www.lennysnewsletter.com/p/how-tech-workers-actually-feel-about",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-12"
+    },
+    {
+      "id": "4de2cbfa",
+      "title": "The PE Software Backlog: Will 1,000+ Unicorns Ever Get Sold or Go Public?",
+      "summary": "O backlog de software de PE: será que 1.000 unicórnios serão vendidos ou irão à bolsa?",
+      "url": "https://www.saastr.com/the-pe-software-backlog-will-1000-unicorns-ever-get-sold/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-12"
+    },
+    {
+      "id": "aef113db",
+      "title": "The hard things about design",
+      "summary": "As coisas difíceis sobre design.",
+      "url": "https://hvpandya.com/hard-things-about-design",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "c6a377ee",
+      "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
+      "summary": "Designando para usuários aflitos: por que as aplicações de saúde mental não devem seguir cada moda de UI.",
+      "url": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "2fb65684",
+      "title": "Waze is getting a bunch of new AI-powered features",
+      "summary": "Waze está recebendo uma série de novas características de IA.",
+      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "4bf65fa3",
+      "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+      "summary": "O criador do Zig chama a Spade de Spade, e a Anthropic faz fumaça.",
+      "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "23495c43",
+      "title": "Simba Voice Agents",
+      "summary": "Agentes de voz Simba.",
+      "url": "https://www.producthunt.com/products/speechify",
+      "source": "Product Hunt",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-08"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "Como a OpenAI vai competir?",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "dac804ed",
+      "title": "🧠 Community Wisdom: Negative network effects, managing overconfident colleagues, developers sidestepping design decisions, keeping stakeholder meetings on track, and more",
+      "summary": "Sábio da comunidade: efeitos negativos de rede, gerenciamento de colegas confiantes demais, desenvolvedores evitando decisões de design, e mais.",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-negative-network",
+      "source": "Lenny's Newsletter",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-11"
+    },
+    {
+      "id": "fc137799",
+      "title": "One Way to Build a Great AI Agent: Just Start With a Dashboard, Then Add the Agent",
+      "summary": "Uma maneira de construir um agente de IA incrível: apenas comece com uma dashboard, então adicione o agente.",
+      "url": "https://www.saastr.com/one-way-to-build-a-great-ai-agent-just-start-with-a-dashboard-then-add-the-agent/",
+      "source": "SaaStr",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-11"
+    },
+    {
+      "id": "ca72b4e6",
+      "title": "How to work with AI without becoming replaceable",
+      "summary": "Como trabalhar com IA sem se tornar substituível.",
+      "url": "https://www.fastcompany.com/91566392/how-to-work-with-ai-without-becoming-replaceable-ai-job-loss",
+      "source": "Fast Company",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "967ff621",
+      "title": "You Outsourced the AI—but You Still Own the Risk",
+      "summary": "Você subcontratou a IA, mas ainda é responsável pelo risco.",
+      "url": "/2026/07/you-outsourced-the-ai-but-you-still-own-the-risk",
+      "source": "Harvard Business Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "3def3a30",
+      "title": "a11y.quest",
+      "summary": "a11y.quest.",
+      "url": "https://a11y.quest/",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "31e564e0",
+      "title": "Meet Kirki: WordPress’s First Visual Builder With An Infinite Canvas",
+      "summary": "Conheça Kirki: o primeiro construtor visual do WordPress com um painel infinito.",
+      "url": "https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-07"
+    },
+    {
+      "id": "49bb482a",
+      "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
+      "summary": "Óculos inteligentes sem câmera? Mesmo a Realities acha que a produtividade é mais importante que gravar todos.",
+      "url": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-07-11"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "IA, redes e Turcos mecânicos.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "d3cd5b87",
+      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "summary": "A Anthropic encontrou um espaço escondido onde Claude se confunde com conceitos.",
+      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "1d21287c",
+      "title": "GPT-5.6 Sol vs. Claude Fable: Why OpenAI’s new model crushes my benchmark",
+      "summary": "GPT-5.6 Sol vs. Claude Fable: por que o modelo da OpenAI superou meu benchmark.",
+      "url": "https://www.lennysnewsletter.com/p/gpt-56-sol-vs-claude-fable-why-openais",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "0df60b7b",
+      "title": "SaaStr AI App of the Week: Willingness to Pay. The Pricing Firm B2B + AI Companies Call When Per-Seat Stops Working",
+      "summary": "Aplicativo de IA da semana da SaaStr: Disponibilidade para pagar. A empresa de preços B2B + AI que os clientes chamam quando o preço por assento não funciona mais.",
+      "url": "https://www.saastr.com/saastr-ai-app-of-the-week-willingness-to-pay-the-pricing-firm-b2b-ai-companies-call-when-per-seat-stops-working/",
+      "source": "SaaStr",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-11"
+    }
+  ]
+}
