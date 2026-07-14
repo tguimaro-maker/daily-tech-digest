@@ -1,0 +1,357 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T11:17:01Z",
+  "total": 35,
+  "items": [
+    {
+      "id": "684c0525",
+      "title": "🎙️ How I AI: GPT-5.6 review, How a solo builder runs 24/7 local AI, and What an agent harness is and how to build one",
+      "summary": "Uma revisão de GPT-5.6 e como criar um agente de IA.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-56-review-how-a-solo",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "d19909d0",
+      "title": "Don’t Put AI on Your Hot Leads. Put It on the Ones Your Reps Will Never Call. There’s Millions in Revenue There.",
+      "summary": "Por que colocar IA nos leads quentes pode não ser a melhor estratégia.",
+      "url": "https://www.saastr.com/dont-put-ai-on-your-hot-leads-put-it-on-the-ones-your-reps-will-never-call-theres-millions-in-revenue-there/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "13225b12",
+      "title": "This solo builder runs 24/7 local AI on his own hardware | Alex Finn",
+      "summary": "Um construtor solitário está executando IA local 24/7 em seu próprio hardware.",
+      "url": "https://www.lennysnewsletter.com/p/this-solo-builder-runs-247-local",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "a7da75eb",
+      "title": "Should You Visit More Of Your Prospects In Person?  Almost Certainly",
+      "summary": "Deve-se visitar mais prospects pessoalmente?",
+      "url": "https://www.saastr.com/should-you-visit-more-of-your-prospects-in-person-almost-certainly/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "641b4787",
+      "title": "Dear SaaStr: Should Both Founders Come to VC Pitches?",
+      "summary": "Perguntas e respostas de SaaStr: devem ambos os fundadores comparecer a pitches de VC?",
+      "url": "https://www.saastr.com/should-both-founders-come-to-vc-pitches/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "029d0ac4",
+      "title": "SaaStr Takes on This Week’s 20VC: Why OpenAI Giving the Govt 5% Might Make Sense, the Death of Block Risk, and Why Frontier Models Are the Cheapest",
+      "summary": "SaaStr discute a semana com 20VC: por que a OpenAI pode dar 5% ao governo, a morte do risco de bloco e por que os modelos fronteiriços são os mais baratos.",
+      "url": "https://www.saastr.com/my-takes-on-this-weeks-20vc-why-openai-giving-the-govt-5-might-make-sense-the-death-of-block-risk-and-why-frontier-models-are-the-cheapest/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-12"
+    },
+    {
+      "id": "acf72a6d",
+      "title": "The first sunlight reflecting space mirror has been cleared for launch",
+      "summary": "O primeiro espelho de espaço refletindo luz solar foi aprovado para lançamento.",
+      "url": "https://www.theverge.com/science/965263/reflect-orbital-space-mirror-launch-fcc-clearance",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-07-14"
+    },
+    {
+      "id": "35319596",
+      "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
+      "summary": "Alternativas para executar CUDA em hardware não-Nvidia.",
+      "url": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-07-14"
+    },
+    {
+      "id": "ca23780d",
+      "title": "AutoShelf 2.0",
+      "summary": "AutoShelf 2.0 foi lançado.",
+      "url": "https://www.producthunt.com/products/autoshelf",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-07"
+    },
+    {
+      "id": "a9f5863b",
+      "title": "Ways to think about token pricing",
+      "summary": "Dicas para pensar no preço de token.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "7bdc4d29",
+      "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
+      "summary": "Um plano para criar um computador quântico massivo usando luz foi proposto.",
+      "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-14"
+    },
+    {
+      "id": "d89c9df9",
+      "title": "This designer is using AI to make clothing with zero fabric waste",
+      "summary": "Um designer está usando IA para criar roupas com zero desperdício de tecido.",
+      "url": "https://www.fastcompany.com/91571293/shelly-xu-designs-sustainable-fashion-ai",
+      "source": "Fast Company",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-14"
+    },
+    {
+      "id": "0d7d9d27",
+      "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
+      "summary": "Como transformar a estratégia de marca em direção visual.",
+      "url": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-10"
+    },
+    {
+      "id": "8a38258b",
+      "title": "Let’s build a children’s public internet",
+      "summary": "Uma proposta para criar um internet público para crianças.",
+      "url": "https://www.theverge.com/report/962823/childrens-public-internet-child-safety-proposal",
+      "source": "The Verge",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-14"
+    },
+    {
+      "id": "7cf2d971",
+      "title": "Two Case Studies of NaN",
+      "summary": "Dois casos de estudo de NaN.",
+      "url": "https://sebsite.pw/w/20260709-nan.html",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-07-14"
+    },
+    {
+      "id": "3963c895",
+      "title": "Goose Ads Remixer",
+      "summary": "Goose Ads Remixer foi lançado.",
+      "url": "https://www.producthunt.com/products/gooseworks",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-12"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Previsão de exposição de empregos de IA.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "adf26f6b",
+      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "summary": "O que a última descoberta da Anthropic mostra e não mostra.",
+      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "284f2d74",
+      "title": "Dot Matrix",
+      "summary": "Dot Matrix foi lançado.",
+      "url": "https://dotmatrix.zzzzshawn.cloud/",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-14"
+    },
+    {
+      "id": "c6a377ee",
+      "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
+      "summary": "Designando para usuários aflitos: por que as aplicações de saúde mental não devem seguir a moda de UI.",
+      "url": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "c1700df3",
+      "title": "New York becomes the first state to enact a data center moratorium",
+      "summary": "Nova York se tornou o primeiro estado a aprovar uma moratória para centros de dados.",
+      "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-07-14"
+    },
+    {
+      "id": "98eda5f8",
+      "title": "The Anatomy of an Instruction Pipeline Hazard",
+      "summary": "A anatomia de um perigo de pipeline de instrução.",
+      "url": "https://hiraditya.github.io/posts/hardware-hazards-b200/",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-07-14"
+    },
+    {
+      "id": "03a1773e",
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+      "summary": "O chefe de produto da Uber sobre hotéis, robotaxis e por que a empresa não quer ser 'tudo para todos'.",
+      "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-14"
+    },
+    {
+      "id": "e7131099",
+      "title": "Mojave Paint",
+      "summary": "Mojave Paint foi lançado.",
+      "url": "https://www.producthunt.com/products/mojave-paint",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-14"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "Como a OpenAI vai competir?",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "72841c88",
+      "title": "The Download: a donor conception cap and world models for AI",
+      "summary": "O Download: uma capa de concepção de doador e modelos de mundo para IA.",
+      "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "e5e7fe5e",
+      "title": "How tech workers actually feel about AI in 2026 | Annual AI sentiment survey (Noam Segal)",
+      "summary": "Como os trabalhadores de tecnologia se sentem sobre a IA em 2026.",
+      "url": "https://www.lennysnewsletter.com/p/how-tech-workers-actually-feel-about",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-12"
+    },
+    {
+      "id": "28e8ff2e",
+      "title": "The FCC just approved a test of a giant mirror in space",
+      "summary": "O FCC aprovou um teste de um espelho gigante no espaço.",
+      "url": "https://www.fastcompany.com/91572626/the-fcc-just-approved-a-test-of-a-giant-mirror-in-space",
+      "source": "Fast Company",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-07-14"
+    },
+    {
+      "id": "31e564e0",
+      "title": "Meet Kirki: WordPress’s First Visual Builder With An Infinite Canvas",
+      "summary": "Conheça Kirki: o primeiro construtor visual do WordPress com um painel infinito.",
+      "url": "https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-07"
+    },
+    {
+      "id": "980f9414",
+      "title": "Microsoft tests Windows Search without all the ads and fluff",
+      "summary": "A Microsoft está testando o Windows Search sem anúncios e excessos.",
+      "url": "https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "725a0a22",
+      "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
+      "summary": "Cientistas indianos criaram o atlas 3D mais detalhado do tronco cerebral humano.",
+      "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-07-14"
+    },
+    {
+      "id": "f61e1be1",
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "summary": "A PixVerse, uma startup de geração de vídeo, arrecadou US$ 439 milhões e sua valorização ultrapassou US$ 2 bilhões.",
+      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-14"
+    },
+    {
+      "id": "826bc761",
+      "title": "Trump Accounts",
+      "summary": "Trump Accounts foi lançado.",
+      "url": "https://www.producthunt.com/products/trump-accounts",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-12"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "IA, redes e Turcos Mecânicos.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "b02f36fd",
+      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+      "summary": "O Download: como funciona o Claude e a 'super-aplicação' da OpenAI.",
+      "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-10"
+    }
+  ]
+}
