@@ -1,0 +1,267 @@
+{
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T11:20:34Z",
+  "total": 26,
+  "items": [
+    {
+      "id": "636f8610",
+      "title": "Samsung’s new foldable display is harder to crease and damage",
+      "summary": "Samsung lançou um novo display dobrável mais resistente a rasgos e danos.",
+      "url": "https://www.theverge.com/tech/965850/samsung-display-flex-titanium-galaxy-foldables",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-15"
+    },
+    {
+      "id": "40d29dea",
+      "title": "Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse",
+      "summary": "A Oak recebeu US$ 60 milhões em financiamento para resolver problemas de identidade causados por agentes de IA.",
+      "url": "https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-15"
+    },
+    {
+      "id": "dcfb6bf5",
+      "title": "The Download: Claude’s inner workings, and the future of world models",
+      "summary": "O MIT Technology Review discutiu Claude e modelos mundiais de IA.",
+      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-14"
+    },
+    {
+      "id": "684c0525",
+      "title": "🎙️ How I AI: GPT-5.6 review, How a solo builder runs 24/7 local AI, and What an agent harness is and how to build one",
+      "summary": "Lenny's Newsletter compartilhou informações sobre como construir agentes de IA.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-56-review-how-a-solo",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "112bf8f8",
+      "title": "Dear SaaStr.ai: At What Point Should We Hire an Internal Recruiter?",
+      "summary": "A SaaStr.ai respondeu perguntas sobre quando contratar um recrutador interno.",
+      "url": "https://www.saastr.com/dear-saastr-at-what-point-should-we-hire-an-internal-recruiter/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-15"
+    },
+    {
+      "id": "7bdc4d29",
+      "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
+      "summary": "O MIT Technology Review discutiu um plano para criar um computador quântico massivo usando luz.",
+      "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
+      "source": "MIT Technology Review",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-14"
+    },
+    {
+      "id": "13225b12",
+      "title": "This solo builder runs 24/7 local AI on his own hardware | Alex Finn",
+      "summary": "Um usuário compartilhou como construir e executar AI localmente.",
+      "url": "https://www.lennysnewsletter.com/p/this-solo-builder-runs-247-local",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "5b513e5e",
+      "title": "$500M ARR, 60 Engineers, Cash-Flow Positive: How Higgsfield Actually Runs, With CEO Alex Mashrabov",
+      "summary": "A SaaStr compartilhou o caso de sucesso da Higgsfield, com US$ 500 milhões em ARR e 60 engenheiros.",
+      "url": "https://www.saastr.com/500m-arr-60-engineers-cash-flow-positive-how-higgsfield-actually-runs-with-ceo-alex-mashrabov/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-14"
+    },
+    {
+      "id": "fb85cf8a",
+      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+      "summary": "Um pesquisador da OpenAI está em negociações para lançar uma startup de descoberta de fármacos de IA com US$ 2 bilhões.",
+      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-15"
+    },
+    {
+      "id": "adf26f6b",
+      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "summary": "O MIT Technology Review discutiu uma descoberta recente da Anthropic e suas implicações.",
+      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "e5e7fe5e",
+      "title": "How tech workers actually feel about AI in 2026 | Annual AI sentiment survey (Noam Segal)",
+      "summary": "Lenny's Newsletter compartilhou o resultado de uma pesquisa sobre sentimentos de trabalhadores de tecnologia em relação à IA.",
+      "url": "https://www.lennysnewsletter.com/p/how-tech-workers-actually-feel-about",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-12"
+    },
+    {
+      "id": "ea434e43",
+      "title": "Do You Have a “Pricing Gap” Holding Back Sales?  Many Do",
+      "summary": "A SaaStr compartilhou dicas sobre como identificar e superar lacunas de preços que podem estar bloqueando vendas.",
+      "url": "https://www.saastr.com/do-you-have-a-pricing-gap-holding-back-sales-many-do/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-14"
+    },
+    {
+      "id": "72841c88",
+      "title": "The Download: a donor conception cap and world models for AI",
+      "summary": "O MIT Technology Review discutiu um novo download sobre concepção de doadores e modelos mundiais de IA.",
+      "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "dac804ed",
+      "title": "🧠 Community Wisdom: Negative network effects, managing overconfident colleagues, developers sidestepping design decisions, keeping stakeholder meetings on track, and more",
+      "summary": "Lenny's Newsletter compartilhou conselhos da comunidade sobre efeitos negativos de rede, colegas confiantes demais e mais.",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-negative-network",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-11"
+    },
+    {
+      "id": "d19909d0",
+      "title": "Don’t Put AI on Your Hot Leads. Put It on the Ones Your Reps Will Never Call. There’s Millions in Revenue There.",
+      "summary": "A SaaStr compartilhou dicas sobre como usar IA em leads quentes.",
+      "url": "https://www.saastr.com/dont-put-ai-on-your-hot-leads-put-it-on-the-ones-your-reps-will-never-call-theres-millions-in-revenue-there/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "2269317d",
+      "title": "RecordMeeting",
+      "summary": "O RecordMeeting foi compartilhado no Product Hunt.",
+      "url": "https://www.producthunt.com/products/recordmeeting",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-06-19"
+    },
+    {
+      "id": "a9f5863b",
+      "title": "Ways to think about token pricing",
+      "summary": "Ben Evans compartilhou dicas sobre preços de token.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "8a44dac4",
+      "title": "A SpaceX vet raised $65M to pull wire harnesses out of the Cold War era",
+      "summary": "Um veterano da SpaceX levantou US$ 65 milhões para modernizar fios de cabos.",
+      "url": "https://techcrunch.com/2026/07/15/a-spacex-vet-raised-65m-to-pull-wire-harnesses-out-of-the-cold-war-era/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-15"
+    },
+    {
+      "id": "cb8867d3",
+      "title": "Crustdata Recruiter",
+      "summary": "O Crustdata Recruiter foi compartilhado no Product Hunt.",
+      "url": "https://www.producthunt.com/products/crustdata-2",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-14"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Ben Evans compartilhou dicas sobre prever exposição de empregos de IA.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "0d7d9d27",
+      "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
+      "summary": "O Smashing Magazine compartilhou dicas sobre como transformar estratégias de marca em direção visual.",
+      "url": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-10"
+    },
+    {
+      "id": "896a9000",
+      "title": "Flodesk Studio",
+      "summary": "O Flodesk Studio foi compartilhado no Product Hunt.",
+      "url": "https://www.producthunt.com/products/flodesk-studio",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-06"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "Ben Evans discutiu como a OpenAI pode competir.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "c6a377ee",
+      "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
+      "summary": "O Smashing Magazine compartilhou dicas sobre como projetar para usuários em situação de estresse.",
+      "url": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "dfcf686e",
+      "title": "Tiptap AI Toolkit",
+      "summary": "O Tiptap AI Toolkit foi compartilhado no Product Hunt.",
+      "url": "https://www.producthunt.com/products/tiptap",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-15"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "Ben Evans discutiu IA, redes e trabalhadores mecânicos.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2025-11-23"
+    }
+  ]
+}
