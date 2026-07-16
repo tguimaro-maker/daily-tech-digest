@@ -1,0 +1,367 @@
+{
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T11:26:38Z",
+  "total": 36,
+  "items": [
+    {
+      "id": "1961355c",
+      "title": "COMPUTER COPS: Inside the big business of selling AI to the police",
+      "summary": "A empresa de software vende inteligência artificial para a polícia, criando um negócio lucrativo.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
+      "source": "The Verge",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-16"
+    },
+    {
+      "id": "3faae2ca",
+      "title": "Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot",
+      "summary": "A Meta alerta os pais se seus filhos discutiram suicídio ou autolesão com o chatbot de IA da empresa.",
+      "url": "https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-16"
+    },
+    {
+      "id": "684c0525",
+      "title": "🎙️ How I AI: GPT-5.6 review, How a solo builder runs 24/7 local AI, and What an agent harness is and how to build one",
+      "summary": "Lenny's Newsletter discute como construir um agente de IA e como usar o GPT-5.6.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-56-review-how-a-solo",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "92ef31f2",
+      "title": "Is Software Dead? No. It Just Got a Lot Harder to Win. The SaaStr AI Deep Dive with Rory O’Driscoll",
+      "summary": "O artigo discute como a IA está mudando o mercado de software.",
+      "url": "https://www.saastr.com/is-software-dead-no-it-just-got-a-lot-harder-to-win-the-saastr-ai-deep-dive-with-rory-odriscoll/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-15"
+    },
+    {
+      "id": "aa897f97",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "summary": "O artigo discute sobre o GPT-Red, um modelo de IA seguro desenvolvido pela OpenAI.",
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-15"
+    },
+    {
+      "id": "13225b12",
+      "title": "This solo builder runs 24/7 local AI on his own hardware | Alex Finn",
+      "summary": "O artigo discute sobre como um desenvolvedor construiu um agente de IA local em seu hardware.",
+      "url": "https://www.lennysnewsletter.com/p/this-solo-builder-runs-247-local",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "8370c03d",
+      "title": "An Hour With Our Top AI Agent Cost $13.42. You Can’t Hire Anyone For That.",
+      "summary": "O artigo discute sobre como a IA pode reduzir o tempo de desenvolvimento de carros.",
+      "url": "https://www.saastr.com/an-hour-with-our-top-ai-agent-cost-13-42-you-cant-hire-anyone-for-that/",
+      "source": "SaaStr",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-15"
+    },
+    {
+      "id": "91d7633a",
+      "title": "GM’s AI tools could cut the car development timeline in half",
+      "summary": "O artigo discute sobre como a GM está usando a IA para melhorar a experiência de usuário.",
+      "url": "https://www.fastcompany.com/91571405/gm-ai-tools-could-cut-the-car-development-timeline-in-half",
+      "source": "Fast Company",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-16"
+    },
+    {
+      "id": "0ad8598c",
+      "title": "The AI economy runs on this (incredibly vague) unit",
+      "summary": "O artigo discute sobre a economia de IA.",
+      "url": "https://www.fastcompany.com/91572876/the-ai-economy-runs-on-this-incredibly-vague-unit",
+      "source": "Fast Company",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-16"
+    },
+    {
+      "id": "66f6e9ec",
+      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+      "summary": "O artigo discute sobre uma empresa que quer ajudar os operadores de petróleo e gás com IA.",
+      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "source": "TechCrunch",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-16"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "Ben Evans discute sobre IA, redes e Mechanical Turks.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "dcfb6bf5",
+      "title": "The Download: Claude’s inner workings, and the future of world models",
+      "summary": "O artigo discute sobre Claude e os modelos de mundo.",
+      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-14"
+    },
+    {
+      "id": "5b513e5e",
+      "title": "$500M ARR, 60 Engineers, Cash-Flow Positive: How Higgsfield Actually Runs, With CEO Alex Mashrabov",
+      "summary": "O artigo discute sobre como a Higgsfield está gerenciando seu crescimento.",
+      "url": "https://www.saastr.com/500m-arr-60-engineers-cash-flow-positive-how-higgsfield-actually-runs-with-ceo-alex-mashrabov/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-14"
+    },
+    {
+      "id": "d99ed9c0",
+      "title": "OnePlus halts operations in USA and Europe",
+      "summary": "A OnePlus suspende suas operações nos EUA e Europa.",
+      "url": "https://community.oneplus.com/thread/2170715118587871237",
+      "source": "Hacker News",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-16"
+    },
+    {
+      "id": "f5b599ad",
+      "title": "FlightGlitch",
+      "summary": "FlightGlitch é uma ferramenta de produto que ajuda a melhorar a experiência de viagem.",
+      "url": "https://www.producthunt.com/products/flightglitch-airline-error-fare-alerts",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-15"
+    },
+    {
+      "id": "a9f5863b",
+      "title": "Ways to think about token pricing",
+      "summary": "Ben Evans discute formas de pensar sobre preços de token.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "3bd9a75f",
+      "title": "4 Hidden Traps of Team Dynamics",
+      "summary": "O artigo discute trapaças ocultas em dinâmicas de equipe.",
+      "url": "/2026/07/4-hidden-traps-of-team-dynamics",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-15"
+    },
+    {
+      "id": "be0b98f7",
+      "title": "No, People Don’t Want More AI In Their Life",
+      "summary": "O artigo discute sobre a percepção de que as pessoas não querem mais IA em suas vidas.",
+      "url": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-15"
+    },
+    {
+      "id": "46740137",
+      "title": "OnePlus officially gives up on the US and Europe",
+      "summary": "A OnePlus suspende suas operações nos EUA e Europa.",
+      "url": "https://www.theverge.com/tech/966404/oneplus-oppo-us-europe-withdrawal-realme",
+      "source": "The Verge",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-16"
+    },
+    {
+      "id": "22c49b16",
+      "title": "Phone maker OnePlus says it won’t release new phones in the U.S. and Europe",
+      "summary": "A OnePlus não lançará novos telefones nos EUA e Europa.",
+      "url": "https://techcrunch.com/2026/07/16/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-16"
+    },
+    {
+      "id": "bb9105b0",
+      "title": "In Parallel MCP",
+      "summary": "In Parallel MCP é uma ferramenta de produto que ajuda a melhorar a experiência de trabalho.",
+      "url": "https://www.producthunt.com/products/in-parallel",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-14"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Ben Evans discute sobre a exposição de empregos de IA.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "0f7fa99a",
+      "title": "Are You Biased Toward Job Candidates Who Reply Quickly?",
+      "summary": "O artigo discute sobre como a biase pode afetar a seleção de candidatos.",
+      "url": "/2026/07/are-you-biased-toward-job-candidates-who-reply-quickly",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-15"
+    },
+    {
+      "id": "0d7d9d27",
+      "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
+      "summary": "O artigo discute sobre como transformar a estratégia de marca em direção visual.",
+      "url": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-10"
+    },
+    {
+      "id": "32242a5c",
+      "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
+      "summary": "A Lululemon investiu em uma startup de reciclagem de nylon.",
+      "url": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-16"
+    },
+    {
+      "id": "56c5a7d8",
+      "title": "Breadcromb",
+      "summary": "Breadcromb é uma ferramenta de produto que ajuda a melhorar a experiência de trabalho.",
+      "url": "https://www.producthunt.com/products/breadcromb",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-14"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "Ben Evans discute sobre como a OpenAI pode competir.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "e5e7fe5e",
+      "title": "How tech workers actually feel about AI in 2026 | Annual AI sentiment survey (Noam Segal)",
+      "summary": "O artigo discute sobre a percepção de tecnologia em 2026.",
+      "url": "https://www.lennysnewsletter.com/p/how-tech-workers-actually-feel-about",
+      "source": "Lenny's Newsletter",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-07-12"
+    },
+    {
+      "id": "112bf8f8",
+      "title": "Dear SaaStr.ai: At What Point Should We Hire an Internal Recruiter?",
+      "summary": "O artigo discute sobre quando contratar um recrutador interno.",
+      "url": "https://www.saastr.com/dear-saastr-at-what-point-should-we-hire-an-internal-recruiter/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-15"
+    },
+    {
+      "id": "05b7befe",
+      "title": "The Best Teams Know When to Work Alone",
+      "summary": "O artigo discute sobre como os melhores times sabem quando trabalhar sozinhos.",
+      "url": "/2026/07/the-best-teams-know-when-to-work-alone",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-14"
+    },
+    {
+      "id": "c6a377ee",
+      "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
+      "summary": "O artigo discute sobre como projetar para usuários em crise.",
+      "url": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "a5e7b42d",
+      "title": "WorkflowMaps",
+      "summary": "WorkflowMaps é uma ferramenta de produto que ajuda a melhorar a experiência de trabalho.",
+      "url": "https://www.producthunt.com/products/workflowmaps",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "dac804ed",
+      "title": "🧠 Community Wisdom: Negative network effects, managing overconfident colleagues, developers sidestepping design decisions, keeping stakeholder meetings on track, and more",
+      "summary": "O artigo discute sobre questões comunitárias, incluindo efeitos negativos de rede e gestão de colegas confiantes.",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-negative-network",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-11"
+    },
+    {
+      "id": "32162980",
+      "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
+      "summary": "O artigo discute sobre a localização de fundadores da YC.",
+      "url": "https://joinedanthropic.com",
+      "source": "Hacker News",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-07-16"
+    },
+    {
+      "id": "ef56a955",
+      "title": "Netstrings (1997)",
+      "summary": "O artigo discute sobre o Netstrings, um protocolo de comunicação de 1997.",
+      "url": "https://cr.yp.to/proto/netstrings.txt",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 3,
+      "published_at": "2026-07-16"
+    },
+    {
+      "id": "b155eb77",
+      "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+      "summary": "O artigo discute sobre uma máquina quântica útil e um túnel subaquático recorde.",
+      "url": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
+      "source": "MIT Technology Review",
+      "category": "Tech",
+      "relevance": 3,
+      "published_at": "2026-07-15"
+    }
+  ]
+}
