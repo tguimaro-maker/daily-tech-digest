@@ -1,0 +1,357 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T11:14:02Z",
+  "total": 35,
+  "items": [
+    {
+      "id": "66eafe5d",
+      "title": "Pebbles Ai",
+      "summary": "Pebbles Ai é uma ferramenta de IA para auxiliar na criação de conteúdo.",
+      "url": "https://www.producthunt.com/products/pebbles-ai",
+      "source": "Product Hunt",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-14"
+    },
+    {
+      "id": "a9f5863b",
+      "title": "Ways to think about token pricing",
+      "summary": "Dicas para definir o preço de tokens em produtos digitais.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "684c0525",
+      "title": "🎙️ How I AI: GPT-5.6 review, How a solo builder runs 24/7 local AI, and What an agent harness is and how to build one",
+      "summary": "Uma análise sobre como a IA pode ser usada para criar agentes que auxiliem na criação de conteúdo.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-56-review-how-a-solo",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "931ad534",
+      "title": "20VC x SaaStr This Week : Apple Sues OpenAI, the Token-Maxing Era Begins, and the TAM Question Hanging Over AI Coding",
+      "summary": "Uma discussão sobre a competição entre Apple e OpenAI no mercado de IA.",
+      "url": "https://www.saastr.com/20vc-x-saastr-this-week-apple-sues-openai-the-token-maxing-era-begins-and-the-tam-question-hanging-over-ai-coding/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-16"
+    },
+    {
+      "id": "343bcef0",
+      "title": "When It Makes Sense To “Block” The Main Thread",
+      "summary": "Dicas para evitar problemas com a execução de código em threads principais.",
+      "url": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-17"
+    },
+    {
+      "id": "81bf81b4",
+      "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
+      "summary": "A AWS enfrenta um problema de faturamento inesperado de US$ 1,7 bilhão.",
+      "url": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-16"
+    },
+    {
+      "id": "c4008dac",
+      "title": "Basedash Suggestions",
+      "summary": "Basedash é uma ferramenta de IA para auxiliar na criação de conteúdo.",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-16"
+    },
+    {
+      "id": "13225b12",
+      "title": "This solo builder runs 24/7 local AI on his own hardware | Alex Finn",
+      "summary": "Uma pessoa construiu uma IA local que funciona 24/7 em seu próprio hardware.",
+      "url": "https://www.lennysnewsletter.com/p/this-solo-builder-runs-247-local",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "ccab9050",
+      "title": "Three $3B B2B Acquisitions in 30 Days: Intercom/Fin, Cognite, and MaintainX. They All Bought the Same Thing: Data for AI",
+      "summary": "Três empresas de software compraram startups de dados de AI em um período de 30 dias.",
+      "url": "https://www.saastr.com/three-3b-b2b-acquisitions-in-30-days-intercom-fin-cognite-and-maintainx-they-all-bought-the-same-thing-data-for-ai/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-16"
+    },
+    {
+      "id": "be0b98f7",
+      "title": "No, People Don’t Want More AI In Their Life",
+      "summary": "Uma discussão sobre a percepção pública da IA e sua aplicação em produtos digitais.",
+      "url": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/",
+      "source": "Smashing Magazine",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-15"
+    },
+    {
+      "id": "b0b85577",
+      "title": "Fortnite is getting a bunch of AI-powered ‘personas’",
+      "summary": "O Fortnite está adicionando personagens IA ao jogo.",
+      "url": "https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas",
+      "source": "The Verge",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-16"
+    },
+    {
+      "id": "ebdd5098",
+      "title": "Unabyss for Claude",
+      "summary": "Unabyss é uma ferramenta de IA para auxiliar na criação de conteúdo.",
+      "url": "https://www.producthunt.com/products/unabyss",
+      "source": "Product Hunt",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-10"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "Uma discussão sobre como a OpenAI pode competir no mercado de IA.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "75b3a830",
+      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+      "summary": "A OpenAI lançou uma nova versão da GPT e os heat pumps estão ganhando popularidade nos EUA.",
+      "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-16"
+    },
+    {
+      "id": "67fe53c9",
+      "title": "The Bay Area Now Takes 51% of Every AI Venture Dollar. And 53% of Every B2B Dollar.",
+      "summary": "A região da Baía de São Francisco está recebendo uma grande parte dos investimentos em IA e B2B.",
+      "url": "https://www.saastr.com/the-bay-area-now-takes-51-of-every-ai-venture-dollar-and-53-of-every-b2b-dollar/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-16"
+    },
+    {
+      "id": "b11462ad",
+      "title": "Siri is finally good, but AI assistants still have miles to go",
+      "summary": "A Siri está melhorando, mas os assistentes de IA ainda têm muito a aprender.",
+      "url": "https://www.fastcompany.com/91575071/siri-is-finally-good-but-ai-assistants-still-have-miles-to-go",
+      "source": "Fast Company",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-17"
+    },
+    {
+      "id": "28792812",
+      "title": "Stop AI from Eroding Your Brand",
+      "summary": "Uma discussão sobre como a IA pode afetar a marcação de produtos digitais.",
+      "url": "/2026/07/stop-ai-from-eroding-your-brand",
+      "source": "Harvard Business Review",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-16"
+    },
+    {
+      "id": "0d7d9d27",
+      "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
+      "summary": "Dicas para criar uma direção visual para produtos digitais.",
+      "url": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-10"
+    },
+    {
+      "id": "c2a625f9",
+      "title": "Pocket Screen",
+      "summary": "Pocket Screen é uma ferramenta de IA para auxiliar na criação de conteúdo.",
+      "url": "https://www.producthunt.com/products/toybird-labs",
+      "source": "Product Hunt",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-14"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "Uma discussão sobre a IA, redes e Mechanical Turks.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "dac804ed",
+      "title": "🧠 Community Wisdom: Negative network effects, managing overconfident colleagues, developers sidestepping design decisions, keeping stakeholder meetings on track, and more",
+      "summary": "Uma discussão sobre como a IA pode ser usada para criar agentes que auxiliem na criação de conteúdo.",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-negative-network",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-11"
+    },
+    {
+      "id": "92ef31f2",
+      "title": "Is Software Dead? No. It Just Got a Lot Harder to Win. The SaaStr AI Deep Dive with Rory O’Driscoll",
+      "summary": "Uma discussão sobre a IA e seu impacto no mercado de software.",
+      "url": "https://www.saastr.com/is-software-dead-no-it-just-got-a-lot-harder-to-win-the-saastr-ai-deep-dive-with-rory-odriscoll/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-15"
+    },
+    {
+      "id": "c974a5c4",
+      "title": "I Owe My Life to the Commodore 64",
+      "summary": "O autor conta como a Commodore 64 mudou sua vida.",
+      "url": "https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64",
+      "source": "Hacker News",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-17"
+    },
+    {
+      "id": "86bc59e2",
+      "title": "Research Roundup: The Death of the Cover Letter, Boring Meetings, Wide Salary Ranges, and More",
+      "summary": "Uma pesquisa sobre tendências no mercado de trabalho, incluindo a morte do currículo e a importância da confiança.",
+      "url": "/2026/07/research-roundup-the-death-of-the-cover-letter-boring-meetings-wide-salary-ranges-and-more",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-16"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Dicas para prever a exposição da IA no mercado de trabalho.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "5e56a296",
+      "title": "Leadership Summit 2026: AT&T CEO John Stankey on Developing Technology and Talent in the AI Era",
+      "summary": "O CEO da AT&T fala sobre o desenvolvimento de tecnologia e talento na era da IA.",
+      "url": "/podcast/2026/07/leadership-summit-2026-att-ceo-john-stankey-on-developing-technology-and-talent-in-the-ai-era",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-16"
+    },
+    {
+      "id": "e5e7fe5e",
+      "title": "How tech workers actually feel about AI in 2026 | Annual AI sentiment survey (Noam Segal)",
+      "summary": "Uma pesquisa sobre a percepção dos trabalhadores de tecnologia sobre a IA em 2026.",
+      "url": "https://www.lennysnewsletter.com/p/how-tech-workers-actually-feel-about",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-12"
+    },
+    {
+      "id": "5cdaf0d1",
+      "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
+      "summary": "A Founders Fund contratou um executivo da OpenAI.",
+      "url": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-16"
+    },
+    {
+      "id": "4af98d8c",
+      "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
+      "summary": "O prefeito de São Francisco propõe regras mais rigorosas após um acidente com veículo autônomo.",
+      "url": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-07-16"
+    },
+    {
+      "id": "e42d9227",
+      "title": "SpaceX uses ‘chopsticks.’ China uses ‘nets.’ Here’s how these space superpowers  design their rocket recovery systems",
+      "summary": "Uma comparação entre os sistemas de recuperação de foguetes da SpaceX e da China.",
+      "url": "https://www.fastcompany.com/91573268/spacex-china-rocket-recovery-systems",
+      "source": "Fast Company",
+      "category": "Tech",
+      "relevance": 3,
+      "published_at": "2026-07-17"
+    },
+    {
+      "id": "8c401bab",
+      "title": "AWS: Inaccurate Estimated Billing Data - $1.7 BILLION",
+      "summary": "A SpaceX aborta o lançamento de um foguete após a ignição.",
+      "url": "https://news.ycombinator.com/item?id=48945241",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 3,
+      "published_at": "2026-07-17"
+    },
+    {
+      "id": "7a3caa52",
+      "title": "EEG shows brain can simultaneous encode two speech streams",
+      "summary": "Uma pesquisa sobre a capacidade do cérebro de processar múltiplas fontes de áudio ao mesmo tempo.",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 3,
+      "published_at": "2026-07-17"
+    },
+    {
+      "id": "99c6c48c",
+      "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
+      "summary": "A Coca-Cola suspendeu a produção de leite após um ataque de ransomware.",
+      "url": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-07-16"
+    },
+    {
+      "id": "0ab9c9bf",
+      "title": "Pebble Mega Update – July 2026",
+      "summary": "Uma atualização da Pebble Mega.",
+      "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
+      "source": "Hacker News",
+      "category": "Design",
+      "relevance": 3,
+      "published_at": "2026-07-17"
+    },
+    {
+      "id": "3d323a4a",
+      "title": "Why heat pumps are still so hot in the US",
+      "summary": "Uma discussão sobre os heat pumps e sua popularidade nos EUA.",
+      "url": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
+      "source": "MIT Technology Review",
+      "category": "Tech",
+      "relevance": 3,
+      "published_at": "2026-07-16"
+    }
+  ]
+}
