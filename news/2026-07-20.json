@@ -1,0 +1,307 @@
+{
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T12:08:09Z",
+  "total": 30,
+  "items": [
+    {
+      "id": "091a3260",
+      "title": "AliExpress fined almost $630 million over illegal product sales",
+      "summary": "A AliExpress foi multada em quase $630 milhões por vendas de produtos ilegais.",
+      "url": "https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products",
+      "source": "The Verge",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-20"
+    },
+    {
+      "id": "f088b70b",
+      "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+      "summary": "A Netflix comprou uma startup de tecnologia de filme com AI por $587 milhões.",
+      "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-19"
+    },
+    {
+      "id": "f42da842",
+      "title": "BlockscopeChat",
+      "summary": "BlockscopeChat é uma ferramenta de comunicação.",
+      "url": "https://www.producthunt.com/products/blockscopechat",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-17"
+    },
+    {
+      "id": "a9f5863b",
+      "title": "Ways to think about token pricing",
+      "summary": "O artigo discute como calcular o preço de tokens.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "28276c5d",
+      "title": "How the founder of Morning Brew built a Claude content machine that never runs out of ideas and never sounds like slop | Alex Lieberman",
+      "summary": "O fundador da Morning Brew criou uma máquina de conteúdo com Claude que nunca esgota ideias.",
+      "url": "https://www.lennysnewsletter.com/p/how-the-founder-of-morning-brew-built",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-20"
+    },
+    {
+      "id": "3a1ed4df",
+      "title": "If Your VP Sales Isn’t Going to Work Out — You’ll Know in 30 Days",
+      "summary": "Um artigo sobre como saber se um VP de vendas não vai funcionar.",
+      "url": "https://www.saastr.com/if-your-vp-sales-isnt-going-to-work-out-youll-know-in-30-days/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2022-06-19"
+    },
+    {
+      "id": "d0494721",
+      "title": "Designing with web standards: The playbook for this AI moment",
+      "summary": "Um guia para projetar com padrões web em um momento de AI.",
+      "url": "https://uxdesign.cc/designing-with-web-standards-the-playbook-for-this-ai-moment-92394884dc0d",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-20"
+    },
+    {
+      "id": "343bcef0",
+      "title": "When It Makes Sense To “Block” The Main Thread",
+      "summary": "Um artigo sobre quando é melhor bloquear a thread principal.",
+      "url": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-17"
+    },
+    {
+      "id": "5caecdb6",
+      "title": "China delivers a one-two punch to America’s AI dominance",
+      "summary": "A China está desafiando a liderança da AI dos EUA.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+      "source": "The Verge",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-20"
+    },
+    {
+      "id": "6bd237cc",
+      "title": "GitHub's 2FA is to become mandatory on September 2, 2026",
+      "summary": "O GitHub tornará a autenticação de dois fatores obrigatória em setembro de 2026.",
+      "url": "https://news.ycombinator.com/item?id=48976781",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-20"
+    },
+    {
+      "id": "e3b2dc7a",
+      "title": "LayerProof Mylar",
+      "summary": "LayerProof Mylar é uma ferramenta de design.",
+      "url": "https://www.producthunt.com/products/layerproof-social-content-generation",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-16"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Um artigo sobre como prever a exposição de empregos de IA.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "267846ad",
+      "title": "Netflix CPTO on AI and the future of product and tech roles | Elizabeth Stone",
+      "summary": "A Netflix está investindo em IA para o futuro de produtos e tecnologia.",
+      "url": "https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future",
+      "source": "Lenny's Newsletter",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-19"
+    },
+    {
+      "id": "f6dcbf02",
+      "title": "Jason’s Takes on This Week’s 20VC: The Token Governor, the Net-New-Logo Test, and Why Renewal Stopped Being Safe",
+      "summary": "Um artigo sobre como saber se um VP de vendas não vai funcionar.",
+      "url": "https://www.saastr.com/jasons-takes-on-this-weeks-20vc-the-token-governor-the-net-new-logo-test-and-why-renewal-stopped-being-safe/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-19"
+    },
+    {
+      "id": "0313d60b",
+      "title": "Earning taste and judgment",
+      "summary": "Um guia para projetar com padrões web em um momento de AI.",
+      "url": "https://addyosmani.com/blog/earning-judgment/",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-20"
+    },
+    {
+      "id": "fe396c37",
+      "title": "Airbus Takes Flight from AWS",
+      "summary": "A Airbus está migrando para o AWS.",
+      "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-20"
+    },
+    {
+      "id": "0eeaaf2a",
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "summary": "Um artigo sobre se uma ação da Apple pode afetar os planos de hardware da OpenAI.",
+      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-19"
+    },
+    {
+      "id": "9ad6652f",
+      "title": "CaptureKit",
+      "summary": "CaptureKit é uma ferramenta de design.",
+      "url": "https://www.producthunt.com/products/capturekit-2",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-19"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "Um artigo sobre como a OpenAI competirá.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "3b43d0d7",
+      "title": "🧠 Community Wisdom: Syncing Claude Code and Claude Design, earning trust when customers assume you vibe coded it, co-founder fallout lessons, personal CRMs, and more",
+      "summary": "Um artigo sobre como sincronizar código e design de Claude, e como ganhar confiança com clientes.",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-syncing-claude-code",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-18"
+    },
+    {
+      "id": "68022e59",
+      "title": "What a Great VP Sales Does In Their First Week. Watch For It.",
+      "summary": "Um artigo sobre o que um VP de vendas deve fazer em sua primeira semana.",
+      "url": "https://www.saastr.com/what-a-great-vp-sales-does-in-their-first-week-watch-for-it/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-19"
+    },
+    {
+      "id": "cea8d068",
+      "title": "Is China replacing the U.S. as the world’s AI touchpoint thanks to Kimi K3?",
+      "summary": "A China está se tornando o ponto de contato de AI do mundo.",
+      "url": "https://www.fastcompany.com/91575831/is-china-replacing-the-u-s-as-the-worlds-ai-touchpoint-thanks-to-kimi-k3",
+      "source": "Fast Company",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-20"
+    },
+    {
+      "id": "0d7d9d27",
+      "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
+      "summary": "Um artigo sobre como transformar estratégias de marca em direção visual.",
+      "url": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-10"
+    },
+    {
+      "id": "abc0447b",
+      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+      "summary": "Um artigo sobre vulnerabilidades de segurança em WordPress.",
+      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-20"
+    },
+    {
+      "id": "c04d8df8",
+      "title": "TechCrunch Mobility: The battle over robotaxi rules",
+      "summary": "Um artigo sobre a batalha por regulamentação de robotaxi.",
+      "url": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-19"
+    },
+    {
+      "id": "d8b6ffa8",
+      "title": "Loova Ads Studio",
+      "summary": "Loova Ads Studio é uma ferramenta de design.",
+      "url": "https://www.producthunt.com/products/loova-agents",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "Um artigo sobre AI, redes e trabalhadores mecânicos.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "684c0525",
+      "title": "🎙️ How I AI: GPT-5.6 review, How a solo builder runs 24/7 local AI, and What an agent harness is and how to build one",
+      "summary": "Um artigo sobre como criar um agente de IA.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-56-review-how-a-solo",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "e1313275",
+      "title": "Sales Rep Annual Quotas in 2026: What High Performers Are Actually Carrying: $750k for SMB, $1.35m for Mid-Market, $2.25m for Enterprise",
+      "summary": "Um artigo sobre metas de vendas de representantes de vendas em 2026.",
+      "url": "https://www.saastr.com/sales-rep-annual-quotas-what-high-performers-are-actually-carrying/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-18"
+    },
+    {
+      "id": "1c709925",
+      "title": "AI is more likely than humans to form biases when hiring",
+      "summary": "A IA é mais propensa a formar preconceitos em processos de contratação.",
+      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-20"
+    }
+  ]
+}
