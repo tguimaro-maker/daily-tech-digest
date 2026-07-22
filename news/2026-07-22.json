@@ -1,0 +1,297 @@
+{
+  "date": "2026-07-22",
+  "generated_at": "2026-07-22T11:41:15Z",
+  "total": 29,
+  "items": [
+    {
+      "id": "e686b1ac",
+      "title": "Meta made its own AI detection system. It should have just used Google’s",
+      "summary": "Meta criou seu próprio sistema de detecção de IA, em vez de usar o de Google.",
+      "url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-22"
+    },
+    {
+      "id": "b76349f2",
+      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+      "summary": "Glow emergeu do stealth com valorização de $1,2 bilhão para desafiar a segurança de endpoints na era de IA.",
+      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-22"
+    },
+    {
+      "id": "52de1e1e",
+      "title": "We Have 20+ AI Agents and Just 3 Humans. But Even So, We Still Need “Real” B2B Software.",
+      "summary": "Com mais de 20 agentes de IA e apenas 3 humanos, ainda assim precisamos de software B2B real.",
+      "url": "https://www.saastr.com/3-humans-20-ai-agents-and-yes-we-still-need-real-b2b-software/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-21"
+    },
+    {
+      "id": "87d074ad",
+      "title": "Everyone Is Talking About Context for AI. Here’s What Most Companies Still Miss.",
+      "summary": "O que as empresas ainda estão perdendo em contexto para IA.",
+      "url": "/sponsored/2026/07/everyone-is-talking-about-context-for-ai-heres-what-most-companies-still-miss",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-21"
+    },
+    {
+      "id": "b32a9dcb",
+      "title": "I graded 36 popular MCP servers on agent usability. A third got a D or F",
+      "summary": "A usabilidade de agentes em servidores MCP foi avaliada.",
+      "url": "https://tengli.dev/posts/mcp-servers-failing-agents.html",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-22"
+    },
+    {
+      "id": "12ca9105",
+      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+      "summary": "A plataforma de treinamento de IA da Synthesia está se expandindo para coaching ao vivo.",
+      "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+      "source": "TechCrunch",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-22"
+    },
+    {
+      "id": "35a0d23a",
+      "title": "The 20 Minute Test in VP Hiring. Maybe All Hiring",
+      "summary": "O teste de 20 minutos em contratações de VP pode ser aplicado a todas as contratações.",
+      "url": "https://www.saastr.com/the-20-minute-test-in-vp-hiring-maybe-all-hiring/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-21"
+    },
+    {
+      "id": "8ed98541",
+      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+      "summary": "O rumor de Anthropic-Physical Intelligence está causando alvoroço no Twitter de IA.",
+      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "source": "TechCrunch",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-22"
+    },
+    {
+      "id": "516aaf72",
+      "title": "Advancing next-gen AI with materials science innovation",
+      "summary": "Avanços na IA com inovação em ciência de materiais.",
+      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-21"
+    },
+    {
+      "id": "5ca2c4b8",
+      "title": "Dear SaaStr:  Is it OK to Modify the Standard SAFE Form?",
+      "summary": "É okay modificar o SAFE Form padrão?",
+      "url": "https://www.saastr.com/on-modifying-the-standard-safe-notes/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2023-04-26"
+    },
+    {
+      "id": "ac04fe64",
+      "title": "AI Agents in Chat",
+      "summary": "Agentes de IA em Chat.",
+      "url": "https://www.producthunt.com/products/cometchat",
+      "source": "Product Hunt",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-21"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "IA, redes e Turcos Mecânicos.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "96b54158",
+      "title": "Why Netflix is betting on systems thinkers—not specialists—in the AI era | Elizabeth Stone (CPTO)",
+      "summary": "Por que a Netflix está apostando em pensadores sistêmicos, não especialistas, na era de IA.",
+      "url": "https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-19"
+    },
+    {
+      "id": "89b26dc0",
+      "title": "5.4M Impressions Driving 11,749 to Their Signup Form: What Advertising on SaaStr.AI Media Actually Delivers",
+      "summary": "5,4 milhões de impressões geraram 11.749 inscrições no formulário de assinatura.",
+      "url": "https://www.saastr.com/5-4m-impressions-driving-11749-to-their-signup-form-what-advertising-on-saastr-ai-media-actually-delivers/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-20"
+    },
+    {
+      "id": "0ae2ac3b",
+      "title": "AGINE Academy",
+      "summary": "AGINE Academy é um produto digital de aprendizado.",
+      "url": "https://www.producthunt.com/products/agine-academy",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-20"
+    },
+    {
+      "id": "a9f5863b",
+      "title": "Ways to think about token pricing",
+      "summary": "Dicas para definir o preço de tokens.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "8de933e9",
+      "title": "The shape of apps",
+      "summary": "A forma dos aplicativos.",
+      "url": "https://parakeet.co/blog/the-shape-of-apps/",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-22"
+    },
+    {
+      "id": "426b13b7",
+      "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
+      "summary": "Como atacar e defender o protocolo de voo React.",
+      "url": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-21"
+    },
+    {
+      "id": "3f712bf7",
+      "title": "Remote OpenClaw",
+      "summary": "Remote OpenClaw é um produto digital de aprendizado.",
+      "url": "https://www.producthunt.com/products/remote-openclaw-2",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-21"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Previsão de exposição de empregos de IA.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "29037866",
+      "title": "🎙️ How I AI: How the founder of Morning Brew built a Claude content machine that never runs out of ideas",
+      "summary": "Como o fundador do Morning Brew construiu uma máquina de conteúdo com Claude.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-the-founder-of-morning",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-20"
+    },
+    {
+      "id": "c47f9f8a",
+      "title": "Stats show LinkedIn’s ‘Open to Work’ badge works. Designers say it could be even better",
+      "summary": "A estatística mostra que a etiqueta 'Aberto ao Trabalho' do LinkedIn funciona.",
+      "url": "https://www.fastcompany.com/91577144/linkedin-open-to-work-badge-redesign",
+      "source": "Fast Company",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-22"
+    },
+    {
+      "id": "0b2c82f5",
+      "title": "Against design system federation",
+      "summary": "Contra a federação de sistemas de design.",
+      "url": "https://karolinaszczur.com/journal/against-design-system-federation/",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-22"
+    },
+    {
+      "id": "343bcef0",
+      "title": "When It Makes Sense To “Block” The Main Thread",
+      "summary": "Quando é que é melhor bloquear a thread principal.",
+      "url": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-17"
+    },
+    {
+      "id": "46181a3b",
+      "title": "Garmin CIRQA™ Smart Band",
+      "summary": "Garmin CIRQA é um produto digital de monitoramento de saúde.",
+      "url": "https://www.producthunt.com/products/garmin-cirqa-smart-band",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-21"
+    },
+    {
+      "id": "28276c5d",
+      "title": "How the founder of Morning Brew built a Claude content machine that never runs out of ideas and never sounds like slop | Alex Lieberman",
+      "summary": "Como o fundador do Morning Brew construiu uma máquina de conteúdo com Claude.",
+      "url": "https://www.lennysnewsletter.com/p/how-the-founder-of-morning-brew-built",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-20"
+    },
+    {
+      "id": "0f8cc517",
+      "title": "How a Museum Marketing Team Used AI to Bring People Closer to Art",
+      "summary": "Como uma equipe de marketing de museu usou IA para aproximar as pessoas da arte.",
+      "url": "/podcast/2026/07/how-a-museum-marketing-team-used-ai-to-bring-people-closer-to-art",
+      "source": "Harvard Business Review",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-21"
+    },
+    {
+      "id": "7d15f1ca",
+      "title": "Layers: AI skills for product designers",
+      "summary": "Layers: habilidades de IA para designers de produto.",
+      "url": "https://layers.jamiemill.com/",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-22"
+    },
+    {
+      "id": "446e549e",
+      "title": "Dimension Capital’s $800M third fund shows the intersection of science and compute is booming",
+      "summary": "O terceiro fundo de $800 milhões da Dimension Capital mostra a interseção entre ciência e computação.",
+      "url": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-22"
+    }
+  ]
+}
