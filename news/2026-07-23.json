@@ -1,0 +1,357 @@
+{
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T11:45:04Z",
+  "total": 35,
+  "items": [
+    {
+      "id": "3bc001fa",
+      "title": "New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory",
+      "summary": "Nova opção de desktop do Framework com processador AMD Ryzen AI Max+ Pro 495 e 192GB de memória.",
+      "url": "https://frame.work/desktop?tab=192gb-coming-soon",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-23"
+    },
+    {
+      "id": "cb26d335",
+      "title": "GTA DataCity",
+      "summary": "GTA DataCity é um novo jogo de simulação de cidade.",
+      "url": "https://www.producthunt.com/products/gta-datacity-san-francisco",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-22"
+    },
+    {
+      "id": "76a788ea",
+      "title": "How a Mediocre Sales Team Loses You Deals. Ones You Could Have Won",
+      "summary": "Como uma equipe de vendas medíocre pode perder negócios que você poderia ter ganhado.",
+      "url": "https://www.saastr.com/how-a-mediocre-sales-team-loses-you-deals-ones-you-could-have-won/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-22"
+    },
+    {
+      "id": "426b13b7",
+      "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
+      "summary": "Como armazenar e defender o protocolo de voo do React: furos de deserialização em RSCs.",
+      "url": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
+      "source": "Smashing Magazine",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-21"
+    },
+    {
+      "id": "1cf7b253",
+      "title": "Basedash Developer Platform",
+      "summary": "Plataforma de desenvolvedor do Basedash.",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-23"
+    },
+    {
+      "id": "423ac483",
+      "title": "Dear SaaStr: We Lost an Enormous RFP Because We are Too Small.  Any Advice?",
+      "summary": "SaaStr: perdi um grande RFP porque somos muito pequenos. Qual é o conselho?",
+      "url": "https://www.saastr.com/rfp-lost-small-size/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-22"
+    },
+    {
+      "id": "343bcef0",
+      "title": "When It Makes Sense To “Block” The Main Thread",
+      "summary": "Quando faz sentido 'bloquear' o thread principal.",
+      "url": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
+      "source": "Smashing Magazine",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-17"
+    },
+    {
+      "id": "13c87f6b",
+      "title": "Code mode yields a 99.2% cost reduction in our systems",
+      "summary": "O modo de código resultou em uma redução de custos de 99,2% em nossos sistemas.",
+      "url": "https://www.agent-swarm.dev/blog/code-mode-token-savings",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-23"
+    },
+    {
+      "id": "52de1e1e",
+      "title": "We Have 20+ AI Agents and Just 3 Humans. But Even So, We Still Need “Real” B2B Software.",
+      "summary": "Temos 20+ agentes de IA e apenas 3 humanos. Mas mesmo assim, ainda precisamos de 'software real' B2B.",
+      "url": "https://www.saastr.com/3-humans-20-ai-agents-and-yes-we-still-need-real-b2b-software/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-21"
+    },
+    {
+      "id": "35a0d23a",
+      "title": "The 20 Minute Test in VP Hiring. Maybe All Hiring",
+      "summary": "O teste de 20 minutos em contratação de VP. Talvez todos os contratações.",
+      "url": "https://www.saastr.com/the-20-minute-test-in-vp-hiring-maybe-all-hiring/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-21"
+    },
+    {
+      "id": "c8ffe718",
+      "title": "Google hit with $1 billion fine for breaking EU antitrust rules",
+      "summary": "Google foi multada em 1 bilhão de dólares por violar as regras de concorrência da UE.",
+      "url": "https://www.theverge.com/tech/943866/google-alphabet-eu-dma-fine-search-services-play-store-steering",
+      "source": "The Verge",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-23"
+    },
+    {
+      "id": "a9f5863b",
+      "title": "Ways to think about token pricing",
+      "summary": "Dicas para pensar sobre o preço de tokens.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "b71590ba",
+      "title": "How Banking Can Develop an AI Adoption Strategy to Build a Bold Future",
+      "summary": "Como o setor bancário pode desenvolver uma estratégia de adoção de IA para construir um futuro ousado.",
+      "url": "/sponsored/2026/07/how-banking-can-develop-an-ai-adoption-strategy-to-build-a-bold-future",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-22"
+    },
+    {
+      "id": "49b31ddb",
+      "title": "AI personality is a design problem",
+      "summary": "A personalidade de IA é um problema de design.",
+      "url": "https://uxdesign.cc/ai-personality-is-a-design-problem-58fbc7926a3d?sk=b159b61f2abcb25776fd87985724be7e",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-23"
+    },
+    {
+      "id": "f0d87edf",
+      "title": "Google now lets you sign in to your account using a selfie video",
+      "summary": "Google agora permite que você faça login em sua conta usando um vídeo de selfie.",
+      "url": "https://www.theverge.com/tech/969361/google-account-sign-in-selfie-video-security",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-07-23"
+    },
+    {
+      "id": "0e8af97a",
+      "title": "Worse on Purpose – How Corporate Greed Killed Product Quality – Worse on Purpose",
+      "summary": "Como a ganância corporativa matou a qualidade do produto.",
+      "url": "https://www.worseonpurpose.com/",
+      "source": "Hacker News",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-23"
+    },
+    {
+      "id": "ec1d25fc",
+      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+      "summary": "A ServiceNow apostou 40 milhões de dólares em um especialista de software de bancos indiano para expandir sua push de serviços financeiros.",
+      "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-23"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Previsão de exposição de empregos de IA.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "63223e10",
+      "title": "Why emotional intelligence will be an important performance metric in the future of work",
+      "summary": "Por que a inteligência emocional será uma métrica importante de desempenho no futuro do trabalho.",
+      "url": "https://www.fastcompany.com/91569181/why-emotional-intelligence-will-be-an-important-performance-metric-in-the-future-of-work",
+      "source": "Fast Company",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-23"
+    },
+    {
+      "id": "2cedcf06",
+      "title": "Model the Transformation You Expect Employees to Deliver",
+      "summary": "Modelar a transformação que você espera que os funcionários entreguem.",
+      "url": "/2026/07/model-the-transformation-you-expect-employees-to-deliver",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-22"
+    },
+    {
+      "id": "929302d4",
+      "title": "Framework’s premium laptop is shipping with less RAM",
+      "summary": "O laptop premium do Framework está sendo enviado com menos RAM.",
+      "url": "https://www.theverge.com/tech/969819/framework-laptop-13-pro-preorder-ram-price-updates",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-07-23"
+    },
+    {
+      "id": "afbb0466",
+      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+      "summary": "Após trimestre chocante, a IBM afirma que a IA não está matando o mainframe.",
+      "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-22"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "Como a OpenAI vai competir?",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "29037866",
+      "title": "🎙️ How I AI: How the founder of Morning Brew built a Claude content machine that never runs out of ideas",
+      "summary": "Como o fundador do Morning Brew construiu uma máquina de conteúdo com Claude que nunca acaba de ideias.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-the-founder-of-morning",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-20"
+    },
+    {
+      "id": "f07cb101",
+      "title": "When Employees Are Held Accountable for AI-Generated Decisions",
+      "summary": "Quando os funcionários são responsabilizados por decisões geradas por IA.",
+      "url": "/2026/07/when-employees-are-held-accountable-for-ai-generated-decisions",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-22"
+    },
+    {
+      "id": "4f7d5357",
+      "title": "A side project is the fastest way to upskill in the age of AI",
+      "summary": "Um projeto lateral é a melhor maneira de melhorar suas habilidades no tempo de IA.",
+      "url": "https://www.philmorton.co/a-side-project-is-the-fastest-way-to-upskill-in-the-age-of-ai/",
+      "source": "Sidebar",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-23"
+    },
+    {
+      "id": "6bff6242",
+      "title": "EU fines Google €890M for competition breaches over search and apps",
+      "summary": "A UE multou a Google em 890 milhões de euros por violações de concorrência em busca e aplicativos.",
+      "url": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
+      "source": "Hacker News",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-23"
+    },
+    {
+      "id": "8049975f",
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "summary": "A Google justifica seu grande investimento em IA com um negócio de nuvem em alta.",
+      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-22"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "IA, redes e Turcos mecânicos.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "28276c5d",
+      "title": "How the founder of Morning Brew built a Claude content machine that never runs out of ideas and never sounds like slop | Alex Lieberman",
+      "summary": "Como o fundador do Morning Brew construiu uma máquina de conteúdo com Claude que nunca acaba de ideias e nunca soa como lixo.",
+      "url": "https://www.lennysnewsletter.com/p/how-the-founder-of-morning-brew-built",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-20"
+    },
+    {
+      "id": "b7b132e4",
+      "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+      "summary": "Expertos dizem que explorar a Fable da Anthropic não é como Kimi K3 se tornou tão boa.",
+      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+      "source": "TechCrunch",
+      "category": "IA",
+      "relevance": 3,
+      "published_at": "2026-07-23"
+    },
+    {
+      "id": "0537d9b5",
+      "title": "Computer and browser use in Codex (5 real examples)",
+      "summary": "Uso de computador e navegador no Codex (5 exemplos reais).",
+      "url": "https://www.lennysnewsletter.com/p/computer-and-browser-use-in-codex",
+      "source": "Lenny's Newsletter",
+      "category": "Design",
+      "relevance": 3,
+      "published_at": "2026-07-22"
+    },
+    {
+      "id": "0a6a7c19",
+      "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+      "summary": "O Download: o novo telescópio espacial da NASA e o hacker autônomo da OpenAI.",
+      "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+      "source": "MIT Technology Review",
+      "category": "Tech",
+      "relevance": 3,
+      "published_at": "2026-07-22"
+    },
+    {
+      "id": "c3ec4bcd",
+      "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
+      "summary": "Os espelhos que mudam de forma no novo telescópio espacial da NASA podem revelar Júpiter como o nosso.",
+      "url": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
+      "source": "MIT Technology Review",
+      "category": "Tech",
+      "relevance": 3,
+      "published_at": "2026-07-22"
+    },
+    {
+      "id": "750f739c",
+      "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
+      "summary": "O Download: a divisão da IA chinesa na Casa Branca e um pagamento de direitos autorais recorde.",
+      "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
+      "source": "MIT Technology Review",
+      "category": "Tech",
+      "relevance": 3,
+      "published_at": "2026-07-21"
+    }
+  ]
+}
