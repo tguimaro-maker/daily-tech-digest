@@ -1,0 +1,417 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T11:29:55Z",
+  "total": 41,
+  "items": [
+    {
+      "id": "2490bcd5",
+      "title": "Facebook considers giving up and becoming TikTok",
+      "summary": "O Facebook considera abandonar sua plataforma e se tornar mais semelhante ao TikTok.",
+      "url": "https://www.theverge.com/tech/970504/facebook-video-experience-testing-tiktok-updates",
+      "source": "The Verge",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-24"
+    },
+    {
+      "id": "0c2a7b90",
+      "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+      "summary": "O Flux 3 X Mimic é a próxima geração de modelos de vídeo de ação.",
+      "url": "https://bfl.ai/blog/flux-3-mimic",
+      "source": "Hacker News",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-24"
+    },
+    {
+      "id": "b00718b9",
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "summary": "Os guardrails de IA estão impedindo a pesquisa de segurança cibernética ofensiva.",
+      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-24"
+    },
+    {
+      "id": "ef38bfd2",
+      "title": "HarnessRouter",
+      "summary": "O HarnessRouter é uma ferramenta para gerenciar rotas de rede.",
+      "url": "https://www.producthunt.com/products/epsilla",
+      "source": "Product Hunt",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-22"
+    },
+    {
+      "id": "a9f5863b",
+      "title": "Ways to think about token pricing",
+      "summary": "Dicas para pensar sobre preços de token.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "76f03a45",
+      "title": "5 Interesting Learnings from Stripe at $6.8 Billion in Revenue: 33% Growth, 47% Free Cash Flow Margins, and a $53B Bid for PayPal",
+      "summary": "Aprendizados interessantes da Stripe em $6,8 bilhões de receita.",
+      "url": "https://www.saastr.com/5-interesting-learnings-from-stripe-at-6-8-billion-in-revenue-33-growth-47-free-cash-flow-margins-and-a-53b-bid-for-paypal/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-23"
+    },
+    {
+      "id": "0c77c5f7",
+      "title": "If open weight models are the future, U.S. AI companies are going to have a hard time",
+      "summary": "Desafios para empresas de IA nos EUA se modelos de peso aberto forem o futuro.",
+      "url": "https://www.fastcompany.com/91577359/why-u-s-ai-companies-cant-match-chinas-open-weight-frontier-models",
+      "source": "Fast Company",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-24"
+    },
+    {
+      "id": "426b13b7",
+      "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
+      "summary": "Deserialization Sinks em RSCs e como protegê-los.",
+      "url": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-21"
+    },
+    {
+      "id": "f332e27b",
+      "title": "Fedica 2.0",
+      "summary": "O Fedica 2.0 é uma ferramenta para gerenciar federais.",
+      "url": "https://www.producthunt.com/products/fedica",
+      "source": "Product Hunt",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-15"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Previsões de exposição de empregos de IA.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "3084467c",
+      "title": "AI Won’t Kill SaaS. But It Will Kill Vendors That Stopped Shipping. Point Solutions Are Most at Risk.",
+      "summary": "IA não matará o SaaS, mas sim os fornecedores que pararam de entregar.",
+      "url": "https://www.saastr.com/ai-wont-kill-saas-but-it-will-kill-vendors-that-stopped-shipping-point-solutions-are-most-at-risk/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-23"
+    },
+    {
+      "id": "16764eba",
+      "title": "Research: Why Some Junior Employees Work Well with AI—and Others Don’t",
+      "summary": "Pesquisa sobre por que alguns funcionários juniores trabalham bem com IA e outros não.",
+      "url": "/2026/07/research-why-some-junior-employees-work-well-with-ai-and-others-dont",
+      "source": "Harvard Business Review",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-23"
+    },
+    {
+      "id": "343bcef0",
+      "title": "When It Makes Sense To “Block” The Main Thread",
+      "summary": "Quando é hora de bloquear a thread principal.",
+      "url": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-17"
+    },
+    {
+      "id": "22f8951a",
+      "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+      "summary": "O Alexa Plus está recebendo uma atualização de IA para lidar com instruções mais complicadas.",
+      "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+      "source": "The Verge",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-23"
+    },
+    {
+      "id": "6f2f3416",
+      "title": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
+      "summary": "O Buz é uma fork do Bun usando Zig moderno com builds incrementais sub-1s.",
+      "url": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-24"
+    },
+    {
+      "id": "10c9f6ab",
+      "title": "The new Firecrawl /search",
+      "summary": "O novo Firecrawl /search é uma ferramenta de busca.",
+      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
+      "source": "Product Hunt",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-22"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "Como a OpenAI competirá?",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "bd1bfbaf",
+      "title": "How AI helps scientists design the next generation of medicines",
+      "summary": "Como a IA ajuda os cientistas a desenhar medicamentos futuros.",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-23"
+    },
+    {
+      "id": "29037866",
+      "title": "🎙️ How I AI: How the founder of Morning Brew built a Claude content machine that never runs out of ideas",
+      "summary": "Como o fundador do Morning Brew criou uma máquina de conteúdo com Claude que nunca se esgota.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-the-founder-of-morning",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-20"
+    },
+    {
+      "id": "76a788ea",
+      "title": "How a Mediocre Sales Team Loses You Deals. Ones You Could Have Won",
+      "summary": "Como uma equipe de vendas medíocre perde negócios.",
+      "url": "https://www.saastr.com/how-a-mediocre-sales-team-loses-you-deals-ones-you-could-have-won/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-22"
+    },
+    {
+      "id": "3753bc42",
+      "title": "Hetzner is working on LLM Inference",
+      "summary": "A Hetzner está trabalhando em inferência de LLM.",
+      "url": "https://sliplane.io/blog/hetzner-inference",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-24"
+    },
+    {
+      "id": "8cce17bd",
+      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+      "summary": "O AMD está competindo com o Nvidia com o sistema Helios de IA.",
+      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-23"
+    },
+    {
+      "id": "bf133ddb",
+      "title": "Hotspot Meter",
+      "summary": "O Hotspot Meter é uma ferramenta para medir a velocidade de rede.",
+      "url": "https://www.producthunt.com/products/hotspot-meter-track-wi-fi-and-hotspots",
+      "source": "Product Hunt",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-23"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "IA, redes e Turcos Mecânicos.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "28276c5d",
+      "title": "How the founder of Morning Brew built a Claude content machine that never runs out of ideas and never sounds like slop | Alex Lieberman",
+      "summary": "Como o fundador do Morning Brew criou uma máquina de conteúdo com Claude que nunca se esgota.",
+      "url": "https://www.lennysnewsletter.com/p/how-the-founder-of-morning-brew-built",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-20"
+    },
+    {
+      "id": "423ac483",
+      "title": "Dear SaaStr: We Lost an Enormous RFP Because We are Too Small.  Any Advice?",
+      "summary": "Carta de SaaStr: Perdemos um grande RFP porque somos muito pequenos. Qual é o conselho?",
+      "url": "https://www.saastr.com/rfp-lost-small-size/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-22"
+    },
+    {
+      "id": "3fe404b7",
+      "title": "This is the impact that AI will have on entry-level work and development",
+      "summary": "Este é o impacto que a IA terá no trabalho de entrada e desenvolvimento.",
+      "url": "https://www.fastcompany.com/91569202/this-is-the-impact-that-ai-will-have-on-entry-level-work-and-development",
+      "source": "Fast Company",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-24"
+    },
+    {
+      "id": "0537d9b5",
+      "title": "Computer and browser use in Codex (5 real examples)",
+      "summary": "Exemplos reais de uso de computadores e navegadores no Codex.",
+      "url": "https://www.lennysnewsletter.com/p/computer-and-browser-use-in-codex",
+      "source": "Lenny's Newsletter",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-22"
+    },
+    {
+      "id": "d70cd40e",
+      "title": "The algorithmic atelier",
+      "summary": "O ateliê algorítmico é uma ferramenta para criar arte digital.",
+      "url": "https://www.doc.cc/articles/the-algorithmic-atelier",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-24"
+    },
+    {
+      "id": "f2991d16",
+      "title": "Microsoft pressures LG into killing unwanted McAfee ads",
+      "summary": "A Microsoft pressiona a LG para remover anúncios indesejados do McAfee.",
+      "url": "https://www.theverge.com/tech/970489/lg-mcafee-ads-windows-microsoft-crackdown",
+      "source": "The Verge",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-24"
+    },
+    {
+      "id": "6e44062d",
+      "title": "Meet the judges who will crown Australia’s next breakout startup",
+      "summary": "Conheça os juízes que escolherão a próxima startup australiana.",
+      "url": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-24"
+    },
+    {
+      "id": "8c4076f6",
+      "title": "The Download: energy transmission and US threats against Chinese AI",
+      "summary": "Notícias sobre transmissão de energia e ameaças de IA aos EUA.",
+      "url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
+      "source": "MIT Technology Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-23"
+    },
+    {
+      "id": "cf909d36",
+      "title": "The ignored, ugly utilities that run your home just got a major redesign",
+      "summary": "As ferramentas de utilidade que gerenciam a casa foram redesenhadas.",
+      "url": "https://www.fastcompany.com/91575298/the-ignored-ugly-utilities-that-run-your-home-just-got-a-major-redesign",
+      "source": "Fast Company",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-24"
+    },
+    {
+      "id": "92b20029",
+      "title": "Which AI? — Guess the designer",
+      "summary": "Qual é o designer da IA?",
+      "url": "https://guess-the-designer.replit.app/",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-24"
+    },
+    {
+      "id": "7b8bbbb6",
+      "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
+      "summary": "O CEO da Mobileye está se aposentando enquanto a empresa se expande para robotaxis e robótica.",
+      "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-23"
+    },
+    {
+      "id": "e4c477f3",
+      "title": "Make it work vs. make it good",
+      "summary": "Faça funcionar vs. faça bom.",
+      "url": "https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-24"
+    },
+    {
+      "id": "be0b98f7",
+      "title": "No, People Don’t Want More AI In Their Life",
+      "summary": "As pessoas não querem mais IA em suas vidas.",
+      "url": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/",
+      "source": "Smashing Magazine",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-15"
+    },
+    {
+      "id": "0b810103",
+      "title": "The power line that could reshape New York’s grid is hitting snags",
+      "summary": "A linha de energia que pode mudar o grid de Nova York está enfrentando obstáculos.",
+      "url": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
+      "source": "MIT Technology Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-23"
+    },
+    {
+      "id": "1b7bbbfc",
+      "title": "Our Favorite Management Tips on Setting Strategy When the Path Is Unclear",
+      "summary": "Dicas de gerenciamento de equipes para definir estratégias quando o caminho é incerto.",
+      "url": "/2026/07/our-favorite-management-tips-on-setting-strategy-when-the-path-is-unclear",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-07-23"
+    },
+    {
+      "id": "6d924312",
+      "title": "Why a sabbatical can change everything",
+      "summary": "Por que um sabático pode mudar tudo.",
+      "url": "https://www.lennysnewsletter.com/p/how-to-take-a-sabbatical",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-07-21"
+    },
+    {
+      "id": "62ce1856",
+      "title": "Leadership Summit 2026: Inspiring Grit and Growth Amid Unprecedented Change",
+      "summary": "O Summit de Liderança 2026: Inspire Grit e Crescimento em Mudanças Sem Precedentes.",
+      "url": "/podcast/2026/07/leadership-summit-2026-inspiring-grit-and-growth-amid-unprecedented-change",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-07-23"
+    }
+  ]
+}
