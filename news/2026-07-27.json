@@ -1,0 +1,357 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T12:49:26Z",
+  "total": 35,
+  "items": [
+    {
+      "id": "610ac5b7",
+      "title": "Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic",
+      "summary": "Nvidia e Microsoft lançam uma aliança de segurança de inteligência artificial aberta, sem a participação da OpenAI, Google ou Anthropic.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": "4fc19dc4",
+      "title": "Robynn AI - Self Improving Websites",
+      "summary": "O Robynn AI é um site que melhora automaticamente.",
+      "url": "https://www.producthunt.com/products/robynn-ai-self-improving-websites",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": "80c608ff",
+      "title": "From zero coding background to hardware hacker: How Cursor + a Raspberry Pi makes AI fun",
+      "summary": "Como um hacker de hardware sem experiência em codificação pode criar experiências de inteligência artificial divertidas com um Raspberry Pi e o Cursor.",
+      "url": "https://www.lennysnewsletter.com/p/from-zero-coding-background-to-hardware",
+      "source": "Lenny's Newsletter",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": "51e25524",
+      "title": "Dear SaaStr:  We Have a Sales-Led Motion and SMB Customers And The Economics Aren’t Working",
+      "summary": "Como uma empresa com um movimento liderado por vendas e clientes pequenos e médios pode ter problemas econômicos.",
+      "url": "https://www.saastr.com/dear-saastr-we-have-a-sales-led-motion-and-smb-customers-and-the-economics-arent-working/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2025-10-02"
+    },
+    {
+      "id": "90d6c469",
+      "title": "Visualize striking 3D embellishment mockups",
+      "summary": "Visualizar embalagens de 3D impressionantes.",
+      "url": "https://bit.ly/uxc-dre1",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": "426b13b7",
+      "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
+      "summary": "Como usar e defender o protocolo de voo do React.",
+      "url": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-21"
+    },
+    {
+      "id": "2b32c819",
+      "title": "Meta is royally screwing up its smart glasses roll out",
+      "summary": "Meta está fazendo um péssimo trabalho com o lançamento de óculos inteligentes.",
+      "url": "https://www.theverge.com/tech/970948/meta-smart-glasses-privacy-wearables",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": "741fe0f5",
+      "title": "Are brain waves the next unlock for physical AI?",
+      "summary": "Se as ondas cerebrais são o próximo passo para a inteligência artificial física.",
+      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "source": "TechCrunch",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": "40a7f56e",
+      "title": "Cynative Security Research Agent",
+      "summary": "Cynative Security Research Agent.",
+      "url": "https://www.producthunt.com/products/cynative-deep-infra-research",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-23"
+    },
+    {
+      "id": "d5e6968d",
+      "title": "The path to artificial superintelligence",
+      "summary": "O caminho para a superinteligência artificial.",
+      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": "b75a4c69",
+      "title": "Anthropic’s first technical PM on token maxing, the jagged edge, and living in the future | Dianne Penn",
+      "summary": "A primeira PM técnica da Anthropic sobre tokenização máxima, a borda desigual e viver no futuro.",
+      "url": "https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-26"
+    },
+    {
+      "id": "67e2f589",
+      "title": "Our New AI VP of Finance Closes the Deal, Sends the Invoice, and Chases the Cash. It Took 4 Deals to Train It.",
+      "summary": "Nossa nova VP de Finanças de inteligência artificial fecha o negócio, envia a fatura e pega o dinheiro. Isso levou 4 negócios para treinar.",
+      "url": "https://www.saastr.com/our-new-ai-vp-of-finance-closes-the-deal-sends-the-invoice-and-chases-the-cash-it-took-4-deals-to-train-it/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-26"
+    },
+    {
+      "id": "d440a701",
+      "title": "The era of personal software",
+      "summary": "A era do software pessoal.",
+      "url": "https://allen.hutchison.org/2025/11/28/the-era-of-personal-software/",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": "343bcef0",
+      "title": "When It Makes Sense To “Block” The Main Thread",
+      "summary": "Quando faz sentido 'bloquear' a thread principal.",
+      "url": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-17"
+    },
+    {
+      "id": "0c0b38ca",
+      "title": "Google Chrome Arrives on ARM64 Linux, Widevine DRM Included",
+      "summary": "Google Chrome chega ao Linux ARM64, com Widevine DRM incluído.",
+      "url": "https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": "935dc52e",
+      "title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
+      "summary": "Pode a Apple criar óculos inteligentes que não sejam uma ameaça constante à privacidade?",
+      "url": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-26"
+    },
+    {
+      "id": "e44074ee",
+      "title": "Audos Summer Camp",
+      "summary": "Audos Summer Camp.",
+      "url": "https://www.producthunt.com/products/socap",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-24"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "Como a OpenAI vai competir?",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "243fd0ae",
+      "title": "Closing the data loop in AI-driven drug discovery",
+      "summary": "Como fechar o ciclo de dados na descoberta de fármacos impulsionada pela inteligência artificial.",
+      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": "989f31dd",
+      "title": "🧠 Community Wisdom: Staying on a client’s radar during pilot purgatory, pairing Linear with a discovery tool, the limits of what AI can automate, whether Techstars is worth it, and more",
+      "summary": "Sábio da comunidade: permanecer no radar do cliente durante a purgatória do piloto, parar Linear com uma ferramenta de descoberta, limites do que a inteligência artificial pode automatizar, se a Techstars vale a pena e mais.",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-staying-on-a-clients",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-25"
+    },
+    {
+      "id": "77e85b5b",
+      "title": "Dear SaaStr:  How Do I Learn to Close Big Enterprise Deals … Better?",
+      "summary": "Quer aprender a fechar grandes negócios de empresas de grande porte... melhor?",
+      "url": "https://www.saastr.com/dear-saastr-how-do-i-learn-to-close-big-enterprise-deals-better/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2025-04-14"
+    },
+    {
+      "id": "297cb785",
+      "title": "Claude Cookbook",
+      "summary": "Claude Cookbook.",
+      "url": "https://platform.claude.com/cookbook/",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": "be0b98f7",
+      "title": "No, People Don’t Want More AI In Their Life",
+      "summary": "Não, as pessoas não querem mais inteligência artificial em suas vidas.",
+      "url": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-15"
+    },
+    {
+      "id": "69aade38",
+      "title": "Apple is banking on privacy to set its smart glasses apart",
+      "summary": "A Apple está apostando na privacidade para diferenciar seus óculos inteligentes.",
+      "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-26"
+    },
+    {
+      "id": "81caaa23",
+      "title": "Making sense of the panic over Chinese AI",
+      "summary": "Como entender o pânico sobre inteligência artificial chinesa.",
+      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-26"
+    },
+    {
+      "id": "b213de66",
+      "title": "Illume Labs",
+      "summary": "Illume Labs.",
+      "url": "https://www.producthunt.com/products/illume-labs",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-21"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "Inteligência artificial, redes e Turcos mecânicos.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "23cdca90",
+      "title": "Building the enterprise environment for agentic AI",
+      "summary": "Como criar um ambiente de empresa para inteligência artificial agente.",
+      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": "a685e9c9",
+      "title": "Claude Opus 5 review: this model is brilliant (but annoying)",
+      "summary": "Revisão do Claude Opus 5: esse modelo é brilhante (mas irritante).",
+      "url": "https://www.lennysnewsletter.com/p/claude-opus-5-review-this-model-is",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-24"
+    },
+    {
+      "id": "b5caa031",
+      "title": "Build on the Stack You Have: How Anthropic’s Head of Industries, Atlassian’s Head of AI, and Scale’s Rory O’Driscoll Landed on the Same AI Playbook",
+      "summary": "Construa sobre a pilha que você tem: como a Anthropic, a Atlassian e a Scale chegaram ao mesmo playbook de inteligência artificial.",
+      "url": "https://www.saastr.com/build-on-the-stack-you-have-how-anthropics-head-of-industries-atlassians-head-of-ai-and-scales-rory-odriscoll-landed-on-the-same-ai-playbook/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-25"
+    },
+    {
+      "id": "a9f5863b",
+      "title": "Ways to think about token pricing",
+      "summary": "Dicas para pensar sobre o preço de tokens.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "7f2a7d5c",
+      "title": "Elevated errors on Claude Opus 5",
+      "summary": "Erros elevados no Claude Opus 5.",
+      "url": "https://status.claude.com/incidents/mfdtrknpxghq",
+      "source": "Hacker News",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Previsão de exposição de empregos de inteligência artificial.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "4cf241f1",
+      "title": "Why Mentoring Matters More in the AI Era",
+      "summary": "Por que a mentoria é mais importante na era da inteligência artificial.",
+      "url": "/2026/07/why-mentoring-matters-more-in-the-ai-era",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-24"
+    },
+    {
+      "id": "6da4b85c",
+      "title": "How is the Bun Rewrite in Rust going?",
+      "summary": "Como está indo a reescrita do Bun em Rust?",
+      "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-07-27"
+    }
+  ]
+}
