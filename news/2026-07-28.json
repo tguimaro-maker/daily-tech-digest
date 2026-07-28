@@ -1,0 +1,277 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T11:49:41Z",
+  "total": 27,
+  "items": [
+    {
+      "id": "fdd8c7d6",
+      "title": "Hugging Face is being used to easily undress women and children",
+      "summary": "O Hugging Face está sendo usado para facilitar a exposição indevida de mulheres e crianças.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+      "source": "The Verge",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-28"
+    },
+    {
+      "id": "902f8925",
+      "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+      "summary": "O Google lançou o Beyond Zero, uma ferramenta de segurança para a era do AI.",
+      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+      "source": "Hacker News",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-28"
+    },
+    {
+      "id": "77bf47e9",
+      "title": "Growth Opt Playbook",
+      "summary": "O Growth Opt Playbook é uma ferramenta para otimizar o crescimento de produtos digitais.",
+      "url": "https://www.producthunt.com/products/growth-opt-playbook",
+      "source": "Product Hunt",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": "a9f5863b",
+      "title": "Ways to think about token pricing",
+      "summary": "O preço de token é um tópico complexo que exige considerações cuidadosas.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "1f3ddda4",
+      "title": "Dear SaaStr: How Should I Specialize My Sales Team?",
+      "summary": "O SaaStr oferece conselhos sobre como especializar equipes de vendas.",
+      "url": "https://www.saastr.com/dear-saastr-how-should-i-specialize-my-sales-team/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2025-05-18"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "O AI pode ser usado para prever a exposição de empregos.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "cf3219c6",
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+      "summary": "O ataque ao Hugging Face é um exemplo de vulnerabilidade de segurança.",
+      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": "0052b833",
+      "title": "The Top 12 Sales Lessons From SaaStr AI 2026: Anthropic, Gamma, Owner, Stripe, Salesforce, Vercel, Replit and Monaco",
+      "summary": "O SaaStr compartilha lições de vendas de sucesso.",
+      "url": "https://www.saastr.com/the-top-sales-lessons-from-saastr-ai-2026-gamma-owner-stripe-salesforce-cloudflare-and-monaco/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": "855d0d5f",
+      "title": "Don’t Let AI Make Bad Analytics Worse",
+      "summary": "O AI pode piorar a análise de dados se não for usado corretamente.",
+      "url": "/2026/07/dont-let-ai-make-bad-analytics-worse",
+      "source": "Harvard Business Review",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": "0171f2c3",
+      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "summary": "O Anthropic está trabalhando em modelos de AI abertos.",
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "source": "TechCrunch",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-28"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "O OpenAI precisa competir com outras empresas de AI.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "b75a4c69",
+      "title": "Anthropic’s first technical PM on token maxing, the jagged edge, and living in the future | Dianne Penn",
+      "summary": "O Anthropic está trabalhando em modelos de tokenização.",
+      "url": "https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-26"
+    },
+    {
+      "id": "51e25524",
+      "title": "Dear SaaStr:  We Have a Sales-Led Motion and SMB Customers And The Economics Aren’t Working",
+      "summary": "O SaaStr compartilha conselhos sobre como lidar com clientes SMB.",
+      "url": "https://www.saastr.com/dear-saastr-we-have-a-sales-led-motion-and-smb-customers-and-the-economics-arent-working/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2025-10-02"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "O AI pode ser usado para entender redes e turcos mecânicos.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "67e2f589",
+      "title": "Our New AI VP of Finance Closes the Deal, Sends the Invoice, and Chases the Cash. It Took 4 Deals to Train It.",
+      "summary": "O SaaStr compartilha experiências com a criação de um VP de finanças com AI.",
+      "url": "https://www.saastr.com/our-new-ai-vp-of-finance-closes-the-deal-sends-the-invoice-and-chases-the-cash-it-took-4-deals-to-train-it/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-26"
+    },
+    {
+      "id": "2eac5a7f",
+      "title": "🎙️ How I AI: Claude Opus 5 Review + Browser use in Codex + How Cursor and a Raspberry Pi makes AI fun",
+      "summary": "O Lenny's Newsletter compartilha experiências com o AI e tecnologia.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-opus-5-review-browser",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": "8907b638",
+      "title": "The human-in-the-loop is tired",
+      "summary": "O 'humano no loop' está cansado de lidar com tarefas repetitivas.",
+      "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-28"
+    },
+    {
+      "id": "426b13b7",
+      "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
+      "summary": "O React Flight Protocol é vulnerável a ataques de deserialização.",
+      "url": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-21"
+    },
+    {
+      "id": "33ba04c6",
+      "title": "EasyCircuit",
+      "summary": "O EasyCircuit é uma ferramenta para criar circuitos eletrônicos.",
+      "url": "https://www.producthunt.com/products/easycircuit",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": "80c608ff",
+      "title": "From zero coding background to hardware hacker: How Cursor + a Raspberry Pi makes AI fun",
+      "summary": "O Cursor pode ser usado para criar experiências de AI divertidas.",
+      "url": "https://www.lennysnewsletter.com/p/from-zero-coding-background-to-hardware",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": "7f45e5d0",
+      "title": "LARP: Revenue infrastructure for serious founders",
+      "summary": "O LARP é uma ferramenta para infraestrutura de receita.",
+      "url": "https://www.larp.website/",
+      "source": "Sidebar",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-28"
+    },
+    {
+      "id": "343bcef0",
+      "title": "When It Makes Sense To “Block” The Main Thread",
+      "summary": "O main thread pode ser bloqueado para melhorar a performance.",
+      "url": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-17"
+    },
+    {
+      "id": "874a9611",
+      "title": "MCP-Billing",
+      "summary": "O MCP-Billing é uma ferramenta para gestão de receita.",
+      "url": "https://www.producthunt.com/products/mcp-billing",
+      "source": "Product Hunt",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": "d96b7688",
+      "title": "Exclusive: Yelp’s AI phone service for restaurants can now take food orders, too",
+      "summary": "O Yelp está lançando um serviço de atendimento ao cliente com AI.",
+      "url": "https://www.fastcompany.com/91580249/exclusive-yelps-ai-phone-service-for-restaurants-can-can-now-take-food-orders-too",
+      "source": "Fast Company",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-28"
+    },
+    {
+      "id": "d12fd6a7",
+      "title": "Drawing the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "summary": "O Sidebar compartilha experiências com o GPT-5.6.",
+      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+      "source": "Sidebar",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-28"
+    },
+    {
+      "id": "718f41f9",
+      "title": "Pinery Prose",
+      "summary": "O Pinery Prose é uma ferramenta para criar histórias.",
+      "url": "https://www.producthunt.com/products/pinery",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": "989f31dd",
+      "title": "🧠 Community Wisdom: Staying on a client’s radar during pilot purgatory, pairing Linear with a discovery tool, the limits of what AI can automate, whether Techstars is worth it, and more",
+      "summary": "O Lenny's Newsletter compartilha conselhos sobre como lidar com clientes.",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-staying-on-a-clients",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-25"
+    }
+  ]
+}
