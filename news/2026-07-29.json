@@ -1,0 +1,357 @@
+{
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T11:53:15Z",
+  "total": 35,
+  "items": [
+    {
+      "id": "a9f5863b",
+      "title": "Ways to think about token pricing",
+      "summary": "Dicas sobre como calcular o preço de tokens de forma eficaz.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "9c58d9ae",
+      "title": "We’re running out of reasons to ignore AI safety",
+      "summary": "A discussão sobre a segurança de inteligência artificial é cada vez mais importante.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+      "source": "The Verge",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "f8739d90",
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "summary": "Uma startup levanta $9 milhões para detectar conteúdo de inteligência artificial.",
+      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "bd73108b",
+      "title": "The AI Hype Index: Unsexy AI",
+      "summary": "Uma análise sobre o índice de hypes de inteligência artificial.",
+      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "84a2d46f",
+      "title": "Your Agents Are About to Start Firing Your Vendors. Ours Fired Marketo.",
+      "summary": "Uma empresa que está substituindo seus vendedores por agentes de inteligência artificial.",
+      "url": "https://www.saastr.com/your-agents-are-about-to-start-firing-your-vendors-ours-fired-marketo/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-28"
+    },
+    {
+      "id": "4b33b909",
+      "title": "Information architecture is the foundation AI is starving for",
+      "summary": "A importância da arquitetura de informação na inteligência artificial.",
+      "url": "https://uxdesign.cc/information-architecture-is-the-foundation-artificial-intelligence-is-starving-for-1d91fb5bf59f",
+      "source": "Sidebar",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "cd8ca039",
+      "title": "Thinking Outside The Box: Digital Design In The AI Era",
+      "summary": "Uma análise sobre como a inteligência artificial está mudando a forma como trabalhamos com design.",
+      "url": "https://smashingmagazine.com/2026/07/digital-design-ai-era/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-28"
+    },
+    {
+      "id": "f383f5f0",
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "summary": "Uma empresa que está adquirindo outra para proteger agentes de inteligência artificial.",
+      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Uma análise sobre como prever a exposição de empregos à inteligência artificial.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "2eac5a7f",
+      "title": "🎙️ How I AI: Claude Opus 5 Review + Browser use in Codex + How Cursor and a Raspberry Pi makes AI fun",
+      "summary": "Uma análise sobre como a inteligência artificial está mudando a forma como trabalhamos com browser e codex.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-opus-5-review-browser",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": "1f3ddda4",
+      "title": "Dear SaaStr: How Should I Specialize My Sales Team?",
+      "summary": "Uma pergunta sobre como especializar uma equipe de vendas.",
+      "url": "https://www.saastr.com/dear-saastr-how-should-i-specialize-my-sales-team/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2025-05-18"
+    },
+    {
+      "id": "e843221c",
+      "title": "Duffy’s ‘DEI bike lanes’ comment politicizes urban design. The policy won’t make roads faster",
+      "summary": "Uma dica sobre como gerenciar o calendário para criar uma cultura e estratégia eficazes.",
+      "url": "https://www.fastcompany.com/91581060/dei-bike-lanes",
+      "source": "Fast Company",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "1332cf4a",
+      "title": "Bot-detection startup Spur nabs $200M from Insight",
+      "summary": "Uma startup que levanta $200 milhões para detectar bots.",
+      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-28"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "Uma análise sobre como a OpenAI pode competir no mercado.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "0052b833",
+      "title": "The Top 12 Sales Lessons From SaaStr AI 2026: Anthropic, Gamma, Owner, Stripe, Salesforce, Vercel, Replit and Monaco",
+      "summary": "Uma lista de lições de vendas aprendidas na conferência SaaStr AI 2026.",
+      "url": "https://www.saastr.com/the-top-sales-lessons-from-saastr-ai-2026-gamma-owner-stripe-salesforce-cloudflare-and-monaco/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": "855d0d5f",
+      "title": "Don’t Let AI Make Bad Analytics Worse",
+      "summary": "Uma dica sobre como evitar que a inteligência artificial faça com que os dados sejam piores.",
+      "url": "/2026/07/dont-let-ai-make-bad-analytics-worse",
+      "source": "Harvard Business Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": "55bc780e",
+      "title": "Evaluating agents beyond the first prompt",
+      "summary": "Uma análise sobre como avaliar agentes de inteligência artificial além da primeira solicitação.",
+      "url": "https://www.philschmid.de/evocode-bench",
+      "source": "Sidebar",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "Uma análise sobre como a inteligência artificial está mudando a forma como trabalhamos com redes e turcos mecânicos.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "cf3219c6",
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+      "summary": "Uma análise sobre como a OpenAI está lidando com o ataque ao Hugging Face.",
+      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": "b75a4c69",
+      "title": "Anthropic’s first technical PM on token maxing, the jagged edge, and living in the future | Dianne Penn",
+      "summary": "Uma entrevista com um engenheiro de produto da Anthropic sobre token maxing e outras tecnologias.",
+      "url": "https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-26"
+    },
+    {
+      "id": "51e25524",
+      "title": "Dear SaaStr:  We Have a Sales-Led Motion and SMB Customers And The Economics Aren’t Working",
+      "summary": "Uma pergunta sobre como lidar com uma equipe de vendas que está liderando a motion e não está funcionando economicamente.",
+      "url": "https://www.saastr.com/dear-saastr-we-have-a-sales-led-motion-and-smb-customers-and-the-economics-arent-working/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2025-10-02"
+    },
+    {
+      "id": "d9764974",
+      "title": "Leaders: your calendar is your culture and your strategy. Set it carefully",
+      "summary": "Uma dica sobre como gerenciar o calendário para criar uma cultura e estratégia eficazes.",
+      "url": "https://www.fastcompany.com/91573455/your-calendar-is-your-culture-and-leadership-strategy-leadership-management-advice-calendar",
+      "source": "Fast Company",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "13e05c62",
+      "title": "ClinicFrame",
+      "summary": "Um novo produto que pode revolucionar a forma como trabalhamos com clínicas.",
+      "url": "https://www.producthunt.com/products/clinic-scribe-clinicframe",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 3,
+      "published_at": "2026-06-30"
+    },
+    {
+      "id": "1f5681de",
+      "title": "11 products I love, free for a year—the biggest Product Pass expansion in 2 years",
+      "summary": "Um produto que oferece acesso a outros produtos de forma gratuita por um ano.",
+      "url": "https://www.lennysnewsletter.com/p/productpass-summer2026launch",
+      "source": "Lenny's Newsletter",
+      "category": "Design",
+      "relevance": 3,
+      "published_at": "2026-07-28"
+    },
+    {
+      "id": "5d1d26c1",
+      "title": "Why Some Junior Employees Work Well with AI—and Others Don’t",
+      "summary": "Uma análise sobre como os funcionários mais jovens trabalham com inteligência artificial.",
+      "url": "/2026/07/why-some-junior-employees-work-well-with-ai-and-others-dont-2",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-07-28"
+    },
+    {
+      "id": "385801de",
+      "title": "SpecForge – A Platform for Authoring Formal Specifications",
+      "summary": "Uma plataforma para criar especificações formais.",
+      "url": "https://docs.imiron.io/v/0.5.10/en/tour.html",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 3,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "bb295603",
+      "title": "Task Monki",
+      "summary": "Um novo produto que pode ajudar a gerenciar tarefas de forma eficaz.",
+      "url": "https://www.producthunt.com/products/task-monki",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 3,
+      "published_at": "2026-07-28"
+    },
+    {
+      "id": "5120a32c",
+      "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+      "summary": "Uma análise sobre o mercado de inteligência artificial.",
+      "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 3,
+      "published_at": "2026-07-28"
+    },
+    {
+      "id": "e0d2e44b",
+      "title": "What Makes Chinese Companies So Competitive?",
+      "summary": "Uma análise sobre o que torna as empresas chinesas tão competitivas.",
+      "url": "/podcast/2026/07/what-makes-chinese-companies-so-competitive",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-07-28"
+    },
+    {
+      "id": "426b13b7",
+      "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
+      "summary": "Uma análise sobre como defender o protocolo de voo do React.",
+      "url": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
+      "source": "Smashing Magazine",
+      "category": "Tech",
+      "relevance": 3,
+      "published_at": "2026-07-21"
+    },
+    {
+      "id": "5ad860ac",
+      "title": "Amiga Graphics Archive",
+      "summary": "Uma coleção de gráficos da Amiga que pode ser útil para desenvolvedores.",
+      "url": "https://amiga.lychesis.net/index.html",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 3,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "008d55eb",
+      "title": "SoundGate Guitar",
+      "summary": "Um novo produto que pode ajudar a melhorar a experiência de usuário em guitarras.",
+      "url": "https://www.producthunt.com/products/soundgate-guitar-app",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 3,
+      "published_at": "2026-07-05"
+    },
+    {
+      "id": "80c608ff",
+      "title": "From zero coding background to hardware hacker: How Cursor + a Raspberry Pi makes AI fun",
+      "summary": "Uma análise sobre como criar um projeto de hardware com um Raspberry Pi.",
+      "url": "https://www.lennysnewsletter.com/p/from-zero-coding-background-to-hardware",
+      "source": "Lenny's Newsletter",
+      "category": "Tech",
+      "relevance": 3,
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": "343bcef0",
+      "title": "When It Makes Sense To “Block” The Main Thread",
+      "summary": "Uma dica sobre quando é melhor bloquear o thread principal em desenvolvimento.",
+      "url": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
+      "source": "Smashing Magazine",
+      "category": "Tech",
+      "relevance": 3,
+      "published_at": "2026-07-17"
+    },
+    {
+      "id": "1e40b1dc",
+      "title": "/mission for Claude Code",
+      "summary": "Um novo produto que pode ajudar a melhorar a experiência de usuário em código.",
+      "url": "https://www.producthunt.com/products/spine-2",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 3,
+      "published_at": "2026-07-27"
+    }
+  ]
+}
