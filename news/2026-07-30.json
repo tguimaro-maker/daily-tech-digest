@@ -1,0 +1,247 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T11:44:53Z",
+  "total": 24,
+  "items": [
+    {
+      "id": "1c4b496b",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "summary": "LLMs são vulneráveis a ataques devido a um erro fundamental.",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-30"
+    },
+    {
+      "id": "35ed176f",
+      "title": "AI Isn’t Killing SaaS. SaaS Is Killing Itself.",
+      "summary": "SaaS está matando a si mesmo, não o contrário.",
+      "url": "https://www.saastr.com/ai-isnt-killing-saas-saas-is-killing-itself/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "5573352b",
+      "title": "Gpiozero Flow",
+      "summary": "Gpiozero Flow é uma ferramenta para trabalhar com GPIO.",
+      "url": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-07-30"
+    },
+    {
+      "id": "c881468d",
+      "title": "Memmy Agent",
+      "summary": "Memmy Agent é uma ferramenta para trabalhar com agentes.",
+      "url": "https://www.producthunt.com/products/memmy",
+      "source": "Product Hunt",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-22"
+    },
+    {
+      "id": "a9f5863b",
+      "title": "Ways to think about token pricing",
+      "summary": "Ben Evans discute como pensar sobre preços de token.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "a8204e1e",
+      "title": "Embrace AI Without Damaging Trust: Lessons from the “Financial Times”",
+      "summary": "A Financial Times aprendeu a trabalhar com AI sem danificar a confiança.",
+      "url": "/2026/07/embrace-ai-without-damaging-trust-lessons-from-the-financial-times",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "7981e085",
+      "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
+      "summary": "O design digital está se tornando cada vez mais importante na era da IA.",
+      "url": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "e634a257",
+      "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+      "summary": "A Microsoft confirma o lançamento de um aplicativo 'super' chamado Copilot.",
+      "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "0143d27e",
+      "title": "AI Search Console",
+      "summary": "O AI Search Console é uma ferramenta para trabalhar com buscas de IA.",
+      "url": "https://www.producthunt.com/products/ai-search-console",
+      "source": "Product Hunt",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-03"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Ben Evans discute como prever a exposição de empregos de IA.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "9e0e376a",
+      "title": "How AI can help make busy shipping routes safer for whales",
+      "summary": "A IA pode ajudar a tornar as rotas de navio mais seguras para os golfinhos.",
+      "url": "https://www.fastcompany.com/91581909/how-ai-can-help-make-busy-shipping-routes-safer-for-whales",
+      "source": "Fast Company",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-30"
+    },
+    {
+      "id": "2d923111",
+      "title": "The Case for Hiring Job Hoppers",
+      "summary": "É hora de contratar funcionários que mudam de emprego frequentemente.",
+      "url": "/2026/07/the-case-for-hiring-job-hoppers",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "ed19fed1",
+      "title": "How to research technical topics with AI",
+      "summary": "Como pesquisar tópicos técnicos com AI.",
+      "url": "https://www.0xkato.xyz/how-to-research-technical-topics-with-ai",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-30"
+    },
+    {
+      "id": "cd8ca039",
+      "title": "Thinking Outside The Box: Digital Design In The AI Era",
+      "summary": "O design digital está se tornando cada vez mais importante na era da IA.",
+      "url": "https://smashingmagazine.com/2026/07/digital-design-ai-era/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-28"
+    },
+    {
+      "id": "640bf918",
+      "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+      "summary": "Mark Zuckerberg está planejando um grande impulso para agentes de IA pessoais.",
+      "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+      "source": "The Verge",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "6f0d472a",
+      "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+      "summary": "Agent-Manager é uma ferramenta para trabalhar com agentes de IA.",
+      "url": "https://github.com/YoanWai/agent-manager",
+      "source": "Hacker News",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-30"
+    },
+    {
+      "id": "f857f670",
+      "title": "Focus Room",
+      "summary": "O Focus Room é uma ferramenta para trabalhar com agentes de IA.",
+      "url": "https://www.producthunt.com/products/focus-room",
+      "source": "Product Hunt",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "Como a OpenAI vai competir.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "1f67cd53",
+      "title": "Research: How AI Agents Broaden the Scope of Knowledge Work",
+      "summary": "A pesquisa mostra que os agentes de IA ampliam o escopo do trabalho de conhecimento.",
+      "url": "/2026/07/research-how-ai-agents-broaden-the-scope-of-knowledge-work",
+      "source": "Harvard Business Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "426b13b7",
+      "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
+      "summary": "Como defender o React Flight Protocol contra ataques.",
+      "url": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
+      "source": "Smashing Magazine",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-07-21"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "A AI, redes e Turcos Mecânicos.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "b75a4c69",
+      "title": "Anthropic’s first technical PM on token maxing, the jagged edge, and living in the future | Dianne Penn",
+      "summary": "A Anthropic tem seu primeiro PM técnico falando sobre token maxing e mais.",
+      "url": "https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-26"
+    },
+    {
+      "id": "84a2d46f",
+      "title": "Your Agents Are About to Start Firing Your Vendors. Ours Fired Marketo.",
+      "summary": "Os agentes de IA estão começando a demitir seus vendedores.",
+      "url": "https://www.saastr.com/your-agents-are-about-to-start-firing-your-vendors-ours-fired-marketo/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-28"
+    },
+    {
+      "id": "5d1d26c1",
+      "title": "Why Some Junior Employees Work Well with AI—and Others Don’t",
+      "summary": "Por que alguns funcionários jovens trabalham bem com AI e outros não.",
+      "url": "/2026/07/why-some-junior-employees-work-well-with-ai-and-others-dont-2",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-28"
+    }
+  ]
+}
