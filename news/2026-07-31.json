@@ -1,0 +1,407 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T11:51:40Z",
+  "total": 40,
+  "items": [
+    {
+      "id": "469bdbe2",
+      "title": "Sony pushes forward with ditching discs, despite backlash",
+      "summary": "A Sony está avançando com a eliminação de discos, apesar do rebuço.",
+      "url": "https://www.theverge.com/tech/973621/sony-playstation-ending-discs-pushing-forward",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-31"
+    },
+    {
+      "id": "16d27009",
+      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+      "summary": "Análise de desempenho, preço e inteligência da DeepSeek V4 Flash.",
+      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-31"
+    },
+    {
+      "id": "82b83e21",
+      "title": "Cleanlist AI",
+      "summary": "Cleanlist AI é uma ferramenta de produto.",
+      "url": "https://www.producthunt.com/products/cleanlist-ai",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": "1f5681de",
+      "title": "11 products I love, free for a year—the biggest Product Pass expansion in 2 years",
+      "summary": "11 produtos gratuitos por um ano, a maior expansão do Product Pass em 2 anos.",
+      "url": "https://www.lennysnewsletter.com/p/productpass-summer2026launch",
+      "source": "Lenny's Newsletter",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-28"
+    },
+    {
+      "id": "cd7439cd",
+      "title": "20VC x SaaStr: Jensen’s First Tweet Ever, The Agent That Rewrote My Code Without Telling Me, and Why The PE Turnaround Playbook Is Out Of Road",
+      "summary": "Conversa sobre SaaS e PE, com Jensen e outros especialistas.",
+      "url": "https://www.saastr.com/20vc-x-saastr-jensens-first-tweet-ever-the-agent-that-rewrote-my-code-without-telling-me-and-why-the-pe-turnaround-playbook-is-out-of-road/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-30"
+    },
+    {
+      "id": "f7e317eb",
+      "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+      "summary": "Tim Cook sugere que o iCloud Plus poderá ter um nível de poder de IA para usuários avançados.",
+      "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-30"
+    },
+    {
+      "id": "4036e5fe",
+      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "summary": "Google resolveu mais bugs do Chrome em junho do que nos últimos dois anos, graças à IA.",
+      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-31"
+    },
+    {
+      "id": "b8c1ad68",
+      "title": "Gemini Robotics 2",
+      "summary": "Gemini Robotics 2 é uma ferramenta de produto.",
+      "url": "https://www.producthunt.com/products/gemini-robotics-2",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-30"
+    },
+    {
+      "id": "2eac5a7f",
+      "title": "🎙️ How I AI: Claude Opus 5 Review + Browser use in Codex + How Cursor and a Raspberry Pi makes AI fun",
+      "summary": "Revisão do Claude Opus 5 e uso do navegador Codex, além de como um Raspberry Pi torna a IA divertida.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-opus-5-review-browser",
+      "source": "Lenny's Newsletter",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": "a9a4fcb4",
+      "title": "PCjs Machines",
+      "summary": "PCjs Machines é uma ferramenta de produto.",
+      "url": "https://www.pcjs.org/",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-31"
+    },
+    {
+      "id": "9d25cb4b",
+      "title": "Xbox CEO lays out priorities in memo after major &#8216;reset&#8217;",
+      "summary": "Xbox CEO define prioridades em memórias após \"reinicialização\" significativa.",
+      "url": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-30"
+    },
+    {
+      "id": "8f987274",
+      "title": "DeepSeek-V4-Flash Update",
+      "summary": "Atualização da DeepSeek V4 Flash.",
+      "url": "https://api-docs.deepseek.com/updates/",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-31"
+    },
+    {
+      "id": "0da28692",
+      "title": "Customer.io Summer Release",
+      "summary": "Customer.io Summer Release é uma ferramenta de produto.",
+      "url": "https://www.producthunt.com/products/customer-io",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-23"
+    },
+    {
+      "id": "80c608ff",
+      "title": "From zero coding background to hardware hacker: How Cursor + a Raspberry Pi makes AI fun",
+      "summary": "Como um Raspberry Pi e o Cursor tornam a IA divertida.",
+      "url": "https://www.lennysnewsletter.com/p/from-zero-coding-background-to-hardware",
+      "source": "Lenny's Newsletter",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": "9ac05437",
+      "title": "Show HN: Gander, an Android file viewer that asks for no permissions at all",
+      "summary": "Show HN: Gander, um visualizador de arquivos Android que não pede permissões.",
+      "url": "https://github.com/mokshablr/gander",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-31"
+    },
+    {
+      "id": "d0c87788",
+      "title": "MiniMax H3",
+      "summary": "MiniMax H3 é uma ferramenta de produto.",
+      "url": "https://www.producthunt.com/products/minimax",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-31"
+    },
+    {
+      "id": "6ad03f13",
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "summary": "Modelos de IA da Anthropic foram quebrados em três empresas durante testes de segurança.",
+      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "source": "TechCrunch",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-31"
+    },
+    {
+      "id": "a9f5863b",
+      "title": "Ways to think about token pricing",
+      "summary": "Dicas para definir preços de token.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "36282e99",
+      "title": "American workers are more disillusioned with AI the more they use it",
+      "summary": "Trabalhadores americanos estão cada vez mais desiludidos com a IA à medida que a usam mais.",
+      "url": "https://www.fastcompany.com/91582618/american-workers-are-more-disillusioned-with-ai-the-more-they-use-it",
+      "source": "Fast Company",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-31"
+    },
+    {
+      "id": "a8204e1e",
+      "title": "Embrace AI Without Damaging Trust: Lessons from the “Financial Times”",
+      "summary": "Aprendendo com a experiência da Financial Times sobre como abraçar a IA sem danificar a confiança.",
+      "url": "/2026/07/embrace-ai-without-damaging-trust-lessons-from-the-financial-times",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "7981e085",
+      "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
+      "summary": "Argumentos a favor e contra a design digital na era da IA.",
+      "url": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "296d1471",
+      "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
+      "summary": "Apple está acumulando estoque em preparação para \"constrangimentos de fornecimento significativos\".",
+      "url": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-30"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Previsão de exposição de empregos à IA.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "763b2fe8",
+      "title": "The One Hire You [Probably] Just Can’t Make: Chief Product & Technology Officer",
+      "summary": "Importância de contratar um Chief Product & Technology Officer.",
+      "url": "https://www.saastr.com/the-one-hire-you-just-cant-make-chief-product-technology-officer/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-30"
+    },
+    {
+      "id": "f93ef3b0",
+      "title": "I told Mark Cuban he was wrong about AI. Here’s what founders can learn from my mistake",
+      "summary": "Aprendendo com o erro de Mark Cuban sobre a IA e como fundadores podem aprender com isso.",
+      "url": "https://www.fastcompany.com/91581892/i-told-mark-cuban-he-was-wrong-about-ai-heres-what-founders-can-learn-from-my-mistake-founders-technology-mark-cuban",
+      "source": "Fast Company",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-31"
+    },
+    {
+      "id": "2d923111",
+      "title": "The Case for Hiring Job Hoppers",
+      "summary": "Argumentos a favor de contratar funcionários que mudam de emprego frequentemente.",
+      "url": "/2026/07/the-case-for-hiring-job-hoppers",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "cd8ca039",
+      "title": "Thinking Outside The Box: Digital Design In The AI Era",
+      "summary": "Design digital na era da IA.",
+      "url": "https://smashingmagazine.com/2026/07/digital-design-ai-era/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-28"
+    },
+    {
+      "id": "00fa9ca3",
+      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+      "summary": "Situação de fundo de hedge de IA, Situational Awareness, pode ter vendido seu portfólio público, mas ainda tem suas ações da Anthropic.",
+      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "source": "TechCrunch",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-30"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "Como a OpenAI competirá?",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "6ce75d93",
+      "title": "Dear SaaStr:  How Do You Steal Customers From the Leader in the Space?",
+      "summary": "Como roubar clientes do líder no espaço.",
+      "url": "https://www.saastr.com/how-do-you-pull-your-saas-competitors-customers-to-your-saas-instead/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-30"
+    },
+    {
+      "id": "f703476b",
+      "title": "YouTube is on a major decluttering mission",
+      "summary": "YouTube está em uma missão de decluttering significativa.",
+      "url": "https://www.fastcompany.com/91580299/youtube-is-on-a-major-decluttering-mission",
+      "source": "Fast Company",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-31"
+    },
+    {
+      "id": "1f67cd53",
+      "title": "Research: How AI Agents Broaden the Scope of Knowledge Work",
+      "summary": "Pesquisa sobre como os agentes de IA ampliam o escopo do trabalho de conhecimento.",
+      "url": "/2026/07/research-how-ai-agents-broaden-the-scope-of-knowledge-work",
+      "source": "Harvard Business Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "5e7cf3c9",
+      "title": "State of Devs 2026",
+      "summary": "Estado dos desenvolvedores de 2026.",
+      "url": "https://survey.devographics.com/en-US/survey/state-of-devs/2026",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-31"
+    },
+    {
+      "id": "426b13b7",
+      "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
+      "summary": "Como usar e defender o protocolo React Flight.",
+      "url": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-21"
+    },
+    {
+      "id": "b6c94439",
+      "title": "Apple&#8217;s iPhone and Mac sales keep growing despite RAM shortages",
+      "summary": "Vendas de iPhone e Mac continuam crescendo apesar de escassez de RAM.",
+      "url": "https://www.theverge.com/tech/973430/apple-q3-2026-earnings",
+      "source": "The Verge",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-30"
+    },
+    {
+      "id": "ebf0eac9",
+      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+      "summary": "Reddit relata um trimestre sólido, mas mostra sinais do impacto da IA.",
+      "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-30"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "AI, redes e Turcos Mecânicos.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "1c4b496b",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "summary": "Flaw fundamental deixa LLMs vulneráveis a ataques.",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-30"
+    },
+    {
+      "id": "b75a4c69",
+      "title": "Anthropic’s first technical PM on token maxing, the jagged edge, and living in the future | Dianne Penn",
+      "summary": "A primeira PM técnica da Anthropic fala sobre token maxing, a borda irregular e viver no futuro.",
+      "url": "https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-07-26"
+    },
+    {
+      "id": "35ed176f",
+      "title": "AI Isn’t Killing SaaS. SaaS Is Killing Itself.",
+      "summary": "A IA não está matando o SaaS. O SaaS está matando a si mesmo.",
+      "url": "https://www.saastr.com/ai-isnt-killing-saas-saas-is-killing-itself/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-29"
+    }
+  ]
+}
