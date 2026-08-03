@@ -1,0 +1,347 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T12:48:30Z",
+  "total": 34,
+  "items": [
+    {
+      "id": "21813ff6",
+      "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+      "summary": "A empresa chinesa Alibaba está desenvolvendo tecnologia de IA para desafiar a liderança dos EUA nesse campo.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "source": "The Verge",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-08-03"
+    },
+    {
+      "id": "9207c702",
+      "title": "ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
+      "summary": "O ChatGPT Codex Voice + browser + Sites é uma ferramenta de fluxo de trabalho de IA que pode ser útil para especialistas.",
+      "url": "https://www.lennysnewsletter.com/p/chatgpt-codex-voice-browser-sites",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-08-03"
+    },
+    {
+      "id": "a387201d",
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "summary": "Uma startup apoiada por Marc Benioff acredita que a IA pode resolver o problema de implantação de IA.",
+      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "source": "TechCrunch",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-08-03"
+    },
+    {
+      "id": "ba42df96",
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "summary": "Os agentes de IA podem mentir e enganar para alcançar seus objetivos.",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-08-03"
+    },
+    {
+      "id": "e038f944",
+      "title": "AI and IT Teams Often Clash. But They Don’t Have To.",
+      "summary": "Os times de IA e TI podem conflitar, mas não precisam.",
+      "url": "/2026/07/ai-and-it-teams-often-clash-but-they-dont-have-to",
+      "source": "Harvard Business Review",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-31"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "A IA, redes e Turcos Mecânicos são temas importantes que devem ser considerados.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "238ff1ee",
+      "title": "The AI bubble is popping; we just don't know it yet",
+      "summary": "O mercado de IA está sofrendo uma bolha que pode explodir, mas ainda não é claro quando isso acontecerá.",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004",
+      "source": "Hacker News",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-08-03"
+    },
+    {
+      "id": "dc83af78",
+      "title": "Qwen3.8-Max",
+      "summary": "O Qwen3.8-Max é um novo produto digital que está disponível para ser descoberto.",
+      "url": "https://www.producthunt.com/products/qwen3",
+      "source": "Product Hunt",
+      "category": "Open Source",
+      "relevance": 4,
+      "published_at": "2026-08-03"
+    },
+    {
+      "id": "a9f5863b",
+      "title": "Ways to think about token pricing",
+      "summary": "O preço de tokens é um tema complexo que requer cuidado e consideração.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "db5f0cbd",
+      "title": "The AI Board Member: Should Yours Should “Chair” the Next Meeting? At Least Conceptually",
+      "summary": "O papel do membro da diretoria de IA é um tema importante que deve ser considerado pelas empresas.",
+      "url": "https://www.saastr.com/the-ai-board-member-why-yours-should-chair-the-next-meeting-for-real/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-02"
+    },
+    {
+      "id": "01e66596",
+      "title": "Are You Spending Wisely on AI?",
+      "summary": "É importante avaliar se as empresas estão gastando sabiamente com IA.",
+      "url": "/2026/07/are-you-spending-wisely-on-ai",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-31"
+    },
+    {
+      "id": "e963e69c",
+      "title": "Critical CVE issued for hallucinated SQLite vulnerability",
+      "summary": "Uma vulnerabilidade crítica foi descoberta no SQLite.",
+      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-08-03"
+    },
+    {
+      "id": "428b65ef",
+      "title": "Open Minis",
+      "summary": "O Open Minis é um novo produto digital que está disponível para ser descoberto.",
+      "url": "https://www.producthunt.com/products/open-minis",
+      "source": "Product Hunt",
+      "category": "Open Source",
+      "relevance": 4,
+      "published_at": "2026-08-02"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "O previsão de exposição de empregos de IA é um tema importante que deve ser considerado.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "30078cb4",
+      "title": "How the Best CEOs Lead Transformation",
+      "summary": "Os CEOs devem liderar a transformação de suas empresas.",
+      "url": "/2026/07/how-the-best-ceos-lead-transformation",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-31"
+    },
+    {
+      "id": "7981e085",
+      "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
+      "summary": "O design digital está se tornando cada vez mais importante na era da IA.",
+      "url": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "9d1e3b74",
+      "title": "9front \"This Was Supposed to Be Fun\" Released",
+      "summary": "O 9front 'This Was Supposed to Be Fun' foi lançado.",
+      "url": "https://9front.org/releases/2026/08/02/0/",
+      "source": "Hacker News",
+      "category": "Open Source",
+      "relevance": 4,
+      "published_at": "2026-08-03"
+    },
+    {
+      "id": "e1c4966b",
+      "title": "Airtop for Google Ads Automation",
+      "summary": "O Airtop para automação de anúncios do Google está disponível para ser descoberto.",
+      "url": "https://www.producthunt.com/products/airtop",
+      "source": "Product Hunt",
+      "category": "Open Source",
+      "relevance": 4,
+      "published_at": "2026-07-21"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "É importante avaliar como a OpenAI competirá no mercado.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "043f4f60",
+      "title": "The #1 Most Important Thing to Understand About AI SDRs: They Can’t Figure It Out For You. That’s Still Your Job.  For Now, At Least.",
+      "summary": "É importante entender que os SDRs de IA não podem resolver problemas por você.",
+      "url": "https://www.saastr.com/the-1-most-important-thing-to-understand-about-ai-sdrs/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-01"
+    },
+    {
+      "id": "cd8ca039",
+      "title": "Thinking Outside The Box: Digital Design In The AI Era",
+      "summary": "O design digital está se tornando cada vez mais importante na era da IA.",
+      "url": "https://smashingmagazine.com/2026/07/digital-design-ai-era/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-28"
+    },
+    {
+      "id": "8516d89c",
+      "title": "Sam Altman and AI’s decel debate",
+      "summary": "Sam Altman e a discussão sobre a deceleração do crescimento de IA.",
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "source": "TechCrunch",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-08-02"
+    },
+    {
+      "id": "a8b1f3a6",
+      "title": "Ctruh Studio",
+      "summary": "O Ctruh Studio é um novo produto digital que está disponível para ser descoberto.",
+      "url": "https://www.producthunt.com/products/ctruh-studio",
+      "source": "Product Hunt",
+      "category": "Open Source",
+      "relevance": 4,
+      "published_at": "2026-07-31"
+    },
+    {
+      "id": "56a79e6e",
+      "title": "Samsung bans smart TV apps that share users’ internet connections with strangers",
+      "summary": "A Samsung está banindo aplicativos de TV inteligente que compartilham conexões de internet com estranhos.",
+      "url": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 3,
+      "published_at": "2026-08-03"
+    },
+    {
+      "id": "ffbc349b",
+      "title": "The AI Notepad for back-to-back meetings",
+      "summary": "O Notepad de IA é uma ferramenta útil para reuniões consecutivas.",
+      "url": "https://go.granola.ai/sidebar",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 3,
+      "published_at": "2026-08-03"
+    },
+    {
+      "id": "b9da2405",
+      "title": "This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)",
+      "summary": "Um CPO lamenta que a gestão de produto exista.",
+      "url": "https://www.lennysnewsletter.com/p/this-cpo-regrets-that-product-management",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-08-02"
+    },
+    {
+      "id": "1df3fb58",
+      "title": "Jason’s Takes on This Week’s 20VC: The Toggle Is a Permission Grant, The Blame Test Decides the Deal, and Why Five Years of Price Increases Is a Countdown",
+      "summary": "Um CPO compartilha lições de liderança que aprendeu de forma difícil.",
+      "url": "https://www.saastr.com/jasons-takes-on-this-weeks-20vc-the-toggle-is-a-permission-grant-the-blame-test-decides-the-deal-and-why-five-years-of-price-increases-is-a-countdown/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-08-02"
+    },
+    {
+      "id": "a03e9ec1",
+      "title": "No new name has replaced “UX”",
+      "summary": "O termo 'UX' ainda não foi substituído por outro.",
+      "url": "https://www.nngroup.com/articles/no-new-name-ux/",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 3,
+      "published_at": "2026-08-03"
+    },
+    {
+      "id": "29819846",
+      "title": "The global memory shortage hits the MacBook Air",
+      "summary": "A falta de memória global está afetando o MacBook Air.",
+      "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 3,
+      "published_at": "2026-08-02"
+    },
+    {
+      "id": "afa0caf1",
+      "title": "🧠 Community Wisdom: Getting started with open source models, making a U.S. business trip worth it, preparing for a possible layoff, when marketing can’t keep up with product, and more",
+      "summary": "A comunidade compartilha conselhos sobre como começar com modelos de código aberto, fazer viagens de negócios nos EUA, e mais.",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-getting-started",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-08-01"
+    },
+    {
+      "id": "447340ed",
+      "title": "CEO Mark Patricof is transforming elite athletes into major investors",
+      "summary": "Um CEO está transformando atletas de elite em investidores.",
+      "url": "https://www.fastcompany.com/91581848/ceo-mark-patricof-is-transforming-elite-athletes-into-major-investors",
+      "source": "Fast Company",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-08-03"
+    },
+    {
+      "id": "14a287f3",
+      "title": "Web desktops",
+      "summary": "Os desktops da web estão se tornando cada vez mais populares.",
+      "url": "https://simone.computer/#/webdesktops",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 3,
+      "published_at": "2026-08-03"
+    },
+    {
+      "id": "c60b7d76",
+      "title": "Xbox prices are increasing by up to €200 or £170",
+      "summary": "Os preços do Xbox estão aumentando em até €200 ou £170.",
+      "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 3,
+      "published_at": "2026-08-02"
+    },
+    {
+      "id": "39f7353c",
+      "title": "Dear SaaStr:  I Fired My VP of Sales.  What Now?",
+      "summary": "Um CPO compartilha conselhos sobre como lidar com a demissão de um VP de Vendas.",
+      "url": "https://www.saastr.com/dear-saastr-i-fired-my-vp-of-sales-what-now/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-08-01"
+    }
+  ]
+}
