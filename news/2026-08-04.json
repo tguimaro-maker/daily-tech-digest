@@ -1,0 +1,267 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T11:54:33Z",
+  "total": 26,
+  "items": [
+    {
+      "id": "bd3fd128",
+      "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
+      "summary": "OpenAI enfrenta ação judicial de Apple e tenta influenciar a opinião pública.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-08-04"
+    },
+    {
+      "id": "6daaf4b6",
+      "title": "Bending Spoons to buy Airtable for $1.28B",
+      "summary": "Bending Spoons compra Airtable por US$ 1,28 bilhão.",
+      "url": "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-08-04"
+    },
+    {
+      "id": "7ca3006e",
+      "title": "🎙️ How I AI: ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
+      "summary": "Um especialista compartilha seu fluxo de trabalho de IA.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-chatgpt-codex-voice-browser",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-08-03"
+    },
+    {
+      "id": "08c80cf4",
+      "title": "The next Xbox could play every Xbox game ever made",
+      "summary": "A próxima geração de Xbox pode jogar todos os jogos da Xbox.",
+      "url": "https://www.theverge.com/games/974773/xbox-helix-disc-digital-backwards-compatibility-leaked-memo-opt-in",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-08-04"
+    },
+    {
+      "id": "63494284",
+      "title": "AirProof AI",
+      "summary": "Uma ferramenta de IA para garantir a integridade de dados.",
+      "url": "https://www.producthunt.com/products/airproof-ai",
+      "source": "Product Hunt",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-07-31"
+    },
+    {
+      "id": "9207c702",
+      "title": "ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
+      "summary": "Um especialista compartilha seu fluxo de trabalho de IA.",
+      "url": "https://www.lennysnewsletter.com/p/chatgpt-codex-voice-browser-sites",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-08-03"
+    },
+    {
+      "id": "e2a801c9",
+      "title": "Can Reddit fend off a new wave of AI SEO spam?",
+      "summary": "Reddit luta contra o spam de SEO de IA.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-08-04"
+    },
+    {
+      "id": "ba48b4cf",
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "summary": "AWS ajuda uma startup de vibração e tem implicações grandes.",
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-08-03"
+    },
+    {
+      "id": "935ecaa1",
+      "title": "GrowthBook 5.0",
+      "summary": "GrowthBook lança nova versão 5.0.",
+      "url": "https://www.producthunt.com/products/growthbook",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "a9f5863b",
+      "title": "Ways to think about token pricing",
+      "summary": "Dicas para definir preços de token.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "4d946e5e",
+      "title": "Nue’s Guided Selling Playbook Took 2 Minutes to Build. The Full Implementation Still Takes 90 Days.",
+      "summary": "Um CPO compartilha sua experiência com a implementação de uma ferramenta de vendas.",
+      "url": "https://www.saastr.com/nues-guided-selling-playbook-took-2-minutes-to-build-the-implementation-still-takes-90-days/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-04"
+    },
+    {
+      "id": "a941776e",
+      "title": "Designing for the proxy",
+      "summary": "Dicas para projetar interfaces de usuário.",
+      "url": "https://uxdesign.cc/designing-for-the-proxy-2606ffac2335",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-08-04"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Dicas para prever a exposição de empregos à IA.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "f3601c54",
+      "title": "I Was Wrong About Marketing ROI. Here’s What $100,000,000+ in Sponsorship Sales Taught Me.",
+      "summary": "Um executivo compartilha sua experiência com marketing.",
+      "url": "https://www.saastr.com/i-was-wrong-about-marketing-roi-heres-what-100000000-in-sponsorships-taught-me/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-03"
+    },
+    {
+      "id": "dd0cf84f",
+      "title": "The agentic AI naming trap: Why you must move from red oceans to blue",
+      "summary": "Dicas para evitar armadilhas de nomeação de IA.",
+      "url": "https://www.fastcompany.com/91576093/the-agentic-ai-naming-trap-why-you-must-move-from-red-oceans-to-blue-ai-stratgey-brands-naming",
+      "source": "Fast Company",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-08-04"
+    },
+    {
+      "id": "ce27aabe",
+      "title": "Anthropeum",
+      "summary": "Um projeto de design de interface de usuário.",
+      "url": "https://anthropeum.com/",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-08-04"
+    },
+    {
+      "id": "7981e085",
+      "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
+      "summary": "Dicas para projetar interfaces de usuário em um mundo de IA.",
+      "url": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "9b8da811",
+      "title": "Screen Awesome",
+      "summary": "Uma ferramenta de design de interface de usuário.",
+      "url": "https://www.producthunt.com/products/screen-awesome-record-annotate",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-08-03"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "Dicas para OpenAI competir.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "ba42df96",
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "summary": "Um CPO compartilha sua experiência com a indústria de IA.",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "source": "MIT Technology Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-03"
+    },
+    {
+      "id": "b9da2405",
+      "title": "This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)",
+      "summary": "Um CPO compartilha sua experiência com a indústria de produtos digitais.",
+      "url": "https://www.lennysnewsletter.com/p/this-cpo-regrets-that-product-management",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-02"
+    },
+    {
+      "id": "cd8ca039",
+      "title": "Thinking Outside The Box: Digital Design In The AI Era",
+      "summary": "Dicas para projetar interfaces de usuário em um mundo de IA.",
+      "url": "https://smashingmagazine.com/2026/07/digital-design-ai-era/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-28"
+    },
+    {
+      "id": "101e2ad6",
+      "title": "Dashi Metrics",
+      "summary": "Uma ferramenta de métricas para produtos digitais.",
+      "url": "https://www.producthunt.com/products/dashi-metrics",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-30"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "Dicas para projetar interfaces de usuário em um mundo de IA.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "afa0caf1",
+      "title": "🧠 Community Wisdom: Getting started with open source models, making a U.S. business trip worth it, preparing for a possible layoff, when marketing can’t keep up with product, and more",
+      "summary": "Dicas para começar com modelos de código aberto.",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-getting-started",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-08-01"
+    },
+    {
+      "id": "db5f0cbd",
+      "title": "The AI Board Member: Should Yours Should “Chair” the Next Meeting? At Least Conceptually",
+      "summary": "Dicas para a gestão de um conselho de diretores de IA.",
+      "url": "https://www.saastr.com/the-ai-board-member-why-yours-should-chair-the-next-meeting-for-real/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-02"
+    }
+  ]
+}
