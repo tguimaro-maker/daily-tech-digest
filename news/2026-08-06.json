@@ -1,0 +1,307 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T11:56:33Z",
+  "total": 30,
+  "items": [
+    {
+      "id": "7d3fce34",
+      "title": "Superlog Responder",
+      "summary": "Superlog Responder é uma ferramenta para ajudar a gerenciar logs de aplicativos.",
+      "url": "https://www.producthunt.com/products/superlog",
+      "source": "Product Hunt",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-30"
+    },
+    {
+      "id": "f2d30229",
+      "title": "Build an AI code review bot in 30 minutes with Vercel Eve",
+      "summary": "Aprenda a criar um bot de revisão de código com IA em 30 minutos com Vercel Eve.",
+      "url": "https://www.lennysnewsletter.com/p/build-an-ai-code-review-bot-in-30",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-08-05"
+    },
+    {
+      "id": "0d5bda8a",
+      "title": "Cloudflare OS",
+      "summary": "O Cloudflare OS é uma ferramenta para ajudar a gerenciar redes.",
+      "url": "https://www.producthunt.com/products/cloudflare",
+      "source": "Product Hunt",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-08-05"
+    },
+    {
+      "id": "9c9c0de3",
+      "title": "AI Spend Console by Rippling",
+      "summary": "O AI Spend Console é uma ferramenta para ajudar a gerenciar gastos de IA.",
+      "url": "https://www.producthunt.com/products/rippling",
+      "source": "Product Hunt",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-07-14"
+    },
+    {
+      "id": "7ca3006e",
+      "title": "🎙️ How I AI: ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
+      "summary": "O Nick Baumann da OpenAI discute sua rotina de trabalho com IA.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-chatgpt-codex-voice-browser",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-08-03"
+    },
+    {
+      "id": "eb558bee",
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "summary": "A Meta lançou o Muse Code, um agente de IA para grandes bases de código.",
+      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "source": "TechCrunch",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-08-05"
+    },
+    {
+      "id": "4e42afd4",
+      "title": "Brandfetch MCP",
+      "summary": "O Brandfetch MCP é uma ferramenta para ajudar a gerenciar marcas.",
+      "url": "https://www.producthunt.com/products/brandfetch",
+      "source": "Product Hunt",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-08-05"
+    },
+    {
+      "id": "9207c702",
+      "title": "ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
+      "summary": "O Nick Baumann da OpenAI discute sua rotina de trabalho com IA.",
+      "url": "https://www.lennysnewsletter.com/p/chatgpt-codex-voice-browser-sites",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-08-03"
+    },
+    {
+      "id": "582f202d",
+      "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
+      "summary": "Obtenha até $400 de desconto na passagem do TechCrunch Disrupt 2026 até sexta-feira.",
+      "url": "https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-05"
+    },
+    {
+      "id": "a9f5863b",
+      "title": "Ways to think about token pricing",
+      "summary": "O artigo discute como pensar sobre o preço de tokens em blockchain.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+      "source": "Ben Evans",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "adb7bc7c",
+      "title": "“Our AI Agent Rewrote Our App Without Telling Us” The Agents #12 is Here!",
+      "summary": "O artigo discute como um agente de IA reescreveu um aplicativo sem informar os desenvolvedores.",
+      "url": "https://www.saastr.com/our-ai-agent-rewrote-our-app-without-telling-us-the-agents-12-is-here/",
+      "source": "SaaStr",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-08-05"
+    },
+    {
+      "id": "63346662",
+      "title": "How to Recognize When Your Customers Want You to Act",
+      "summary": "O artigo discute como reconhecer quando os clientes querem que você tome ação.",
+      "url": "/2026/08/how-to-recognize-when-your-customers-want-you-to-act",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-05"
+    },
+    {
+      "id": "5a1a8c91",
+      "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
+      "summary": "A OpenAI afirma que o processo do Apple é 'podre até a raiz'.",
+      "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-08-06"
+    },
+    {
+      "id": "ddbd42c6",
+      "title": "Nikita Bier steps down as X’s head of product",
+      "summary": "O chefe de produto da X está deixando o cargo após um ano.",
+      "url": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-05"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "O artigo discute como prever a exposição de empregos de IA.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "e28e654a",
+      "title": "What if you’re not supposed to have a long-term plan?",
+      "summary": "O autor discute se é necessário ter um plano de longo prazo.",
+      "url": "https://www.lennysnewsletter.com/p/what-if-youre-not-supposed-to-have",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-04"
+    },
+    {
+      "id": "4716dbf1",
+      "title": "Airtable Just Sold for $2.25B at 2.7x ARR. It Raised $1.4B and Was Once Worth $11.7B. This Was … Market",
+      "summary": "A Airtable foi vendida por $2,25 bilhões, mas o preço foi 2,7 vezes o ARR.",
+      "url": "https://www.saastr.com/airtable-just-sold-for-2-25b-at-2-7x-arr-it-raised-1-4b-and-was-once-worth-11-7b/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-05"
+    },
+    {
+      "id": "3e7e5130",
+      "title": "‘Freizeitstress’: Why leaders struggle to switch off—and how to truly rest this summer",
+      "summary": "O Fast Company discute por que os líderes têm dificuldade em desligar e como descansar efetivamente.",
+      "url": "https://www.fastcompany.com/91582789/leadership-time-off-work-burnout",
+      "source": "Fast Company",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-06"
+    },
+    {
+      "id": "d24cb2a0",
+      "title": "Why Lateral Hires Rarely Become CEO",
+      "summary": "O Harvard Business Review discute por que os funcionários laterais raramente se tornam CEOs.",
+      "url": "/2026/08/why-lateral-hires-rarely-become-ceo",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-05"
+    },
+    {
+      "id": "7981e085",
+      "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
+      "summary": "O Smashing Magazine discute o caso para o design digital na era de IA.",
+      "url": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "d0737c9b",
+      "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
+      "summary": "A Atoms, uma startup de robótica de Travis Kalanick, contratou um ex-financeiro da Uber como CFO.",
+      "url": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-05"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "O artigo discute como a OpenAI competirá.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "e1b145e6",
+      "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
+      "summary": "A NASA lançou um telescópio de energia escura que também pode detectar asteroides assassinos.",
+      "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+      "source": "MIT Technology Review",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-08-05"
+    },
+    {
+      "id": "8b6df734",
+      "title": "Dear SaaStr:  How Do You Compensate Reps on Multi-Year Deals?",
+      "summary": "O SaaStr discute como compensar representantes em acordos de vários anos.",
+      "url": "https://www.saastr.com/jason-lemkin-interesting-startup-sales-incentive-plan-echosign-reps-compensated-multi-year-deals/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-31"
+    },
+    {
+      "id": "d992a52d",
+      "title": "Design is on its deathbed. Long live design!",
+      "summary": "O Fast Company discute por que o design está morrendo, mas a vida do design continua.",
+      "url": "https://www.fastcompany.com/91582682/design-is-on-its-deathbed-long-live-design",
+      "source": "Fast Company",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-08-06"
+    },
+    {
+      "id": "6e62a0f0",
+      "title": "How Much Time Do Your Employees Spend Botsitting?",
+      "summary": "O Harvard Business Review discute quanto tempo os funcionários passam 'botsitting'.",
+      "url": "/2026/08/how-much-time-do-your-employees-spend-botsitting",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-05"
+    },
+    {
+      "id": "cd8ca039",
+      "title": "Thinking Outside The Box: Digital Design In The AI Era",
+      "summary": "O Smashing Magazine discute o design digital na era de IA.",
+      "url": "https://smashingmagazine.com/2026/07/digital-design-ai-era/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-28"
+    },
+    {
+      "id": "0ba387e1",
+      "title": "X product chief Nikita Bier is leaving after one year",
+      "summary": "O chefe de produto da X está deixando o cargo após um ano.",
+      "url": "https://www.theverge.com/tech/975955/x-twitter-nikita-bier-leaving",
+      "source": "The Verge",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-05"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "O artigo discute sobre IA, redes e Mechanical Turks.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "bbc00b3f",
+      "title": "5 Interesting Learnings from Palantir at $7.7 Billion ARR: 93% Growth (!), 157% NRR, and a Rule of 40 Score of 155%",
+      "summary": "O SaaStr discute sobre as lições interessantes da Palantir em $7,7 bilhões de ARR.",
+      "url": "https://www.saastr.com/5-interesting-learnings-from-palantir-at-7-7-billion-arr-93-growth-157-nrr-and-a-rule-of-40-score-of-155/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-04"
+    }
+  ]
+}
