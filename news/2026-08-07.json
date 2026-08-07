@@ -1,0 +1,327 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T10:41:44Z",
+  "total": 32,
+  "items": [
+    {
+      "id": "22d85cff",
+      "title": "Framework discloses data breach via Metabase 0-day",
+      "summary": "Uma empresa chamada Framework divulgou uma violação de dados usando um bug no Metabase.",
+      "url": "https://community.frame.work/t/framework-data-breach-discussion/83939",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-08-07"
+    },
+    {
+      "id": "6823ceff",
+      "title": "Rescript for Desktop",
+      "summary": "Um novo framework chamado Rescript está disponível para desktop.",
+      "url": "https://www.producthunt.com/products/rescript-edit-videos-like-you-edit-text",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-08-07"
+    },
+    {
+      "id": "a9f5863b",
+      "title": "Ways to think about token pricing",
+      "summary": "Dicas para pensar sobre o preço de tokens.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "3a2981e4",
+      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
+      "summary": "Uma atualização sobre as mudanças na área de inteligência artificial da Google e um modelo de Meta que não está funcionando como esperado.",
+      "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+      "source": "MIT Technology Review",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-08-06"
+    },
+    {
+      "id": "f2d30229",
+      "title": "Build an AI code review bot in 30 minutes with Vercel Eve",
+      "summary": "Como criar um robô de revisão de código usando a Vercel Eve.",
+      "url": "https://www.lennysnewsletter.com/p/build-an-ai-code-review-bot-in-30",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-08-05"
+    },
+    {
+      "id": "ab1f14d3",
+      "title": "I Bought 30+ APIs This Year. Only Exa Asked How It Went. Copy Them.",
+      "summary": "Dicas para comprar APIs e como uma empresa chamada Exa conseguiu sucesso nesse processo.",
+      "url": "https://www.saastr.com/i-bought-30-apis-this-year-only-exa-asked-how-it-went-copy-them/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-06"
+    },
+    {
+      "id": "4515023d",
+      "title": "AI Experiments Need Domain Experts. Here’s How to Support Them.",
+      "summary": "Por que os especialistas em domínio são importantes para os experimentos de IA.",
+      "url": "/2026/08/ai-experiments-need-domain-experts-heres-how-to-support-them",
+      "source": "Harvard Business Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-08-06"
+    },
+    {
+      "id": "86a46960",
+      "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+      "summary": "Nova Orleãs está testando um software de triagem de emergência usando inteligência artificial.",
+      "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-08-07"
+    },
+    {
+      "id": "a07ff1e4",
+      "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
+      "summary": "Uma oportunidade para exibir seu produto em um evento da TechCrunch.",
+      "url": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-06"
+    },
+    {
+      "id": "f223fa3f",
+      "title": "Progress AI Observability",
+      "summary": "Uma ferramenta de observabilidade de inteligência artificial.",
+      "url": "https://www.producthunt.com/products/progress-ai-observability",
+      "source": "Product Hunt",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-08-05"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Dicas para prever a exposição de empregos à inteligência artificial.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "231be801",
+      "title": "10 Things That Always Work in B2B Marketing",
+      "summary": "Dicas para o marketing B2B.",
+      "url": "https://www.saastr.com/10-things-that-always-work-in-saas-marketing/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2022-08-16"
+    },
+    {
+      "id": "63346662",
+      "title": "How to Recognize When Your Customers Want You to Act",
+      "summary": "Uma reflexão sobre como reconhecer quando os clientes querem que você aja.",
+      "url": "/2026/08/how-to-recognize-when-your-customers-want-you-to-act",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-05"
+    },
+    {
+      "id": "7981e085",
+      "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
+      "summary": "Uma reflexão sobre a importância do design digital na era da inteligência artificial.",
+      "url": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "cc6d461e",
+      "title": "AgentOne Desktop",
+      "summary": "Uma ferramenta de escritório chamada AgentOne Desktop.",
+      "url": "https://www.producthunt.com/products/agentone-desktop",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-08-07"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "Dicas para a OpenAI competir.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "143e8c84",
+      "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
+      "summary": "Uma atualização sobre a NASA e as restrições de importação de tecnologia da China.",
+      "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+      "source": "MIT Technology Review",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-08-05"
+    },
+    {
+      "id": "7ca3006e",
+      "title": "🎙️ How I AI: ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
+      "summary": "Uma reflexão sobre o fluxo de trabalho de um especialista em IA.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-chatgpt-codex-voice-browser",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-08-03"
+    },
+    {
+      "id": "2eca4789",
+      "title": "Hire the Right Type of VP Marketing — Or You’ll Just End Up With a Bunch of Blue Pens with Your Logo On Them (Updated)",
+      "summary": "Dicas para contratar o tipo certo de vice-presidente de marketing.",
+      "url": "https://www.saastr.com/hire-the-right-type-of-vp-marketing-or-youll-end-up-with-a-bunch-of-blue-pens/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2021-03-04"
+    },
+    {
+      "id": "ac4bfb38",
+      "title": "OpenAI wants to be the underdog against Apple. That won’t be easy",
+      "summary": "A OpenAI quer ser a subestimada em relação à Apple. Isso não será fácil.",
+      "url": "https://www.fastcompany.com/91586176/openai-wants-to-be-the-underdog-against-apple-that-wont-be-easy",
+      "source": "Fast Company",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-07"
+    },
+    {
+      "id": "d24cb2a0",
+      "title": "Why Lateral Hires Rarely Become CEO",
+      "summary": "Por que os funcionários laterais raramente se tornam CEOs.",
+      "url": "/2026/08/why-lateral-hires-rarely-become-ceo",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-05"
+    },
+    {
+      "id": "cd8ca039",
+      "title": "Thinking Outside The Box: Digital Design In The AI Era",
+      "summary": "Uma reflexão sobre o design digital na era da inteligência artificial.",
+      "url": "https://smashingmagazine.com/2026/07/digital-design-ai-era/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-28"
+    },
+    {
+      "id": "a0af81ec",
+      "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
+      "summary": "Uma auditoria de um software de química quântica.",
+      "url": "https://zenodo.org/records/21359923",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-08-06"
+    },
+    {
+      "id": "fd45f209",
+      "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until tomorrow",
+      "summary": "Uma oferta de desconto para o evento da TechCrunch Disrupt 2026.",
+      "url": "https://techcrunch.com/2026/08/06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-06"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "Uma reflexão sobre a relação entre inteligência artificial, redes e turcos mecânicos.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "e1b145e6",
+      "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
+      "summary": "Uma atualização sobre a NASA e a detecção de asteroides.",
+      "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+      "source": "MIT Technology Review",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-08-05"
+    },
+    {
+      "id": "9207c702",
+      "title": "ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
+      "summary": "Uma reflexão sobre o fluxo de trabalho de um especialista em IA.",
+      "url": "https://www.lennysnewsletter.com/p/chatgpt-codex-voice-browser-sites",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-08-03"
+    },
+    {
+      "id": "adb7bc7c",
+      "title": "“Our AI Agent Rewrote Our App Without Telling Us” The Agents #12 is Here!",
+      "summary": "Uma história sobre como um agente de IA reescreveu um aplicativo sem o conhecimento dos desenvolvedores.",
+      "url": "https://www.saastr.com/our-ai-agent-rewrote-our-app-without-telling-us-the-agents-12-is-here/",
+      "source": "SaaStr",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-08-05"
+    },
+    {
+      "id": "64b48533",
+      "title": "With AI, we’re all the sorcerer’s apprentice",
+      "summary": "Uma reflexão sobre como a inteligência artificial nos torna todos os aprendizes do feiticeiro.",
+      "url": "https://www.fastcompany.com/91586289/openai-anthropic-meta-ai-hacks-hugging-face",
+      "source": "Fast Company",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-08-07"
+    },
+    {
+      "id": "6e62a0f0",
+      "title": "How Much Time Do Your Employees Spend Botsitting?",
+      "summary": "Uma reflexão sobre o tempo que os funcionários passam 'bot-sitting'.",
+      "url": "/2026/08/how-much-time-do-your-employees-spend-botsitting",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-05"
+    },
+    {
+      "id": "1c25848d",
+      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+      "summary": "Um novo dispositivo de fala inteligente da OpenAI pode custar entre $300 e $400.",
+      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 3,
+      "published_at": "2026-08-06"
+    },
+    {
+      "id": "4fc981fb",
+      "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+      "summary": "O primeiro dispositivo da OpenAI, projetado por Jony Ive, é um alto-falante inteligente.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 3,
+      "published_at": "2026-08-06"
+    }
+  ]
+}
