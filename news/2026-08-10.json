@@ -1,0 +1,317 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T10:56:41Z",
+  "total": 31,
+  "items": [
+    {
+      "id": "b85cc452",
+      "title": "AI Group Call",
+      "summary": "Um grupo de discussão de inteligência artificial",
+      "url": "https://www.producthunt.com/products/ai-group-call",
+      "source": "Product Hunt",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-08-09"
+    },
+    {
+      "id": "41b8da58",
+      "title": "AI for science needs reasoning, not just data",
+      "summary": "A inteligência artificial para ciência precisa de razão, não apenas dados",
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": "d601e041",
+      "title": "Atlassian Just Deleted Loom’s Free Creator Seats. They Were Also Loom’s Distribution.",
+      "summary": "Atlassian cancela assentos gratuitos do Loom e afeta sua distribuição",
+      "url": "https://www.saastr.com/atlassian-just-deleted-looms-free-seats-it-was-also-looms-distribution/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-08-09"
+    },
+    {
+      "id": "7d59ba69",
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "summary": "A Anthropic habilita o modo automático no Claude Code",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "source": "TechCrunch",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-08-09"
+    },
+    {
+      "id": "03ae707b",
+      "title": "Dear SaaStr: What Is A Good Demo Conversion Rate for a SaaS Startup?",
+      "summary": "Conversa sobre conversão de demo para startups de SaaS",
+      "url": "https://www.saastr.com/what-is-a-good-demo-conversion-rate-for-saas-startup/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-08-09"
+    },
+    {
+      "id": "e5e6bd61",
+      "title": "Auto mode is now the default in Claude Code",
+      "summary": "O modo automático agora é o padrão no Claude Code",
+      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "source": "Hacker News",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": "7cfc77d2",
+      "title": "Meta Muse Glimmer – open weights 30B local coding model",
+      "summary": "Um modelo de codificação local 30B para desenvolvimento de aplicativos",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "source": "Hacker News",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": "a9f5863b",
+      "title": "Ways to think about token pricing",
+      "summary": "Dicas para definir o preço de tokens",
+      "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "e5d049d9",
+      "title": "The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor",
+      "summary": "Um guia para construir equipes de alta densidade de talentos",
+      "url": "https://www.lennysnewsletter.com/p/the-playbook-for-building-high-talent",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-09"
+    },
+    {
+      "id": "135cc36d",
+      "title": "Crafting Strategy in the Age of AI",
+      "summary": "Como criar estratégias em uma era de inteligência artificial",
+      "url": "/2026/08/crafting-strategy-in-the-age-of-ai",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-07"
+    },
+    {
+      "id": "74676da9",
+      "title": "How Baseline Can Help You Ship Less JavaScript",
+      "summary": "Como reduzir a quantidade de JavaScript",
+      "url": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-08-07"
+    },
+    {
+      "id": "ac6681cf",
+      "title": "Implant – an extension to VS Code that exposes its APIs to coding agents",
+      "summary": "Uma extensão para o VS Code que expõe suas APIs",
+      "url": "https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Previsão de exposição de empregos na inteligência artificial",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "81fcc196",
+      "title": "These startups are chasing the next big thing in LLMs",
+      "summary": "Startups que buscam o próximo grande avanço nos LLMs",
+      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "source": "MIT Technology Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": "a8c49202",
+      "title": "🧠 Community Wisdom: Crafting outreach that reads as authentic, finding design partners, what counts as a moat when anyone can build, making a product vision stick, and more",
+      "summary": "Dicas para criar outreach e encontrar parceiros de design",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-crafting-outreach",
+      "source": "Lenny's Newsletter",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-08-08"
+    },
+    {
+      "id": "3ffd63b6",
+      "title": "Algorithmic Shopping Is Here. Is Your Company Ready?",
+      "summary": "A compra baseada em algoritmos está aqui. Está sua empresa pronta?",
+      "url": "/2026/08/algorithmic-shopping-is-here-is-your-company-ready",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-07"
+    },
+    {
+      "id": "e67700f7",
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "summary": "Uma sandbox para agentes de inteligência artificial",
+      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "source": "Hacker News",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "Como a OpenAI competirá?",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "f2d30229",
+      "title": "Build an AI code review bot in 30 minutes with Vercel Eve",
+      "summary": "Como criar um bot de revisão de código em 30 minutos",
+      "url": "https://www.lennysnewsletter.com/p/build-an-ai-code-review-bot-in-30",
+      "source": "Lenny's Newsletter",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-08-05"
+    },
+    {
+      "id": "257a4348",
+      "title": "The Simple Math Behind a 3x Venture Fund: Why Your Best Investment Needs to Return the Whole Thing",
+      "summary": "A matemática simples por trás de um fundo de venture 3x",
+      "url": "https://www.saastr.com/the-simple-math-behind-a-3x-venture-fund-why-your-best-investment-needs-to-return-the-whole-thing/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-08"
+    },
+    {
+      "id": "0e7c8a56",
+      "title": "Research: How Remote Work Is Narrowing Early-Career Opportunities",
+      "summary": "Pesquisa sobre como o trabalho remoto está afetando oportunidades de carreira",
+      "url": "/2026/08/research-how-remote-work-is-narrowing-early-career-opportunities",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-07"
+    },
+    {
+      "id": "84944755",
+      "title": "Agent plugins",
+      "summary": "Plugins de agentes",
+      "url": "https://agent-plugins.org/",
+      "source": "Sidebar",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": "7981e085",
+      "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
+      "summary": "O caso para design digital na era da inteligência artificial",
+      "url": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "b0214e21",
+      "title": "Prime Agent",
+      "summary": "Um agente de inteligência artificial",
+      "url": "https://www.producthunt.com/products/prime-intellect",
+      "source": "Product Hunt",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "A inteligência artificial, redes e Turcos mecânicos",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "12ea990a",
+      "title": "Backstory Retiered Its Entire Customer Base in 3 Days. The Same Exercise Used to Take Five Teams a Quarter.",
+      "summary": "Uma startup cancelou sua base de clientes em 3 dias",
+      "url": "https://www.saastr.com/backstory-retiered-its-entire-customer-base-in-3-days-the-same-exercise-used-to-take-five-teams-a-quarter/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-08"
+    },
+    {
+      "id": "ffbc349b",
+      "title": "The AI Notepad for back-to-back meetings",
+      "summary": "Um aplicativo de notas para reuniões",
+      "url": "https://bit.ly/side-gra1",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 3,
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": "15431168",
+      "title": "Portfolio Lab",
+      "summary": "Um laboratório de portfólio",
+      "url": "https://www.producthunt.com/products/portfolio-lab",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 3,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "4a9751d0",
+      "title": "SecondBrain Note by GenSpark",
+      "summary": "Um aplicativo de nota para segunda mente",
+      "url": "https://www.producthunt.com/products/genspark",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 3,
+      "published_at": "2026-08-09"
+    },
+    {
+      "id": "4ecb4911",
+      "title": "How the Women’s Pro Baseball League designed itself from the ground up",
+      "summary": "Como a Liga de Beisebol Feminino se desenhou",
+      "url": "https://www.fastcompany.com/91584987/womens-pro-baseball-league-designed-itself-from-the-ground-up",
+      "source": "Fast Company",
+      "category": "Design",
+      "relevance": 3,
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": "e28e654a",
+      "title": "What if you’re not supposed to have a long-term plan?",
+      "summary": "O que se passa se você não tiver um plano a longo prazo?",
+      "url": "https://www.lennysnewsletter.com/p/what-if-youre-not-supposed-to-have",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 3,
+      "published_at": "2026-08-04"
+    }
+  ]
+}
