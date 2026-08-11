@@ -1,0 +1,297 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T10:40:55Z",
+  "total": 29,
+  "items": [
+    {
+      "id": "5716708f",
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "summary": "A OpenAI completa oferta de ações de US$ 7 bilhões para funcionários",
+      "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-08-11"
+    },
+    {
+      "id": "c29cda7a",
+      "title": "BetterClaw",
+      "summary": "Descubra o BetterClaw, uma ferramenta inovadora",
+      "url": "https://www.producthunt.com/products/betterclaw",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-05-01"
+    },
+    {
+      "id": "a9f5863b",
+      "title": "Ways to think about token pricing",
+      "summary": "Aprenda a pensar sobre preços de tokens",
+      "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "d05bd8c1",
+      "title": "🎙️ How I AI: Build an AI code review bot in 30 minutes + Claude Code for normal people",
+      "summary": "Construa um robô de revisão de código em 30 minutos com Claude Code",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-build-an-ai-code-review",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": "bdad4149",
+      "title": "How Mailchimp Went From $1B+ ARR to … Shrinking Inside Intuit. A Death Spiral in the Age of AI?",
+      "summary": "Como o Mailchimp passou de US$ 1 bilhão de ARR a diminuir",
+      "url": "https://www.saastr.com/how-mailchimp-went-from-1b-arr-and-20-growth-to-shrinking-inside-intuit/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": "9420bf07",
+      "title": "When Every Company Has AI, What Creates Advantage?",
+      "summary": "O que cria vantagem em uma empresa com AI",
+      "url": "/sponsored/2026/08/when-every-company-has-ai-what-creates-advantage",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": "74676da9",
+      "title": "How Baseline Can Help You Ship Less JavaScript",
+      "summary": "Aprenda a reduzir o JavaScript em sua aplicação",
+      "url": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-08-07"
+    },
+    {
+      "id": "03641fe8",
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "summary": "A OpenAI lança um novo modelo de cibersegurança",
+      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": "252f8753",
+      "title": "Product Analytics for Agents and Users",
+      "summary": "Aprenda a analisar dados de produtos",
+      "url": "https://www.producthunt.com/products/kubit",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-24"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Aprenda a prever a exposição de empregos de IA",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "68b0d563",
+      "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
+      "summary": "Aprenda sobre agentes de IA para ciência",
+      "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": "49276412",
+      "title": "Claude Code for normal people: skills, voice mode, and how to collaborate with AI",
+      "summary": "Aprenda a usar Claude Code para colaborar com IA",
+      "url": "https://www.lennysnewsletter.com/p/claude-code-for-normal-people-skills",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": "ab54ee8f",
+      "title": "When You Hire Your First Sales Rep — Just Make Sure You Hire Two",
+      "summary": "Aprenda a contratar seu primeiro vendedor",
+      "url": "https://www.saastr.com/when-you-hire-your-first-sales-rep-just-make-sure-you-hire-two/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2023-10-07"
+    },
+    {
+      "id": "a84b8083",
+      "title": "What You Can Learn from a Competitor’s Job Postings",
+      "summary": "Aprenda com as postagens de emprego de um concorrente",
+      "url": "/2026/08/what-you-can-learn-from-a-competitors-job-postings",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": "93d4b0fb",
+      "title": "The Water Footprint of AI",
+      "summary": "Aprenda sobre o pé de água da AI",
+      "url": "https://doi.org/10.1016/j.watres.2026.125866",
+      "source": "Hacker News",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-08-11"
+    },
+    {
+      "id": "6e223c35",
+      "title": "Octomind Cloud and Hub",
+      "summary": "Descubra o Octomind Cloud e Hub",
+      "url": "https://www.producthunt.com/products/octomind-plug-n-play-ai-agents",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-08-02"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "Aprenda como a OpenAI vai competir",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "41b8da58",
+      "title": "AI for science needs reasoning, not just data",
+      "summary": "Aprenda sobre a razão de IA para a ciência",
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": "e5d049d9",
+      "title": "The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor",
+      "summary": "Aprenda a construir equipes de alta densidade de talentos",
+      "url": "https://www.lennysnewsletter.com/p/the-playbook-for-building-high-talent",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-08-09"
+    },
+    {
+      "id": "d601e041",
+      "title": "Atlassian Just Deleted Loom’s Free Creator Seats. They Were Also Loom’s Distribution.",
+      "summary": "A Atlassian deletou as assentos gratuitos do Loom",
+      "url": "https://www.saastr.com/atlassian-just-deleted-looms-free-seats-it-was-also-looms-distribution/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-08-09"
+    },
+    {
+      "id": "ff9d1c69",
+      "title": "What Does AI Talent Look for in an Employer?",
+      "summary": "Aprenda o que os talentos de IA procuram em um empregador",
+      "url": "/2026/08/what-does-ai-talent-look-for-in-an-employer",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": "7981e085",
+      "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
+      "summary": "Aprenda sobre o caso de design digital na era da AI",
+      "url": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": "1af597d8",
+      "title": "Now Rippling is counter-suing tiny startup Runlayer",
+      "summary": "A Rippling está processando a Runlayer",
+      "url": "https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": "532f4307",
+      "title": "Equitybee Benchmark",
+      "summary": "Descubra o Equitybee Benchmark",
+      "url": "https://www.producthunt.com/products/equitybee",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-28"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "Aprenda sobre a IA, redes e Mecânicas Turcas",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "81fcc196",
+      "title": "These startups are chasing the next big thing in LLMs",
+      "summary": "Aprenda sobre as startups que estão perseguindo a próxima grande coisa nos LLMs",
+      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": "a8c49202",
+      "title": "🧠 Community Wisdom: Crafting outreach that reads as authentic, finding design partners, what counts as a moat when anyone can build, making a product vision stick, and more",
+      "summary": "Aprenda sobre a sabedoria da comunidade, autenticidade e moat",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-crafting-outreach",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-08-08"
+    },
+    {
+      "id": "03ae707b",
+      "title": "Dear SaaStr: What Is A Good Demo Conversion Rate for a SaaS Startup?",
+      "summary": "Aprenda sobre a taxa de conversão de demo para SaaS",
+      "url": "https://www.saastr.com/what-is-a-good-demo-conversion-rate-for-saas-startup/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-08-09"
+    },
+    {
+      "id": "195b8579",
+      "title": "AI professors are negotiating the new realities of academic research",
+      "summary": "Professores de IA negociam novas realidades da pesquisa acadêmica",
+      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-08-10"
+    }
+  ]
+}
