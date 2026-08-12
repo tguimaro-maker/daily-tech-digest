@@ -1,0 +1,257 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T10:50:19Z",
+  "total": 25,
+  "items": [
+    {
+      "id": "ece88998",
+      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+      "summary": "Um repositório open-source reimplementa o Mathematica / Wolfram Language.",
+      "url": "https://woxi.ad-si.com",
+      "source": "Hacker News",
+      "category": "Open Source",
+      "relevance": 5,
+      "published_at": "2026-08-12"
+    },
+    {
+      "id": "a9f5863b",
+      "title": "Ways to think about token pricing",
+      "summary": "Dicas para definir o preço de tokens.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "1ab2f524",
+      "title": "How to make people care about your startup",
+      "summary": "Dicas para fazer as pessoas se importarem com sua startup.",
+      "url": "https://www.lennysnewsletter.com/p/how-to-make-people-care-about-your",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-08-11"
+    },
+    {
+      "id": "fb82cb1b",
+      "title": "5 Interesting Learnings from Palo Alto Networks at $11.4 Billion in Revenue: 60% ARR Growth, 120% NRR, and a $25B Acquisition That Doubled the Stock",
+      "summary": "Um artigo sobre o crescimento de uma empresa de segurança cibernética.",
+      "url": "https://www.saastr.com/5-interesting-learnings-from-palo-alto-networks-at-11-4-billion-in-revenue-60-arr-growth-120-nrr-and-a-25b-acquisition-that-doubled-the-stock/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-08-11"
+    },
+    {
+      "id": "5518a9ac",
+      "title": "Let your designs fail for the right reasons",
+      "summary": "Dicas para design de usuário.",
+      "url": "https://blog.mozilla.org/ux/2026/08/let-your-designs-fail-for-the-right-reasons/",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-08-12"
+    },
+    {
+      "id": "34b6271d",
+      "title": "Building Tactile UX: Honoring Intentional Design With Lottie",
+      "summary": "Um artigo sobre design de usuário.",
+      "url": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-08-11"
+    },
+    {
+      "id": "d05bd8c1",
+      "title": "🎙️ How I AI: Build an AI code review bot in 30 minutes + Claude Code for normal people",
+      "summary": "Um artigo sobre como criar um bot de revisão de código com inteligência artificial.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-build-an-ai-code-review",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": "64f6730f",
+      "title": "90%-95% of Salespeople Won’t Make It At Your Startup.  A 6 Part Test to Help You Get It Right.",
+      "summary": "Dicas para contratar vendedores em uma startup.",
+      "url": "https://www.saastr.com/90-95-of-salespeople-wont-make-it-at-your-startup/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2023-01-16"
+    },
+    {
+      "id": "0770d026",
+      "title": "State of AI in Design Systems",
+      "summary": "Um artigo sobre design de sistemas com inteligência artificial.",
+      "url": "https://state-of-ai-in-design-systems.netlify.app/",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-08-12"
+    },
+    {
+      "id": "74676da9",
+      "title": "How Baseline Can Help You Ship Less JavaScript",
+      "summary": "Dicas para reduzir o uso de JavaScript.",
+      "url": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-08-07"
+    },
+    {
+      "id": "49276412",
+      "title": "Claude Code for normal people: skills, voice mode, and how to collaborate with AI",
+      "summary": "Um artigo sobre como colaborar com inteligência artificial.",
+      "url": "https://www.lennysnewsletter.com/p/claude-code-for-normal-people-skills",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": "4327d107",
+      "title": "Pylon’s Founders at SaaStr AI Day: A 1,000-Person Support Team Deflected 50% of Its Tickets. Headcount Didn’t Change.",
+      "summary": "Um artigo sobre como uma empresa de suporte reduziu tickets sem aumentar a equipe.",
+      "url": "https://www.saastr.com/pylons-founders-at-saastr-ai-day-a-1000-person-support-team-deflected-50-of-its-tickets-headcount-didnt-change/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-08-11"
+    },
+    {
+      "id": "88c3b807",
+      "title": "Beautiful UI",
+      "summary": "Um artigo sobre design de usuário.",
+      "url": "https://www.beautifului.dev/",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-08-12"
+    },
+    {
+      "id": "a16e964a",
+      "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
+      "summary": "Um artigo sobre design de usuário.",
+      "url": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-07-31"
+    },
+    {
+      "id": "f5f481ef",
+      "title": "ChatGPT and Gemini both just passed 1 billion users",
+      "summary": "Dois chatbots atingiram 1 bilhão de usuários.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "source": "The Verge",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-08-11"
+    },
+    {
+      "id": "e5d049d9",
+      "title": "The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor",
+      "summary": "Um artigo sobre como construir equipes de alta densidade de talentos.",
+      "url": "https://www.lennysnewsletter.com/p/the-playbook-for-building-high-talent",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-08-09"
+    },
+    {
+      "id": "bdad4149",
+      "title": "How Mailchimp Went From $1B+ ARR to … Shrinking Inside Intuit. A Death Spiral in the Age of AI?",
+      "summary": "Um artigo sobre como a empresa Mailchimp foi comprada pela Intuit.",
+      "url": "https://www.saastr.com/how-mailchimp-went-from-1b-arr-and-20-growth-to-shrinking-inside-intuit/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": "0e49cb94",
+      "title": "The AI debate isn’t about AI. It’s about control",
+      "summary": "Um artigo sobre o debate sobre inteligência artificial.",
+      "url": "https://www.fastcompany.com/91585908/the-ai-debate-isnt-about-ai-its-about-control-technology-ai-control",
+      "source": "Fast Company",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-08-12"
+    },
+    {
+      "id": "685cf08a",
+      "title": "Tim Gowers: What sort of maths are LLMs good at?",
+      "summary": "Um artigo sobre matemática e inteligência artificial.",
+      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+      "source": "Hacker News",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-08-12"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Dicas para prever a exposição de empregos à inteligência artificial.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "Dicas para OpenAI competir.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "e2110214",
+      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+      "summary": "Um artigo sobre a próxima grande coisa na inteligência artificial.",
+      "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-08-11"
+    },
+    {
+      "id": "e6e298b6",
+      "title": "“Leadership Drift” Is Stalling Your AI Strategy",
+      "summary": "Um artigo sobre como o desvio de liderança está impedindo a estratégia de inteligência artificial.",
+      "url": "/2026/08/leadership-drift-is-stalling-your-ai-strategy",
+      "source": "Harvard Business Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-08-11"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "Um artigo sobre inteligência artificial, redes e trabalhadores mecânicos.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "195b8579",
+      "title": "AI professors are negotiating the new realities of academic research",
+      "summary": "Um artigo sobre professores de inteligência artificial negociando novas realidades da pesquisa acadêmica.",
+      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-08-10"
+    }
+  ]
+}
