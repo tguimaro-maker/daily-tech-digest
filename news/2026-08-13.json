@@ -1,0 +1,307 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T10:51:49Z",
+  "total": 30,
+  "items": [
+    {
+      "id": "953568b7",
+      "title": "Pixel 11 event live blog: Let&#8217;s watch Trevor Noah introduce Google&#8217;s new phones",
+      "summary": "O lançamento do Pixel 11 foi apresentado em um evento ao vivo, com Trevor Noah apresentando os novos telefones da Google.",
+      "url": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-08-12"
+    },
+    {
+      "id": "9fb94cce",
+      "title": "Claude users are mad that Anthropic's new watermarks will catch them using it",
+      "summary": "Os usuários do Claude estão indignados com a adição de marcas d'água pela Anthropic, que podem detectar o uso do modelo em ambientes profissionais.",
+      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "source": "Hacker News",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-08-13"
+    },
+    {
+      "id": "1925b581",
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "summary": "Os usuários do Claude estão indignados com a adição de marcas d'água pela Anthropic, que podem detectar o uso do modelo em ambientes profissionais.",
+      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "source": "TechCrunch",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-08-12"
+    },
+    {
+      "id": "a9f5863b",
+      "title": "Ways to think about token pricing",
+      "summary": "O artigo discute como pensar sobre preços de tokens em produtos digitais.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "1ab2f524",
+      "title": "How to make people care about your startup",
+      "summary": "O artigo oferece dicas para tornar seu startup mais atraente para investidores e usuários.",
+      "url": "https://www.lennysnewsletter.com/p/how-to-make-people-care-about-your",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-08-11"
+    },
+    {
+      "id": "21a1f309",
+      "title": "Beware the “Mediocre Recycled.” The Zombie Executives of B2B + AI.",
+      "summary": "O artigo alerta sobre os perigos de executivos medíocres em empresas de B2B e AI.",
+      "url": "https://www.saastr.com/beware-the-mediocre-recycled-the-zombie-executives-of-b2b-ai/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-08-12"
+    },
+    {
+      "id": "bc0f7254",
+      "title": "AI Makes Building Easy. Choosing What to Build Is Harder.",
+      "summary": "O artigo discute como a IA pode facilitar a construção de produtos digitais, mas também como escolher o que construir pode ser um desafio.",
+      "url": "/2026/08/ai-makes-building-easy-choosing-what-to-build-is-harder",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-08-12"
+    },
+    {
+      "id": "af7bd193",
+      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+      "summary": "O artigo apresenta o ChatGPT Desktop (Codex Desktop) para Linux.",
+      "url": "https://openai.com/codex/",
+      "source": "Hacker News",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-08-13"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "O artigo discute como prever a exposição de empregos à IA.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "d05bd8c1",
+      "title": "🎙️ How I AI: Build an AI code review bot in 30 minutes + Claude Code for normal people",
+      "summary": "O artigo apresenta como criar um bot de revisão de código com AI em 30 minutos.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-build-an-ai-code-review",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": "28460777",
+      "title": "A Checklist:  10 Signs You Shouldn’t Hire a Sales Rep",
+      "summary": "O artigo apresenta um checklist para avaliar se é necessário contratar um representante de vendas.",
+      "url": "https://www.saastr.com/a-checklist-10-signs-you-shouldnt-hire-a-sales-rep/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2024-03-11"
+    },
+    {
+      "id": "23efd57a",
+      "title": "Before Rolling Out a New Strategy, Assess Your Team’s Readiness",
+      "summary": "O artigo discute a importância de avaliar a prontidão do time antes de implementar uma nova estratégia.",
+      "url": "/2026/08/before-rolling-out-a-new-strategy-assess-your-teams-readiness",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-08-12"
+    },
+    {
+      "id": "41600ddf",
+      "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
+      "summary": "O artigo apresenta um robô mecânico de manutenção de satélites da Northrop.",
+      "url": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-08-12"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "O artigo discute como a OpenAI pode competir.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "49276412",
+      "title": "Claude Code for normal people: skills, voice mode, and how to collaborate with AI",
+      "summary": "O artigo apresenta como usar o Claude Code para normal pessoas.",
+      "url": "https://www.lennysnewsletter.com/p/claude-code-for-normal-people-skills",
+      "source": "Lenny's Newsletter",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": "fb82cb1b",
+      "title": "5 Interesting Learnings from Palo Alto Networks at $11.4 Billion in Revenue: 60% ARR Growth, 120% NRR, and a $25B Acquisition That Doubled the Stock",
+      "summary": "O artigo apresenta 5 lições interessantes aprendidas com a Palo Alto Networks.",
+      "url": "https://www.saastr.com/5-interesting-learnings-from-palo-alto-networks-at-11-4-billion-in-revenue-60-arr-growth-120-nrr-and-a-25b-acquisition-that-doubled-the-stock/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-08-11"
+    },
+    {
+      "id": "3ae72fb2",
+      "title": "The next frontier in AI governance isn’t stronger guardrails. It’s fire brigades",
+      "summary": "O artigo discute a importância de criar brigadas de combate a incêndios para governança de IA.",
+      "url": "https://www.fastcompany.com/91583956/the-next-frontier-in-ai-governance-isnt-stronger-guardrails-its-fire-brigades-technology-ai-safety-governance",
+      "source": "Fast Company",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-08-13"
+    },
+    {
+      "id": "760792f5",
+      "title": "Driving Change When You Lack Authority",
+      "summary": "O artigo discute como liderar mudanças sem autoridade.",
+      "url": "/2026/08/driving-change-when-you-lack-authority",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-08-11"
+    },
+    {
+      "id": "618957e6",
+      "title": "The next big indie game publisher is taking some exciting swings",
+      "summary": "O artigo apresenta uma nova editora de jogos indie.",
+      "url": "https://www.theverge.com/games/977985/kinetic-publishing-showcase-sam-barlow-precognition",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-08-12"
+    },
+    {
+      "id": "014c01eb",
+      "title": "Flutter 3.47",
+      "summary": "O artigo apresenta o Flutter 3.47.",
+      "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+      "source": "Hacker News",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-08-12"
+    },
+    {
+      "id": "9a196edf",
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "summary": "O artigo relata que a Amazon treinará conteúdo de streamers de Twitch por padrão, a menos que eles optem por sair.",
+      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-08-12"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "O artigo discute a relação entre AI, redes e trabalhadores mecânicos.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "ad2fc724",
+      "title": "Scaling AI agents with trustworthy data",
+      "summary": "O artigo discute como escalar agentes de IA com dados confiáveis.",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "source": "MIT Technology Review",
+      "category": "IA",
+      "relevance": 5,
+      "published_at": "2026-08-12"
+    },
+    {
+      "id": "e5d049d9",
+      "title": "The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor",
+      "summary": "O artigo apresenta um plano para construir equipes de alta densidade de talentos.",
+      "url": "https://www.lennysnewsletter.com/p/the-playbook-for-building-high-talent",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2026-08-09"
+    },
+    {
+      "id": "64f6730f",
+      "title": "90%-95% of Salespeople Won’t Make It At Your Startup.  A 6 Part Test to Help You Get It Right.",
+      "summary": "O artigo apresenta um teste para avaliar se os representantes de vendas são adequados para sua startup.",
+      "url": "https://www.saastr.com/90-95-of-salespeople-wont-make-it-at-your-startup/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 5,
+      "published_at": "2023-01-16"
+    },
+    {
+      "id": "3e84f61c",
+      "title": "Scrimba Explain",
+      "summary": "Scrimba Explain é uma ferramenta de aprendizado de programação que ajuda os desenvolvedores a aprender e se manter atualizados.",
+      "url": "https://www.producthunt.com/products/scrimba",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-08-04"
+    },
+    {
+      "id": "34b6271d",
+      "title": "Building Tactile UX: Honoring Intentional Design With Lottie",
+      "summary": "O artigo discute a importância de designar experiências de usuário táteis em produtos digitais.",
+      "url": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-08-11"
+    },
+    {
+      "id": "286acc43",
+      "title": "FluidDocs CLI",
+      "summary": "O artigo apresenta a FluidDocs CLI.",
+      "url": "https://www.producthunt.com/products/fluiddocs-html-deck-builder",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-08-13"
+    },
+    {
+      "id": "a3738436",
+      "title": "Kin Health",
+      "summary": "O artigo apresenta a Kin Health.",
+      "url": "https://www.producthunt.com/products/kin-health",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-08-13"
+    },
+    {
+      "id": "5a1fbebc",
+      "title": "Coarena by Coasty",
+      "summary": "O artigo apresenta a Coarena de Coasty.",
+      "url": "https://www.producthunt.com/products/coarena-by-coasty",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 4,
+      "published_at": "2026-08-05"
+    }
+  ]
+}
