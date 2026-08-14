@@ -1,0 +1,347 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T10:47:37Z",
+  "total": 34,
+  "items": [
+    {
+      "id": "1eac5831",
+      "title": "Apple trained its own AI model for China with help from Alibaba",
+      "summary": "A Apple treinou seu próprio modelo de inteligência artificial para a China com a ajuda da Alibaba.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "source": "The Verge",
+      "category": "Tech",
+      "relevance": 5,
+      "published_at": "2026-08-14"
+    },
+    {
+      "id": "32bee699",
+      "title": "Suno Studio 2.0",
+      "summary": "Suno Studio 2.0, uma ferramenta de design.",
+      "url": "https://www.producthunt.com/products/suno",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-08-13"
+    },
+    {
+      "id": "e028bb3b",
+      "title": "isolate.video",
+      "summary": "Isolate.video, uma ferramenta de design.",
+      "url": "https://www.producthunt.com/products/isolate-video",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-08-13"
+    },
+    {
+      "id": "d05bd8c1",
+      "title": "🎙️ How I AI: Build an AI code review bot in 30 minutes + Claude Code for normal people",
+      "summary": "Dicas sobre como criar um robô de revisão de código em 30 minutos.",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-build-an-ai-code-review",
+      "source": "Lenny's Newsletter",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": "8f1b06a8",
+      "title": "Liquid Gooey",
+      "summary": "Liquid Gooey, uma ferramenta de design.",
+      "url": "https://gooey.jakubantalik.com/",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-08-14"
+    },
+    {
+      "id": "34b6271d",
+      "title": "Building Tactile UX: Honoring Intentional Design With Lottie",
+      "summary": "Como criar UX tátil: honrar o design intencional com Lottie.",
+      "url": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-08-11"
+    },
+    {
+      "id": "9639c718",
+      "title": "Basedash Tasks",
+      "summary": "Basedash Tasks, uma ferramenta de design.",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-08-14"
+    },
+    {
+      "id": "49276412",
+      "title": "Claude Code for normal people: skills, voice mode, and how to collaborate with AI",
+      "summary": "Dicas sobre como colaborar com a inteligência artificial.",
+      "url": "https://www.lennysnewsletter.com/p/claude-code-for-normal-people-skills",
+      "source": "Lenny's Newsletter",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": "8773c8c6",
+      "title": "You don't have a design system",
+      "summary": "Você não tem um sistema de design.",
+      "url": "https://mattrothenberg.com/notes/you-dont-have-a-design-system/",
+      "source": "Sidebar",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-08-14"
+    },
+    {
+      "id": "74676da9",
+      "title": "How Baseline Can Help You Ship Less JavaScript",
+      "summary": "Dicas sobre como reduzir o JavaScript.",
+      "url": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
+      "source": "Smashing Magazine",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-08-07"
+    },
+    {
+      "id": "9f165996",
+      "title": "Compass Calendar",
+      "summary": "Compass Calendar, uma ferramenta de design.",
+      "url": "https://www.producthunt.com/products/compass-calendar",
+      "source": "Product Hunt",
+      "category": "Design",
+      "relevance": 5,
+      "published_at": "2026-08-13"
+    },
+    {
+      "id": "4837cd27",
+      "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
+      "summary": "Uber e Pony.ai planejam trazer 2.000 robô-taxis para a Europa.",
+      "url": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-14"
+    },
+    {
+      "id": "a9f5863b",
+      "title": "Ways to think about token pricing",
+      "summary": "Dicas sobre como pensar sobre o preço de tokens.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+      "source": "Ben Evans",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": "1ab2f524",
+      "title": "How to make people care about your startup",
+      "summary": "Dicas sobre como fazer as pessoas se importarem com sua startup.",
+      "url": "https://www.lennysnewsletter.com/p/how-to-make-people-care-about-your",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-11"
+    },
+    {
+      "id": "e3d33284",
+      "title": "Canva Cuts 2026 Growth by a Third, Jeff Dean Walks Out of Google, and Elon Builds His Own Fab: 20VC x SaaStr",
+      "summary": "Notícias sobre o crescimento de Canva, Jeff Dean saindo da Google e Elon Musk construindo sua própria fábrica.",
+      "url": "https://www.saastr.com/canva-cuts-2026-growth-by-a-third-jeff-dean-walks-out-of-google-and-elon-builds-his-own-fab-20vc-x-saastr/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-13"
+    },
+    {
+      "id": "f376489b",
+      "title": "AI is revealing the hidden flaws in the labor market",
+      "summary": "A inteligência artificial está revelando os defeitos ocultos do mercado de trabalho.",
+      "url": "https://www.fastcompany.com/91585058/ai-is-revealing-the-hidden-flaws-in-the-labor-market-technology-ai-women-workplace-inequality",
+      "source": "Fast Company",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-08-14"
+    },
+    {
+      "id": "aedf7549",
+      "title": "Why Agentic AI Could Transform Procurement",
+      "summary": "Por que a inteligência artificial agente pode transformar a aquisição de materiais.",
+      "url": "/2026/08/why-agentic-ai-could-transform-procurement",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-13"
+    },
+    {
+      "id": "62cad4f8",
+      "title": "AI is removing the middle class of software engineering",
+      "summary": "A inteligência artificial está removendo a classe média de engenharia de software.",
+      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+      "source": "Sidebar",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-08-14"
+    },
+    {
+      "id": "ba162c87",
+      "title": "New EU Guidelines For AI Labelling",
+      "summary": "Novas diretrizes da UE para rotulagem de inteligência artificial.",
+      "url": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
+      "source": "Smashing Magazine",
+      "category": "Tech",
+      "relevance": 4,
+      "published_at": "2026-08-13"
+    },
+    {
+      "id": "f25a34ab",
+      "title": "Major oil slick washes up on Iran coast after Hormuz ship strike",
+      "summary": "Investidores processam Selena Gomez por fraude relacionada à sua startup de saúde mental.",
+      "url": "https://www.bbc.com/news/articles/cr7kpdkg13zo",
+      "source": "Hacker News",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-14"
+    },
+    {
+      "id": "a3524322",
+      "title": "Predicting AI job exposure",
+      "summary": "Previsões sobre a exposição de empregos à inteligência artificial.",
+      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": "38ecaa5f",
+      "title": "B2B For Physical Products Is Crushing It: Shopify +34%, Toast +23%, Samsara +30%",
+      "summary": "Empresas de produtos físicos estão crescendo: Shopify +34%, Toast +23%, Samsara +30%.",
+      "url": "https://www.saastr.com/b2b-for-physical-products-is-crushing-it-shopify-34-toast-23/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-13"
+    },
+    {
+      "id": "bc0f7254",
+      "title": "AI Makes Building Easy. Choosing What to Build Is Harder.",
+      "summary": "A inteligência artificial está tornando fácil construir, mas difícil escolher o que construir.",
+      "url": "/2026/08/ai-makes-building-easy-choosing-what-to-build-is-harder",
+      "source": "Harvard Business Review",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-08-12"
+    },
+    {
+      "id": "3af6dcb2",
+      "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+      "summary": "Flock diz que sua nova ferramenta ajudará a identificar abusos policiais, mas não explicou como funciona.",
+      "url": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-13"
+    },
+    {
+      "id": "d7be0f04",
+      "title": "How will OpenAI compete?",
+      "summary": "Como a OpenAI competirá?",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": "da80c2ca",
+      "title": "Dear SaaStr: At What ACV Size Do I Need an Account Manager in B2B?",
+      "summary": "Perguntas sobre quando é necessário um gerente de conta em B2B.",
+      "url": "https://www.saastr.com/dear-saastr-at-what-acv-size-do-i-need-an-account-manager-in-b2b/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-13"
+    },
+    {
+      "id": "23efd57a",
+      "title": "Before Rolling Out a New Strategy, Assess Your Team’s Readiness",
+      "summary": "Dicas sobre como avaliar a equipe antes de implementar uma nova estratégia.",
+      "url": "/2026/08/before-rolling-out-a-new-strategy-assess-your-teams-readiness",
+      "source": "Harvard Business Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-12"
+    },
+    {
+      "id": "ae6a65ef",
+      "title": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
+      "summary": "Apple e Epic discutem sobre quanto Apple deve receber das compras feitas fora da loja de aplicativos.",
+      "url": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
+      "source": "The Verge",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-13"
+    },
+    {
+      "id": "aaa43b09",
+      "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
+      "summary": "Se você receber uma notificação de Apple sobre um ataque de spyware, é importante que você a leve a sério.",
+      "url": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
+      "source": "TechCrunch",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-13"
+    },
+    {
+      "id": "6ee71ea3",
+      "title": "AI, networks and Mechanical Turks",
+      "summary": "A inteligência artificial, redes e Turcos mecânicos.",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "source": "Ben Evans",
+      "category": "IA",
+      "relevance": 4,
+      "published_at": "2025-11-23"
+    },
+    {
+      "id": "3040453b",
+      "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
+      "summary": "Rodadas de discussão: dentro do complexo industrial de censura que está moldando a política dos EUA.",
+      "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+      "source": "MIT Technology Review",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-13"
+    },
+    {
+      "id": "658dae70",
+      "title": "The playbook for building high-talent-density teams | Adam Ward, Head of Talent at Cursor",
+      "summary": "O playbook para construir equipes de alta densidade de talentos.",
+      "url": "https://www.lennysnewsletter.com/p/the-playbook-for-building-high-talent",
+      "source": "Lenny's Newsletter",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-09"
+    },
+    {
+      "id": "21a1f309",
+      "title": "Beware the “Mediocre Recycled.” The Zombie Executives of B2B + AI.",
+      "summary": "Aviso sobre os \"Executivos Reciclados\".",
+      "url": "https://www.saastr.com/beware-the-mediocre-recycled-the-zombie-executives-of-b2b-ai/",
+      "source": "SaaStr",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-12"
+    },
+    {
+      "id": "df5069d5",
+      "title": "At Black Hat, AI is helping security pros find threats—and creating new ones",
+      "summary": "A inteligência artificial está ajudando os profissionais de segurança a encontrar ameaças e criar novas.",
+      "url": "https://www.fastcompany.com/91590086/at-black-hat-ai-is-helping-security-pros-find-threats-and-creating-new-ones",
+      "source": "Fast Company",
+      "category": "Negócios",
+      "relevance": 4,
+      "published_at": "2026-08-14"
+    }
+  ]
+}
